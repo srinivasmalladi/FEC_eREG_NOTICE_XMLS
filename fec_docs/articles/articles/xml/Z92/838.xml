@@ -1,0 +1,23 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 100, 104 and 110</CFR>
+        <DEPDOC>[Notice 2009-03]</DEPDOC>
+        <SUBJECT>Reporting Contributions Bundled by Lobbyists, Registrants and the PACs of Lobbyists and Registrants</SUBJECT>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HD2">Correction</HD>
+        <P>In rule document E9-2838 beginning on page 7285 in the issue of Tuesday, February 17, 2009 make the following correction:</P>
+        <P>On page 7288, in the third column, in the first paragraph, in the second line,</P>
+        <EXTRACT>
+          <P>&#x201C;are given, they must d&#x201D;</P>
+        </EXTRACT>
+        <P>should read</P>
+        <EXTRACT>
+          <P>&#x201C;are given, they must disclose applicable contributions of the PAC on their semi-annual reports.&#x201D;.</P>
+        </EXTRACT>
+        
+      </SUPLINF>
+      <FRDOC>[FR Doc. Z9-2838 Filed 3-11-09; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 1505-01-D</BILCOD>
+    </RULE>

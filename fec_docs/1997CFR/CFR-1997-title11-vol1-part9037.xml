@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>PAYMENTS AND REPORTING</TITLE>
+    <GRANULENUM>9037</GRANULENUM>
+    <HEADING>PART 9037</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER F" SEQ="0">PRESIDENTIAL ELECTION CAMPAIGN FUND: PRESIDENTIAL PRIMARY MATCHING FUND</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 9037—PAYMENTS AND REPORTING</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>9037.1</SECTNO>
+      <SUBJECT>Payments of Presidential primary matching funds.</SUBJECT>
+      <SECTNO>9037.2</SECTNO>
+      <SUBJECT>Equitable distribution of funds.</SUBJECT>
+      <SECTNO>9037.3</SECTNO>
+      <SUBJECT>Deposits of Presidential primary matching funds.</SUBJECT>
+      <SECTNO>9037.4</SECTNO>
+      <SUBJECT>Alphabetized schedules.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>26 U.S.C. 9037 and 9039(b).</P>
+    </AUTH>
+    <SECTION>
+      <SECTNO>§ 9037.1</SECTNO>
+      <SUBJECT>Payments of Presidential primary matching funds.</SUBJECT>
+      <P>Upon receipt of a written certification from the Commission, but not before the beginning of the matching payment period, the Secretary will promptly transfer the amount certified from the matching payment account to the candidate. A matching fund certification may not result in full payment by the Secretary in the case of a shortfall in the matching payment account. See 26 CFR 702.9037-1 and 702.9037-2.</P>
+      <CITA>[56 FR 34134, July 25, 1991]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9037.2</SECTNO>
+      <SUBJECT>Equitable distribution of funds.</SUBJECT>
+      <P>In making such transfers to candidates of the same political party, the Secretary will seek to achieve an equitable distribution of funds available in the matching payment account, and the Secretary will take into account, in seeking to achieve an equitable distribution of funds available in the matching payment account, the sequence in which such certifications are received. See 26 CFR 702.9037-2(c) regarding partial payments to candidates in the case of a shortfall in the matching payment account.</P>
+      <CITA>[56 FR 34134, July 25, 1991]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9037.3</SECTNO>
+      <SUBJECT>Deposits of Presidential primary matching funds.</SUBJECT>
+      <P>Upon receipt of any matching funds, the candidate shall deposit the full amount received into a checking account maintained by the candidate's principal campaign committee in the depository designated by the candidate. The account(s) shall be maintained at a State bank, federally chartered depository institution or other depository institution, the deposits of which are insured by the Federal Deposit Insurance Corporation.</P>
+      <CITA>[56 FR 35944, July 29, 1991]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9037.4</SECTNO>
+      <SUBJECT>Alphabetized schedules.</SUBJECT>
+      <P>If the authorized committee(s) of a candidate file a schedule of itemized receipts, disbursements, or debts and obligations pursuant to 11 CFR 104.3 that was generated directly or indirectly from computerized files or records, the schedule shall list in alphabetical order the sources of the receipts, the payees or the creditors, as appropriate. In the case of individuals, such schedule shall list all contributors, payees, and creditors in alphabetical order by surname.</P>
+      <CITA>[60 FR 31885, June 16, 1995]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

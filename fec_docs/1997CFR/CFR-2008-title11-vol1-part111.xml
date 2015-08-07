@@ -1,0 +1,856 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2008-01-01</DATE>
+    <ORIGINALDATE>2008-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>COMPLIANCE PROCEDURE (2 U.S.C. 437g, 437d(a))</TITLE>
+    <GRANULENUM>111</GRANULENUM>
+    <HEADING>PART 111</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 11" SEQ="2">Federal Elections</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">FEDERAL ELECTION COMMISSION</PARENT>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 111</EAR>
+    <HD SOURCE="HED">PART 111—COMPLIANCE PROCEDURE (2 U.S.C. 437g, 437d(a))</HD>
+    <CONTENTS>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—Enforcement</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>111.1</SECTNO>
+        <SUBJECT>Scope (2 U.S.C. 437g).</SUBJECT>
+        <SECTNO>111.2</SECTNO>
+        <SUBJECT>Computation of time.</SUBJECT>
+        <SECTNO>111.3</SECTNO>
+        <SUBJECT>Initiation of compliance matters (2 U.S.C. 437g(a)(1), (2)).</SUBJECT>
+        <SECTNO>111.4</SECTNO>
+        <SUBJECT>Complaints (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <SECTNO>111.5</SECTNO>
+        <SUBJECT>Initial complaint processing; notification (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <SECTNO>111.6</SECTNO>
+        <SUBJECT>Opportunity to demonstrate that no action should be taken on complaint-generated matters (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <SECTNO>111.7</SECTNO>
+        <SUBJECT>General Counsel's recommendation on complaint-generated matters (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <SECTNO>111.8</SECTNO>
+        <SUBJECT>Internally generated matters; referrals (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <SECTNO>111.9</SECTNO>
+        <SUBJECT>The reason to believe finding; notification (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <SECTNO>111.10</SECTNO>
+        <SUBJECT>Investigation (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <SECTNO>111.11</SECTNO>
+        <SUBJECT>Written questions under order (2 U.S.C. 437d(a)(1)).</SUBJECT>
+        <SECTNO>111.12</SECTNO>
+        <SUBJECT>Subpoenas and subpoenas duces tecum; depositions (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <SECTNO>111.13</SECTNO>
+        <SUBJECT>Service of subpoenas, orders and notifications (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <SECTNO>111.14</SECTNO>
+        <SUBJECT>Witness fees and mileage (2 U.S.C. 437d(a)(5)).</SUBJECT>
+        <SECTNO>111.15</SECTNO>
+        <SUBJECT>Motions to quash or modify a subpoena (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <SECTNO>111.16</SECTNO>
+        <SUBJECT>The probable cause to believe recommendation; briefing procedures (2 U.S.C. 437g(a)(3)).</SUBJECT>
+        <SECTNO>111.17</SECTNO>
+        <SUBJECT>The probable cause to believe finding; notification (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <SECTNO>111.18</SECTNO>
+        <SUBJECT>Conciliation (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <SECTNO>111.19</SECTNO>
+        <SUBJECT>Civil proceedings (2 U.S.C. 437g(a)(6)).</SUBJECT>
+        <SECTNO>111.20</SECTNO>
+        <SUBJECT>Public disclosure of Commission action (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <SECTNO>111.21</SECTNO>
+        <SUBJECT>Confidentiality (2 U.S.C. 437g(a)(12)).</SUBJECT>
+        <SECTNO>111.22</SECTNO>
+        <SUBJECT>Ex parte communications.</SUBJECT>
+        <SECTNO>111.23</SECTNO>
+        <SUBJECT>Representation by counsel; notification.</SUBJECT>
+        <SECTNO>111.24</SECTNO>
+        <SUBJECT>Civil Penalties (2 U.S.C. 437g(a) (5), (6), (12), 28 U.S.C. 2461 nt.).</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart B—Administrative Fines</HD>
+        <SECTNO>111.30</SECTNO>
+        <SUBJECT>When will subpart B apply?</SUBJECT>
+        <SECTNO>111.31</SECTNO>
+        <SUBJECT>Does this subpart replace subpart A of this part for violations of the reporting requirements of 2 U.S.C. 434(a)?</SUBJECT>
+        <SECTNO>111.32</SECTNO>
+        <SUBJECT>How will the Commission notify respondents of a reason to believe finding and a proposed civil money penalty?</SUBJECT>
+        <SECTNO>111.33</SECTNO>
+        <SUBJECT>What are the respondent's choices upon receiving the reason to believe finding and the proposed civil money penalty?</SUBJECT>
+        <SECTNO>111.34</SECTNO>
+        <SUBJECT>If the respondent decides to pay the civil money penalty and not to challenge the reason to believe finding, what should the respondent do?</SUBJECT>
+        <SECTNO>111.35</SECTNO>
+        <SUBJECT>If the respondent decides to challenge the alleged violation or proposed civil money penalty, what should the respondent do?</SUBJECT>
+        <SECTNO>111.36</SECTNO>
+        <SUBJECT>Who will review the respondent's written response?</SUBJECT>
+        <SECTNO>111.37</SECTNO>
+        <SUBJECT>What will the Commission do once it receives the respondent's written response and the reviewing officer's recommendation?</SUBJECT>
+        <SECTNO>111.38</SECTNO>
+        <SUBJECT>Can the respondent appeal the Commission's final determination?</SUBJECT>
+        <SECTNO>111.39</SECTNO>
+        <SUBJECT>When must the respondent pay the civil money penalty?</SUBJECT>
+        <SECTNO>111.40</SECTNO>
+        <SUBJECT>What happens if the respondent does not pay the civil money penalty pursuant to 11 CFR 111.34 and does not submit a written response to the reason to believe finding pursuant to 11 CFR 111.35?</SUBJECT>
+        <SECTNO>111.41</SECTNO>
+        <SUBJECT>To whom should the civil money penalty payment be made payable?</SUBJECT>
+        <SECTNO>111.42</SECTNO>
+        <SUBJECT>Will the enforcement file be made available to the public?</SUBJECT>
+        <SECTNO>111.43</SECTNO>
+        <SUBJECT>What are the schedules of penalties?<PRTPAGE P="189"/>
+        </SUBJECT>
+        <SECTNO>111.44</SECTNO>
+        <SUBJECT>What is the schedule of penalties for 48-hour notices that are not filed or are filed late?</SUBJECT>
+        <SECTNO>111.45</SECTNO>
+        <SUBJECT>What actions will be taken to collect unpaid civil money penalties?</SUBJECT>
+        <SECTNO>111.46</SECTNO>
+        <SUBJECT>How will the respondent be notified of actions taken by the Commission and the reviewing officer?</SUBJECT>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>2 U.S.C. 432(i), 437g, 437d(a), 438(a)(8); 28 U.S.C. 2461 nt.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>45 FR 15120, Mar. 7, 1980, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—Enforcement</HD>
+      <SECTION>
+        <SECTNO>§ 111.1</SECTNO>
+        <SUBJECT>Scope (2 U.S.C. 437g).</SUBJECT>
+
+        <P>These regulations provide procedures for processing possible violations of the Federal Election Campaign Act of 1971, as amended (2 U.S.C. 431, <E T="03">et seq.</E>) and chapters 95 and 96 of the Internal Revenue Code of 1954 (26 U.S.C. 9001, <E T="03">et seq.</E> and 9031 <E T="03">et seq.</E>).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.2</SECTNO>
+        <SUBJECT>Computation of time.</SUBJECT>
+        <P>(a) <E T="03">General rule.</E> In computing any period of time prescribed or allowed by this part, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a legal holiday. As used in this section, the term <E T="03">legal holiday</E> includes New Year's Day, President's Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, Christmas Day, and any other day appointed as a holiday for employees of the United States by the President or the Congress of the United States.</P>
+        <P>(b) <E T="03">Special rule for periods less than seven days.</E> When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays, and legal holidays shall be excluded in the computation.</P>
+        <P>(c) <E T="03">Special rule for service by mail.</E> Whenever the Commission or any person has the right or is required to do some act within a prescribed period after the service of any paper by or upon the Commission or such person and the paper is served by or upon the Commission or such person by mail, three (3) days shall be added to the prescribed period.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.3</SECTNO>
+        <SUBJECT>Initiation of compliance matters (2 U.S.C. 437g(a)(1), (2)).</SUBJECT>
+        <P>(a) Compliance matters may be initiated by a complaint or on the basis of information ascertained by the Commission in the normal course of carrying out its supervisory responsibilities.</P>
+        <P>(b) Matters initiated by complaint are subject to the provisions of 11 CFR 111.4 through 111.7. Matters initiated on the basis of information ascertained by the Commission in the normal course of carrying out its supervisory responsibilities are subject to the provisions of 11 CFR 111.8. All compliance matters are subject to the provisions of 11 CFR 111.2 and 111.9 through 111.23.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.4</SECTNO>
+        <SUBJECT>Complaints (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <P>(a) Any person who believes that a violation of any statute or regulation over which the Commission has jurisdiction has occurred or is about to occur may file a complaint in writing to the General Counsel, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. If possible, three (3) copies should be submitted.</P>
+        <P>(b) A complaint shall comply with the following:</P>
+        <P>(1) It shall provide the full name and address of the complainant; and</P>
+        <P>(2) The contents of the complaint shall be sworn to and signed in the presence of a notary public and shall be notarized.</P>
+        <P>(c) All statements made in a complaint are subject to the statutes governing perjury and to 18 U.S.C. 1001. The complaint should differentiate between statements based upon personal knowledge and statements based upon information and belief.</P>
+        <P>(d) The complaint should conform to the following provisions:</P>
+        <P>(1) It should clearly identify as a respondent each person or entity who is alleged to have committed a violation;</P>
+
+        <P>(2) Statements which are not based upon personal knowledge should be accompanied by an identification of the source of information which gives rise to the complainants belief in the truth of such statements;<PRTPAGE P="190"/>
+        </P>
+        <P>(3) It should contain a clear and concise recitation of the facts which describe a violation of a statute or regulation over which the Commission has jurisdiction; and</P>
+        <P>(4) It should be accompanied by any documentation supporting the facts alleged if such documentation is known of, or available to, the complainant.</P>
+        <CITA>[45 FR 15120, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.5</SECTNO>
+        <SUBJECT>Initial complaint processing; notification (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <P>(a) Upon receipt of a complaint, the General Counsel shall review the complaint for substantial compliance with the technical requirements of 11 CFR 111.4, and, if it complies with those requirements shall within five (5) days after receipt notify each respondent that the complaint has been filed, advise them of Commission compliance procedures, and enclose a copy of the complaint.</P>
+        <P>(b) If a complaint does not comply with the requirements of 11 CFR 111.4, the General Counsel shall so notify the complainant and any person(s) or entity(ies) identified therein as respondent(s), within the five (5) day period specified in 11 CFR 111.5(a), that no action shall be taken on the basis of that complaint. A copy of the complaint shall be enclosed with the notification to each respondent.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.6</SECTNO>
+        <SUBJECT>Opportunity to demonstrate that no action should be taken on complaint-generated matters (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <P>(a) A respondent shall be afforded an opportunity to demonstrate that no action should be taken on the basis of a complaint by submitting, within fifteen (15) days from receipt of a copy of the complaint, a letter or memorandum setting forth reasons why the Commission should take no action.</P>
+        <P>(b) The Commission shall not take any action, or make any finding, against a respondent other than action dismissing the complaint, unless it has considered such response or unless no such response has been served upon the Commission within the fifteen (15) day period specified in 11 CFR 111.6(a).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.7</SECTNO>
+        <SUBJECT>General Counsel's recommendation on complaint-generated matters (2 U.S.C. 437g(a)(1)).</SUBJECT>
+        <P>(a) Following either the expiration of the fifteen (15) day period specified by 11 CFR 111.6(a) or the receipt of a response as specified by 11 CFR 111.6(a), whichever occurs first, the General Counsel may recommend to the Commission whether or not it should find reason to believe that a respondent has committed or is about to commit a violation of statutes or regulations over which the Commission has jurisdiction.</P>
+        <P>(b) The General Counsel may recommend that the Commission find that there is no reason to believe that a violation has been committed or is about to be committed, or that the Commission otherwise dismiss a complaint without regard to the provisions of 11 CFR 111.6(a).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.8</SECTNO>
+        <SUBJECT>Internally generated matters; referrals (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <P>(a) On the basis of information ascertained by the Commission in the normal course of carrying out its supervisory responsibilities, or on the basis of a referral from an agency of the United States or of any state, the General Counsel may recommend in writing that the Commission find reason to believe that a person or entity has committed or is about to commit a violation of statutes or regulations over which the Commission has jurisdiction.</P>
+        <P>(b) If the Commission finds reason to believe that a violation has occurred or is about to occur the notification to respondent required by 11 CFR 111.9(a) shall include a copy of a staff report setting forth the legal basis and the alleged facts which support the Commission's action.</P>
+
+        <P>(c) Prior to taking any action pursuant to this section against any person who has failed to file a disclosure report required by 11 CFR 104.5(a)(1)(iii) for the calendar quarter immediately preceding the election involved or by § 104.5(a)(1)(i), the Commission shall notify such person of failure to file the required reports. If a satisfactory response is not received within four (4) business days, the Commission shall publish before the election the name of <PRTPAGE P="191"/>the person and the report or reports such person has failed to file.</P>
+        <P>(d) Notwithstanding §§ 111.9 through 111.19, for violations of 2 U.S.C. 434(a), the Commission, when appropriate, may review internally generated matters under subpart B of this part.</P>
+        <CITA>[45 FR 15120, Mar. 7, 1980, as amended at 45 FR 21210, Apr. 1, 1980; 65 FR 31794, May 19, 2000]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.9</SECTNO>
+        <SUBJECT>The reason to believe finding; notification (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <P>(a) If the Commission, either after reviewing a complaint-generated recommendation as described in 11 CFR 111.7 and any response of a respondent submitted pursuant to 11 CFR 111.6, or after reviewing an internally-generated recommendation as described in 11 CFR 111.8, determines by an affirmative vote of four (4) of its members that it has reason to believe that a respondent has violated a statute or regulation over which the Commission has jurisdiction, its Chairman or Vice Chairman shall notify such respondent of the Commission's finding by letter, setting forth the sections of the statute or regulations alleged to have been violated and the alleged factual basis supporting the finding.</P>
+        <P>(b) If the Commission finds no reason to believe, or otherwise terminates its proceedings, the General Counsel shall so advise both complainant and respondent by letter.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.10</SECTNO>
+        <SUBJECT>Investigation (2 U.S.C. 437g(a)(2)).</SUBJECT>
+        <P>(a) An investigation shall be conducted in any case in which the Commission finds reason to believe that a violation of a statute or regulation over which the Commission has jurisdiction has occurred or is about to occur.</P>
+        <P>(b) In its investigation, the Commission may utilize the provisions of 11 CFR 111.11 through 111.15. The investigation may include, but is not limited to, field investigations, audits, and other methods of information-gathering.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.11</SECTNO>
+        <SUBJECT>Written questions under order (2 U.S.C. 437d(a)(1)).</SUBJECT>
+        <P>The Commission may authorize its Chairman or Vice Chairman to issue an order requiring any person to submit sworn written answers to written questions and may specify a date by which such answers must be submitted.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.12</SECTNO>
+        <SUBJECT>Subpoenas and subpoenas duces tecum; depositions (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <P>(a) The Commission may authorize its Chairman or Vice Chairman to issue subpoenas requiring the attendance and testimony of any person by deposition and to issue subpoenas duces tecum for the production of documentary or other tangible evidence in connection with a deposition or otherwise.</P>
+        <P>(b) If oral testimony is ordered to be taken by deposition or documents are ordered to be produced, the subpoena shall so state and shall advise the deponent or person subpoenaed that all testimony will be under oath. A deposition may be taken before any person having the power to administer oaths.</P>
+        <P>(c) The Federal Rules of Civil Procedure, Rule 30(e), shall govern the opportunity to review and sign depositions taken pursuant to this section.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.13</SECTNO>
+        <SUBJECT>Service of subpoenas, orders and notifications (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <P>(a) Service of a subpoena, order or notification upon a person named therein shall be made by delivering a copy to that person in the manner described by 11 CFR 111.13 (b), (c), and (d). In the case of subpoenas, fees for one day's attendance and mileage shall be tendered as specified in 11 CFR 111.14.</P>
+        <P>(b) Whenever service is to be made upon a person who has advised the Commission of representation by an attorney pursuant to 11 CFR 111.23, the service shall be made upon the attorney by any of the methods specified in 11 CFR 111.13(c).</P>
+
+        <P>(c) Delivery of subpoenas, orders and notifications to a natural person may be made by handing a copy to the person, or leaving a copy at his or her office with the person in charge thereof, by leaving a copy at his or her dwelling place or usual place of abode with some person of suitable age and discretion residing therein, or by mailing a copy by registered or certified mail to his or her last known address, or by any other method whereby actual notice is given.<PRTPAGE P="192"/>
+        </P>
+        <P>(d) When the person to be served is not a natural person delivery of subpoenas, orders and notifications may be made by mailing a copy by registered or certified mail to the person at its place of business or by handing a copy to a registered agent for service, or to any officer, director, or agent in charge of any office of such person, or by mailing a copy by registered or certified mail to such representative at his or her last known address, or by any other method whereby actual notice is given.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.14</SECTNO>
+        <SUBJECT>Witness fees and mileage (2 U.S.C. 437d(a)(5)).</SUBJECT>
+        <P>Witnesses subpoenaed to appear for depositions shall be paid the same fees and mileage as witnesses in the courts of the United States. Such fees may be tendered at the time the witness appears for such deposition, or within a reasonable time thereafter.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.15</SECTNO>
+        <SUBJECT>Motions to quash or modify a subpoena (2 U.S.C. 437d(a) (3), (4)).</SUBJECT>
+        <P>(a) Any person to whom a subpoena is directed may, prior to the time specified therein for compliance, but in no event more than 5 days after the date of receipt of such subpoena, apply to the Commission to quash or modify such subpoena, accompanying such application with a brief statement of the reasons therefor. Motions to quash shall be filed with the General Counsel, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. If possible, three (3) copies should be submitted.</P>
+        <P>(b) The Commission may deny the application or quash the subpoena or modify the subpoena.</P>
+        <P>(c) The person subpoenaed and the General Counsel may agree to change the date, time, or place of a deposition or for the production of documents without affecting the force and effect of the subpoena, but such agreements shall be confirmed in writing.</P>
+        <CITA>[45 FR 15120, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.16</SECTNO>
+        <SUBJECT>The probable cause to believe recommendation; briefing procedures (2 U.S.C. 437g(a)(3)).</SUBJECT>
+        <P>(a) Upon completion of the investigation, the General Counsel shall prepare a brief setting forth his or her position on the factual and legal issues of the case and containing a recommendation on whether or not the Commission should find probable cause to believe that a violation has occurred or is about to occur.</P>
+        <P>(b) The General Counsel shall notify each respondent of the recommendation and enclose a copy of his or her brief.</P>
+        <P>(c) Within fifteen (15) days from receipt of the General Counsel's brief, respondent may file a brief with the Commission Secretary, Federal Election Commission, 999 E Street, NW., Washington, DC 20463, setting forth respondent's position on the factual and legal issues of the case. If possible, ten (10) copies of such brief should be filed with the Commission Secretary and three (3) copies should be submitted to the General Counsel, Federal Election Commission, 999 E Street, NW., Washington, DC 20463.</P>
+        <P>(d) After reviewing the respondent's brief, the General Counsel shall advise the Commission in writing whether he or she intends to proceed with the recommendation or to withdraw the recommendation from Commission consideration.</P>
+        <CITA>[45 FR 15120, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.17</SECTNO>
+        <SUBJECT>The probable cause to believe finding; notification (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <P>(a) If the Commission, after having found reason to believe and after following the procedures set forth in 11 CFR 111.16, determines by an affirmative vote of four (4) of its members that there is probable cause to believe that a respondent has violated a statute or regulation over which the Commission has jurisdiction, the Commission shall authorize the General Counsel to so notify the respondent by letter.</P>
+        <P>(b) If the Commission finds no probable cause to believe or otherwise orders a termination of Commission proceedings, it shall authorize the General Counsel to so notify both respondent and complainant by letter.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="193"/>
+        <SECTNO>§ 111.18</SECTNO>
+        <SUBJECT>Conciliation (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <P>(a) Upon a Commission finding of probable cause to believe, the Office of General Counsel shall attempt to correct or prevent the violation by informal methods of conference conciliation and persuasion, and shall attempt to reach a tentative conciliation agreement with the respondent.</P>
+        <P>(b) A conciliation agreement is not binding upon either party unless and until it is signed by the respondent and by the General Counsel upon approval by the affirmative vote of four (4) members of the Commission.</P>
+        <P>(c) If the probable cause to believe finding is made within forty-five days prior to any election, such conciliation attempt shall continue for at least fifteen (15) days from the date of such finding. In all other cases such attempts by the Commission shall continue for at least thirty (30) days, not to exceed ninety (90) days.</P>
+        <P>(d) Nothing in these regulations shall be construed to prevent the Commission from entering into a conciliation agreement with a respondent prior to a Commission finding of probable cause if a respondent indicates by letter to the General Counsel a desire to enter into negotiations directed towards reaching such a conciliation agreement. However, the Commission is not required to enter into any negotiations directed towards reaching a conciliation agreement unless and until it makes a finding of probable cause to believe. Any conciliation agreement reached under this subsection is subject to the provisions of subsection (b) of this section and shall have the same force and effect as a conciliation agreement reached after a Commission finding of probable cause to believe.</P>
+        <P>(e) If a conciliation agreement is reached between the Commission and the respondent, the General Counsel shall send a copy of the signed agreement to both complainant and respondent.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.19</SECTNO>
+        <SUBJECT>Civil proceedings (2 U.S.C. 437g(a)(6)).</SUBJECT>
+        <P>(a) If no conciliation agreement is finalized within the applicable minimum period specified by 11 CFR 111.18(c) the General Counsel may recommend to the Commission that the Commission authorize a civil action for relief in an appropriate court of the United States.</P>
+        <P>(b) Upon recommendation of the General Counsel, the Commission may, by an affirmative vote of four (4) of its members, authorize the General Counsel to commence a civil action for relief in an appropriate court of the United States.</P>
+        <P>(c) The provisions of 11 CFR 111.18(c) shall not preclude the Commission upon request of a respondent, from entering into a conciliation agreement even after a recommendation to file a civil action has been made pursuant to this section. Any conciliation agreement reached under this subsection is subject to the provisions of 11 CFR 111.18(b) and shall have the same force and effect as a conciliation agreement reached under 11 CFR 111.18(c).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.20</SECTNO>
+        <SUBJECT>Public disclosure of Commission action (2 U.S.C. 437g(a)(4)).</SUBJECT>
+        <P>(a) If the Commission makes a finding of no reason to believe or no probable cause to believe or otherwise terminates its proceedings, it shall make public such action and the basis therefor no later than thirty (30) days from the date on which the required notifications are sent to complainant and respondent.</P>
+        <P>(b) If a conciliation agreement is finalized, the Commission shall make public such conciliation agreement forthwith.</P>
+        <P>(c) For any compliance matter in which a civil action is commenced, the Commission will make public the non-exempt 2 U.S.C. 437g investigatory materials in the enforcement and litigation files no later than thirty (30) days from the date on which the Commission sends the complainant and the respondent(s) the required notification of the final disposition of the civil action. The final disposition may consist of a judicial decision which is not reviewed by a higher court.</P>
+        <CITA>[45 FR 15120, Mar. 7, 1980, as amended at 65 FR 31794, May 19, 2000]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.21</SECTNO>
+        <SUBJECT>Confidentiality (2 U.S.C. 437g(a)(12)).</SUBJECT>
+
+        <P>(a) Except as provided in 11 CFR 111.20, no complaint filed with the Commission, nor any notification sent <PRTPAGE P="194"/>by the Commission, nor any investigation conducted by the Commission, nor any findings made by the Commission shall be made public by the Commission or by any person or entity without the written consent of the respondent with respect to whom the complaint was filed, the notification sent, the investigation conducted, or the finding made.</P>
+        <P>(b) Except as provided in 11 CFR 111.20(b), no action by the Commission or by any person, and no information derived in connection with conciliation efforts pursuant to 11 CFR 111.18, may be made public by the Commission except upon a written request by respondent and approval thereof by the Commission.</P>
+        <P>(c) Nothing in these regulations shall be construed to prevent the introduction of evidence in the courts of the United States which could properly be introduced pursuant to the Federal Rules of Evidence or Federal Rules of Civil Procedure.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.22</SECTNO>
+        <SUBJECT>Ex parte communications.</SUBJECT>
+        <P>(a) In order to avoid the possibility of prejudice, real or apparent, to the public interest in enforcement actions pending before the Commission pursuant to 11 CFR part 111, except to the extent required for the disposition of ex parte matters as required by law (for example, during the normal course of an investigation or a conciliation effort), no interested person outside the agency shall make or cause to be made to any Commissioner or any member of any Commissioner's staff any ex parte communication relative to the factual or legal merits of any enforcement action, nor shall any Commissioner or member of any Commissioner's staff make or entertain any such ex parte communications.</P>
+        <P>(b) The prohibition of this regulation shall apply from the time a complaint is filed with the Commission pursuant to 11 CFR part 111 or from the time that the Commission determines on the basis of information ascertained in the normal course of its supervisory responsibilities that it has reason to believe that a violation has occurred or may occur pursuant to 11 CFR part 111, and remains in force until the Commission has finally concluded all action with respect to the enforcement matter in question.</P>
+        <P>(c) Nothing in this section shall be construed to prohibit contact between a respondent or respondent's attorney and any attorney or staff member of the Office of General Counsel in the course of representing the Commission or the respondent with respect to an enforcement proceeding or civil action. No statement made by such a Commission attorney or staff member during any such communication shall bind or estop the Commission in any way.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.23</SECTNO>
+        <SUBJECT>Representation by counsel; notification.</SUBJECT>
+        <P>(a) If a respondent wishes to be represented by counsel with regard to any matter pending before the Commission, respondent shall so advise the Commission by sending a letter of representation signed by the respondent, which letter shall state the following:</P>
+        <P>(1) The name, address, and telephone number of the counsel;</P>
+        <P>(2) A statement authorizing such counsel to receive any and all notifications and other communications from the Commission on behalf of respondent.</P>
+        <P>(b) Upon receipt of a letter of representation, the Commission shall have no contact with respondent except through the designated counsel unless authorized in writing by respondent.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.24</SECTNO>
+        <SUBJECT>Civil Penalties (2 U.S.C. 437g(a) (5), (6), (12), 28 U.S.C. 2461 nt.).</SUBJECT>
+        <P>(a) Except as provided in 11 CFR part 111, subpart B and in paragraph (b) of this section, a civil penalty negotiated by the Commission or imposed by a court for a violation of the Act or chapters 95 or 96 of title 26 (26 U.S.C.) shall be as follows:</P>
+        <P>(1) Except as provided in paragraph (a)(2) of this section, in the case of a violation of the Act or chapters 95 or 96 of title 26 (26 U.S.C.), the civil penalty shall not exceed the greater of $6,500 or an amount equal to any contribution or expenditure involved in the violation.</P>
+        <P>(2) Knowing and willful violations.</P>
+
+        <P>(i) In the case of a knowing and willful violation of the Act or chapters 95 or 96 of title 26 (26 U.S.C.), the civil <PRTPAGE P="195"/>penalty shall not exceed the greater of $11,000 or an amount equal to 200% of any contribution or expenditure involved in the violation.</P>
+        <P>(ii) Notwithstanding paragraph (a)(2)(i) of this section, in the case of a knowing and willful violation of 2 U.S.C. 441f, the civil penalty shall not be less than 300% of the amount of any contribution involved in the violation and shall not exceed the greater of $55,000 or 1,000% of the amount of any contribution involved in the violation.</P>
+        <P>(b) Any Commission member or employee, or any other person, who in violation of 2 U.S.C. 437g(a)(12)(A) makes public any notification or investigation under 2 U.S.C. 437g without receiving the written consent of the person receiving such notification, or the person with respect to whom such investigation is made, shall be fined not more than $2,200. Any such member, employee, or other person who knowingly and willfully violates this provision shall be fined not more than $6,500.</P>
+        <CITA>[62 FR 11317, Mar. 12, 1997; 62 FR 18167, Apr. 14, 1997; 65 FR 31794, May 19, 2000; 67 FR 76977, Dec. 13, 2002; 70 FR 34635, June 15, 2005]</CITA>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Administrative Fines</HD>
+      <SOURCE>
+        <HD SOURCE="HED">Source:</HD>
+        <P>65 FR 31794, May 19, 2000, unless otherwise noted.</P>
+      </SOURCE>
+      <SECTION>
+        <SECTNO>§ 111.30</SECTNO>
+        <SUBJECT>When will subpart B apply?</SUBJECT>
+        <P>Subpart B applies to violations of the reporting requirements of 2 U.S.C. 434(a) committed by political committees and their treasurers that relate to the reporting periods that begin on or after July 14, 2000 and end on or before December 31, 2008. This subpart, however, does not apply to reports that were due between January 1, 2004 and February 10, 2004 and that relate to reporting periods that begin and end between January 1, 2004 and February 10, 2004.</P>
+        <CITA>[70 FR 75718, Dec. 21, 2005]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.31</SECTNO>
+        <SUBJECT>Does this subpart replace subpart A of this part for violations of the reporting requirements of 2 U.S.C. 434(a)?</SUBJECT>
+        <P>(a) No; §§ 111.1 through 111.8 and 111.20 through 111.24 shall apply to all compliance matters. This subpart will apply, rather than §§ 111.9 through 111.19, when the Commission, on the basis of information ascertained by the Commission in the normal course of carrying out its supervisory responsibilities, and when appropriate, determines that the compliance matter should be subject to this subpart. If the Commission determines that the violation should not be subject to this subpart, then the violation will be subject to all sections of subpart A of this part.</P>
+        <P>(b) Subpart B will apply to compliance matters resulting from a complaint filed pursuant to 11 CFR 111.4 through 111.7 if the complaint alleges a violation of 2 U.S.C. 434(a). If the complaint alleges violations of any other provision of any statute or regulation over which the Commission has jurisdiction, subpart A will apply to the alleged violations of these other provisions.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.32</SECTNO>
+        <SUBJECT>How will the Commission notify respondents of a reason to believe finding and a proposed civil money penalty?</SUBJECT>
+        <P>If the Commission determines, by an affirmative vote of at least four (4) of its members, that it has reason to believe that a respondent has violated 2 U.S.C. 434(a), the Chairman or Vice-Chairman shall notify such respondent of the Commission's finding. The written notification shall set forth the following:</P>
+        <P>(a) The alleged factual and legal basis supporting the finding including the type of report that was due, the filing deadline, the actual date filed (if filed), and the number of days the report was late (if filed);</P>
+        <P>(b) The applicable schedule of penalties;</P>
+        <P>(c) The number of times the respondent has been assessed a civil money penalty under this subpart during the current two-year election cycle and the prior two-year election cycle;</P>
+        <P>(d) The amount of the proposed civil money penalty based on the schedules of penalties set forth in 11 CFR 111.43 or 111.44; and</P>
+        <P>(e) An explanation of the respondent's right to challenge both the reason to believe finding and the proposed civil money penalty.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="196"/>
+        <SECTNO>§ 111.33</SECTNO>
+        <SUBJECT>What are the respondent's choices upon receiving the reason to believe finding and the proposed civil money penalty?</SUBJECT>
+        <P>The respondent must either send payment in the amount of the proposed civil money penalty pursuant to 11 CFR 111.34 or submit a written response pursuant to 11 CFR 111.35.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.34</SECTNO>
+        <SUBJECT>If the respondent decides to pay the civil money penalty and not to challenge the reason to believe finding, what should the respondent do?</SUBJECT>
+        <P>(a) The respondent shall transmit payment in the amount of the civil money penalty to the Commission within forty (40) days of the Commission's reason to believe finding.</P>
+        <P>(b) Upon receipt of the respondent's payment, the Commission shall send the respondent a final determination that the respondent has violated the statute or regulations and the amount of the civil money penalty and an acknowledgment of the respondent's payment.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.35</SECTNO>
+        <SUBJECT>If the respondent decides to challenge the alleged violation or proposed civil money penalty, what should the respondent do?</SUBJECT>
+        <P>(a) To challenge a reason to believe finding or proposed civil money penalty, the respondent must submit a written response to the Commission within forty (40) days of the Commission's reason to believe finding.</P>
+        <P>(b) The respondent's written response must assert at least one of the following grounds for challenging the reason to believe finding or proposed civil money penalty:</P>
+        <P>(1) The Commission's reason to believe finding is based on a factual error including, but not limited to, the committee was not required to file the report, or the committee timely filed the report in accordance with 11 CFR 100.19;</P>
+        <P>(2) The Commission improperly calculated the civil money penalty; or</P>
+        <P>(3) The respondent used best efforts to file in a timely manner in that:</P>
+        <P>(i) The respondent was prevented from filing in a timely manner by reasonably unforeseen circumstances that were beyond the control of the respondent; and</P>
+        <P>(ii) The respondent filed no later than 24 hours after the end of these circumstances.</P>
+        <P>(c) Circumstances that will be considered reasonably unforeseen and beyond the control of respondent include, but are not limited to:</P>
+        <P>(1) A failure of Commission computers or Commission-provided software despite the respondent seeking technical assistance from Commission personnel and resources;</P>
+        <P>(2) A widespread disruption of information transmissions over the Internet not caused by any failure of the Commission's or respondent's computer systems or Internet service provider; and</P>
+        <P>(3) Severe weather or other disaster-related incident.</P>
+        <P>(d) Circumstances that will not be considered reasonably unforeseen and beyond the control of respondent include, but are not limited to:</P>
+        <P>(1) Negligence;</P>
+        <P>(2) Delays caused by committee vendors or contractors;</P>
+        <P>(3) Illness, inexperience, or unavailability of the treasurer or other staff;</P>
+        <P>(4) Committee computer, software or Internet service provider failures;</P>
+        <P>(5) A committee's failure to know filing dates; and</P>
+        <P>(6) A committee's failure to use filing software properly.</P>
+        <P>(e) Respondent's written response must detail the factual basis supporting its challenge and include supporting documentation.</P>
+        <CITA>[72 FR 14667, Mar. 29, 2007]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.36</SECTNO>
+        <SUBJECT>Who will review the respondent's written response?</SUBJECT>
+        <P>(a) A reviewing officer shall review the respondent's written response. The reviewing officer shall be a person who has not been involved in the reason to believe finding.</P>
+
+        <P>(b) The reviewing officer shall review the reason to believe finding with supporting documentation and the respondent's written response with supporting documentation. The reviewing officer may request supplemental information from the respondent and/or the Commission staff. The respondent shall submit the supplemental information to the reviewing officer within <PRTPAGE P="197"/>a time specified by the reviewing officer. The reviewing officer will be entitled to draw an adverse inference from the failure by the respondent to submit the supplemental information.</P>
+        <P>(c) All documents required to be submitted by the respondents pursuant to this section and § 111.35 should be submitted in the form of affidavits or declarations.</P>
+        <P>(d) If the Commission staff, after the respondent files a written response pursuant to § 111.35, forwards any additional documents pertaining to the matter to the reviewing officer for his or her examination, the reviewing officer shall also furnish a copy of the document(s) to the respondents.</P>
+        <P>(e) Upon completion of the review, the reviewing officer shall forward a written recommendation to the Commission along with all documents required under this section and 11 CFR 111.32 and 111.35.</P>
+        <P>(f) The reviewing office shall also forward a copy of the recommendation to the respondent. The respondent may file with the Commission Secretary a written response to the recommendation within ten (10) days of transmittal of the recommendation. This response may not raise any arguments not raised in the respondent's original written response or not directly responsive to the reviewing officer's recommendation.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.37</SECTNO>
+        <SUBJECT>What will the Commission do once it receives the respondent's written response and the reviewing officer's recommendation?</SUBJECT>
+        <P>(a) If the Commission, after having found reason to believe and after reviewing the respondent's written response and the reviewing officer's recommendation, determines by an affirmative vote of at least four (4) of its members, that the respondent has violated 2 U.S.C. 434(a) and the amount of the civil money penalty, the Commission shall authorize the reviewing officer to notify the respondent by letter of its final determination.</P>
+        <P>(b) If the Commission, after reviewing the reason to believe finding, the respondent's written response, and the reviewing officer's written recommendation, determines by an affirmative vote of at least four (4) of its members, that no violation has occurred (either because the Commission had based its reason to believe finding on a factual error or because the respondent used best efforts to file in a timely manner) or otherwise terminates its proceedings, the Commission shall authorize the reviewing officer to notify the respondent by letter of its final determination.</P>
+        <P>(c) The Commission will modify the proposed civil money penalty only if the respondent is able to demonstrate that the amount of the proposed civil money penalty was calculated on an incorrect basis.</P>
+        <P>(d) When the Commission makes a final determination under this section, the statement of reasons for the Commission action will, unless otherwise indicated by the Commission, consist of the reasons provided by the reviewing officer for the recommendation, if approved by the Commission, although statements setting forth additional or different reasons may also be issued. If the reviewing officer's recommendation is modified or not approved, the Commission will indicate the grounds for its action and one or more statements of reasons may be issued.</P>
+        <CITA>[65 FR 31794, May 19, 2000, as amended at 72 FR 14668, Mar. 29, 2007]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.38</SECTNO>
+        <SUBJECT>Can the respondent appeal the Commission's final determination?</SUBJECT>
+        <P>Yes; within thirty (30) days of receipt of the Commission's final determination under 11 CFR 111.37, the respondent may submit a written petition to the district court of the United States for the district in which the respondent resides, or transacts business, requesting that the final determination be modified or set aside. The respondent's failure to raise an argument in a timely fashion during the administrative process shall be deemed a waiver of the respondent's right to present such argument in a petition to the district court under 2 U.S.C. 437g.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.39</SECTNO>
+        <SUBJECT>When must the respondent pay the civil money penalty?</SUBJECT>
+
+        <P>(a) If the respondent does not submit a written petition to the district court of the United States, the respondent must remit payment of the civil money <PRTPAGE P="198"/>penalty within thirty (30) days of receipt of the Commission's final determination under 11 CFR 111.37.</P>
+        <P>(b) If the respondent submits a written petition to the district court of the United States and, upon the final disposition of the civil action, is required to pay a civil money penalty, the respondent shall remit payment of the civil money penalty to the Commission within thirty (30) days of the final disposition of the civil action. The final disposition may consist of a judicial decision which is not reviewed by a higher court.</P>
+
+        <P>(c) Failure to pay the civil money penalty may result in the commencement of collection action under 31 U.S.C. 3701 <E T="03">et seq.</E> (1996), or a civil suit pursuant to 2 U.S.C. 437g(a)(6)(A), or any other legal action deemed necessary by the Commission.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.40</SECTNO>
+        <SUBJECT>What happens if the respondent does not pay the civil money penalty pursuant to 11 CFR 111.34 and does not submit a written response to the reason to believe finding pursuant to 11 CFR 111.35?</SUBJECT>
+        <P>(a) If the Commission, after the respondent has failed to pay the civil money penalty and has failed to submit a written response, determines by an affirmative vote of at least four (4) of its members that the respondent has violated 2 U.S.C. 434(a) and determines the amount of the civil money penalty, the respondent shall be notified by letter of its final determination.</P>
+        <P>(b) The respondent shall transmit payment of the civil money penalty to the Commission within thirty (30) days of receipt of the Commission's final determination.</P>
+
+        <P>(c) Failure to pay the civil money penalty may result in the commencement of collection action under 31 U.S.C. 3701 <E T="03">et seq.</E> (1996), or a civil suit pursuant to 2 U.S.C. 437g(a)(6)(A), or any other legal action deemed necessary by the Commission.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.41</SECTNO>
+        <SUBJECT>To whom should the civil money penalty payment be made payable?</SUBJECT>
+        <P>Payment of civil money penalties shall be made in the form of a check or money order made payable to the Federal Election Commission.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.42</SECTNO>
+        <SUBJECT>Will the enforcement file be made available to the public?</SUBJECT>
+        <P>(a) Yes; the Commission shall make the enforcement file available to the public.</P>
+        <P>(b) If neither the Commission nor the respondent commences a civil action, the Commission shall make the enforcement file available to the public pursuant to 11 CFR 4.4(a)(3).</P>
+        <P>(c) If a civil action is commenced, the Commission shall make the enforcement file available pursuant to 11 CFR 111.20(c).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.43</SECTNO>
+        <SUBJECT>What are the schedules of penalties?</SUBJECT>
+        <P>(a) The civil money penalty for all reports that are filed late or not filed, except election sensitive reports and pre-election reports under 11 CFR 104.5, shall be calculated as follows:</P>
+        <P>(1) For reports due before April 16, 2003:</P>
+        <P>(i) <E T="03">Level of activity</E> means the total amount of receipts and disbursements for the period covered by the late report. If the report is not filed, the level of activity is the estimated level of activity as set forth in paragraph (a)(1)(ii) of this section.</P>
+        <P>(ii) <E T="03">Estimated level of activity</E> means total receipts and disbursements reported in the current two-year election cycle divided by the number of reports filed to date covering the activity in the current two-year election cycle. If the respondent has not filed a report covering activity in the current two-year election cycle, estimated level of activity means total receipts and disbursements reported in the prior two-year election cycle divided by the number of reports filed covering the activity in the prior two-year election cycle.</P>
+
+        <P>(iii) The civil money penalty shall be calculated in accordance with the following schedule:<PRTPAGE P="199"/>
+        </P>
+        <GPOTABLE CDEF="s75,r100,r75" COLS="3" OPTS="L2,tp0,i1">
+          <BOXHD>
+            <CHED H="1">If the level of activity in the report was:</CHED>
+            <CHED H="1">And the report was filed late, the civil money penalty is:</CHED>
+            <CHED H="1">Or the report was not filed, the civil money penalty is:</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">$1-24,999.99 <SU>a</SU>
+            </ENT>
+            <ENT>[$100 + ($25 × Number of days late)] × [1 (.25 × Number of previous violations)]</ENT>
+            <ENT>+$900 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$25,000-49,999.99</ENT>
+            <ENT>[$200 + ($50 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$1800 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$50,000-74,999.99</ENT>
+            <ENT>[$300 + ($75 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$2700 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$75,000-99,999.99</ENT>
+            <ENT>[$400 + ($100 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$3500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$100,000-149,999.99</ENT>
+            <ENT>[$600 + ($125 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$4500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$150,000-199,999.99</ENT>
+            <ENT>[$800 + ($150 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$5500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$200,000-249,999.99</ENT>
+            <ENT>[$1,000 + ($175 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$6500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$250,000-349,999.99</ENT>
+            <ENT>[$1500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$8000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$350,000-449,999.99</ENT>
+            <ENT>[$2000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$450,000-549,999.99</ENT>
+            <ENT>[$2500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$550,000-649,999.99</ENT>
+            <ENT>[$3000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$650,000-749,999.99</ENT>
+            <ENT>[$3500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$750,000-849,999.99</ENT>
+            <ENT>[$4000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$850,000-949,999.99</ENT>
+            <ENT>[$4500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$950,000 or over</ENT>
+            <ENT>[$5000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$12,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <TNOTE>
+            <SU>a</SU> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.</TNOTE>
+        </GPOTABLE>
+        <P>(2) For reports due on or after April 16, 2003:</P>
+        <P>(i) <E T="03">Level of activity</E> means:</P>
+        <P>(A) For an authorized committee, the total amount of receipts and disbursements for the period covered by the late report. If the report is not filed, the level of activity is the estimated level of activity as set forth in paragraph (a)(2)(ii)(A) of this section.</P>
+        <P>(B) For an unauthorized committee, the total amount of receipts and disbursements for the period covered by the late report minus the total of: transfers received from non-Federal account(s) as reported on Line 18(a) of FEC Form 3X and disbursements for the non-Federal share of operating expenditures attributable to allocated Federal/non-Federal activity as reported on Line 21(a)(ii) of FEC Form 3X for the period covered by the late report. If the report is not filed, the level of activity is the estimated level of activity as set forth in paragraph (a)(2)(ii)(B) of this section.</P>
+        <P>(ii) <E T="03">Estimated level of activity</E> means:</P>
+        <P>(A) For an authorized committee, total receipts and disbursements reported in the current two-year election cycle divided by the number of reports filed to date covering the activity in the current two-year election cycle. If the respondent has not filed a report covering activity in the current two-year election cycle, estimated level of activity for an authorized committee means total receipts and disbursements reported in the prior two-year election cycle divided by the number of reports filed covering the activity in the prior two-year election cycle.</P>
+        <P>(B)(<E T="03">1</E>) For an unauthorized committee, estimated level of activity is calculated as follows: [(Total receipts and disbursements reported in the current two-year cycle)—(Transfers received from non-Federal account(s) as reported on either Line 18(a) of FEC Form 3X or Line 18 of FEC Form 3X if before March 1, 2003 + Disbursements for the non-Federal share of operating expenditures attributable to allocated Federal/non-Federal activity as Reported on Line 21(a)(ii) of FEC Form 3X)] ÷ Number of reports filed to date covering the activity in the current two-year election cycle.<PRTPAGE P="200"/>
+        </P>
+        <P>(<E T="03">2</E>) If the unauthorized committee has not filed a report covering activity in the current two-year election cycle, the estimated level of activity is calculated as follows: [(Total receipts and disbursements reported in the prior two-year election cycle)—(Transfers received from non-Federal account(s) as reported on either Line 18(a) of FEC Form 3X or Line 18 of FEC Form 3X if before March 1, 2003 + Disbursements for the non-Federal Share of operating expenditures attributable to allocated Federal/non-Federal activity as reported on Line 21(a)(ii) of FEC Form 3X)] ÷ Number of reports filed covering the activity in the prior two-year election cycle.</P>
+        <P>(iii) The civil money penalty shall be calculated in accordance with the following schedule:</P>
+        <GPOTABLE CDEF="s75,r100,r75" COLS="3" OPTS="L2,tp0,i1">
+          <BOXHD>
+            <CHED H="1">If the level of activity in the report was:</CHED>
+            <CHED H="1">And the report was filed late, the civil money penalty is:</CHED>
+            <CHED H="1">Or the report was not filed, the civil money penalty is:</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">$1-4,999.99 <SU>a</SU>
+            </ENT>
+            <ENT>[$25 + ($5 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$250 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$5,000-9,999.99</ENT>
+            <ENT>[$50 + ($5 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$300 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$10,000-24,999.99</ENT>
+            <ENT>[$100 + ($5 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$25,000-49,999.99</ENT>
+            <ENT>[$200 + ($20 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$900 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$50,000-74,999.99</ENT>
+            <ENT>[$300 + ($75 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$2700 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$75,000-99,999.99</ENT>
+            <ENT>[$400 + ($100 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$3500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$100,000-149,999.99</ENT>
+            <ENT>[$600 + ($125 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$4500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$150,000-199,999.99</ENT>
+            <ENT>[$800 + ($150 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$5500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$200,000-249,999.99</ENT>
+            <ENT>[$1,000 + ($175 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$6500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$250,000-349,999.99</ENT>
+            <ENT>[$1500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$8000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$350,000-449,999.99</ENT>
+            <ENT>[$2000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$450,000-549,999.99</ENT>
+            <ENT>[$2500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$550,000-649,999.99</ENT>
+            <ENT>[$3000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$650,000-749,999.99</ENT>
+            <ENT>[$3500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$750,000-849,999.99</ENT>
+            <ENT>[$4000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$850,000-949,999.00</ENT>
+            <ENT>[$4500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$950,000 or over</ENT>
+            <ENT>[$5000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$12,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <TNOTE>
+            <SU>a</SU> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.</TNOTE>
+        </GPOTABLE>
+        <P>(b) The civil money penalty for election sensitive reports that are filed late or not filed shall be calculated as follows:</P>
+        <P>(1) For reports due before April 16, 2003:</P>
+        <P>(i) <E T="03">Level of activity</E> has the same meaning as paragraph (a)(1)(i) of this section.</P>
+        <P>(ii) <E T="03">Estimated level of activity</E> has the same meaning as paragraph (a)(1)(ii) of this section.</P>
+        <P>(iii) The civil money penalty shall be calculated in accordance with the following schedule:</P>
+        <GPOTABLE CDEF="s75,r100,r75" COLS="3" OPTS="L2,tp0,i1">
+          <BOXHD>
+            <CHED H="1">If the level of activity in the report was:</CHED>
+            <CHED H="1">And the report was filed late, the civil money penalty is:</CHED>
+            <CHED H="1">Or the report was not filed, the civil money penalty is:</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">$1-24,999.99 <SU>a</SU>
+            </ENT>
+            <ENT>[$150 + ($25 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$1000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <PRTPAGE P="201"/>
+            <ENT I="01">$25,000-49,999.99</ENT>
+            <ENT>[$300 + ($50 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$2000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$50,000-74,999.99</ENT>
+            <ENT>[$450 + ($75 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$3000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$75,000-99,999.99</ENT>
+            <ENT>[$600 + ($100 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$4000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$100,000-149,999.99</ENT>
+            <ENT>[$900 + ($125 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$5000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$150,000-199,999.99</ENT>
+            <ENT>[$1200 + ($150 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$6000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$200,000-249,999.99</ENT>
+            <ENT>[$1500 + ($175 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$7500 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$250,000-349,999.99</ENT>
+            <ENT>[$2250 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$350,000-449,999.99</ENT>
+            <ENT>[$3000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$450,000-549,999.99</ENT>
+            <ENT>[$3750 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$550,000-649,999.99</ENT>
+            <ENT>[$4500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$12,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$650,000-749,999.99</ENT>
+            <ENT>[$5250 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$13,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$750,000-849,999.99</ENT>
+            <ENT>[$6000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$14,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$850,000-949,999.99</ENT>
+            <ENT>[$6750 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$15,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$950,000 or over</ENT>
+            <ENT>[$7500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$16,000 × [1 + (.25 × Number of previous violations)]</ENT>
+          </ROW>
+          <TNOTE>
+            <SU>a</SU> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.</TNOTE>
+        </GPOTABLE>
+        <P>(2) For reports due on or after April 16, 2003:</P>
+        <P>(i) Level of activity has the same meaning as paragraph (a)(2)(i) of this section.</P>
+        <P>(ii) <E T="03">Estimated level of activity</E> has the same meaning as paragraph (a)(2)(ii) of this section.</P>
+        <P>(iii) The civil money penalty shall be calculated in accordance with the following schedule:</P>
+        <GPOTABLE CDEF="s75,r100,r75" COLS="3" OPTS="L2,tp0,i1">
+          <BOXHD>
+            <CHED H="1">If the level of activity in the report was:</CHED>
+            <CHED H="1">And the report was filed late, the civil money penalty is:</CHED>
+            <CHED H="1">Or the report was not filed, the civil money penalty is:</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">$1-$4,999.99 <E T="51">a</E>
+            </ENT>
+            <ENT>[$50 + ($10 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$500 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$5,000-$9,999.99</ENT>
+            <ENT>[$100 + ($10 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$600 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$10,000-24,999.99</ENT>
+            <ENT>[$150 + ($10 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$900 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$25,000-49,999.99</ENT>
+            <ENT>[$300 + ($25 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$1,400 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$50,000-74,999.99</ENT>
+            <ENT>[$450 + ($75 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$3000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$75,000-99,999.99</ENT>
+            <ENT>[$600 + ($100 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$4000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$100,000-149,999.99</ENT>
+            <ENT>[$900 + ($125 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$5000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$150,000-199,999.99</ENT>
+            <ENT>[$1200 + ($150 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$6000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$200,000-249,999.99</ENT>
+            <ENT>[$1500 + ($175 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$7500 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$250,000-349,999.99</ENT>
+            <ENT>[$2250 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$9000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$350,000-449,999.99</ENT>
+            <ENT>[$3000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$10,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$450,000-549,999.99</ENT>
+            <ENT>[$3750 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$11,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$550,000-649,999.99</ENT>
+            <ENT>[$4500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$12,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$650,000-749,999.99</ENT>
+            <ENT>[$5250 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$13,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <PRTPAGE P="202"/>
+            <ENT I="01">$750,000-849,999.99</ENT>
+            <ENT>[$6000 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$14,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$850,000-949,999.99</ENT>
+            <ENT>[$6750 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$15,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">$950,000 or over</ENT>
+            <ENT>[$7500 + ($200 × Number of days late)] × [1 + (.25 × Number of previous violations)]</ENT>
+            <ENT>$16,000 × [1 + (.25 × Number of previous violations)].</ENT>
+          </ROW>
+          <TNOTE>
+            <E T="51">a</E> The civil money penalty for a respondent who does not have any previous violations will not exceed the level of activity in the report.</TNOTE>
+        </GPOTABLE>
+        <P>(c) If the respondent fails to file a required report and the Commission cannot calculate the level of activity under paragraph (d) of this section, then the civil money penalty shall be $5,500.</P>
+        <P>(d) <E T="03">Definitions.</E> For this section only, the following definitions will apply:</P>
+        <P>
+          <E T="03">Election Sensitive Reports</E> means third quarter reports due on October 15th before the general election (for all committees required to file this report except committees of candidates who do not participate in that general election); monthly reports due October 20th before the general election (for all committees required to file this report except committees of candidates who do not participate in that general election); and pre-election reports for primary, general, and special elections under 11 CFR 104.5.</P>
+        <P>
+          <E T="03">Number of previous violations</E> mean all prior final civil money penalties assessed under this subpart during the current two-year election cycle and the prior two-year election cycle.</P>
+        <P>(e) For purposes of the schedules of penalties in paragraphs (a) and (b) of this section,</P>
+        <P>(1) Reports that are not election sensitive reports are considered to be filed late if they are filed after their due dates but within thirty (30) days of their due dates. These reports are considered to be not filed if they are filed after thirty (30) days of their due dates or not filed at all.</P>
+        <P>(2) Election sensitive reports are considered to be filed late if they are filed after their due dates but prior to four (4) days before the primary election for pre-primary reports, prior to four (4) days before the special election for pre-special election reports, or prior to four (4) days before the general election for all other election sensitive reports. These reports are considered to be not filed if they are not filed prior to four (4) days before the primary election for pre-primary reports, prior to four (4) days before the special election for pre-special election reports or prior to four (4) days before the general election for all other election sensitive reports.</P>
+        <CITA>[65 FR 31794, May 19, 2000, as amended at 68 FR 12577, Mar. 17, 2003; 70 FR 34636, June 15, 2005]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.44</SECTNO>
+        <SUBJECT>What is the schedule of penalties for 48-hour notices that are not filed or are filed late?</SUBJECT>
+        <P>(a) If the respondent fails to file timely a notice regarding contribution(s) received after the 20th day but more than 48 hours before the election as required under 2 U.S.C. 434(a)(6), the civil money penalty will be calculated as follows:</P>
+        <P>(1) Civil money penalty = $110 + (.10 × amount of the contribution(s) not timely reported).</P>
+        <P>(2) The civil money penalty calculated in paragraph (a)(1) of this section shall be increased by twenty-five percent (25%) for each prior violation.</P>
+        <P>(b) For purposes of this section, prior violation means a civil money penalty that has been assessed against the respondent under this subpart in the current two-year election cycle or the prior two-year election cycle.</P>
+        <CITA>[65 FR 31794, May 19, 2000, as amended at 70 FR 34636, June 15, 2005]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.45</SECTNO>
+        <SUBJECT>What actions will be taken to collect unpaid civil money penalties?</SUBJECT>
+
+        <P>The Commission may take any and all appropriate collection actions authorized and required by the Debt Collection Act of 1982, as amended by the Debt Collection Improvement Act of 1996 (31 U.S.C. 3701 et. seq.). The U.S. <PRTPAGE P="203"/>Department of the Treasury regulations at 31 CFR 285.2, 285.4, and 285.7 and the Federal Claims Collection Standards issued jointly by the Department of Justice and the U.S. Department of the Treasury at 31 CFR parts 900 through 904 also apply.</P>
+        <CITA>[65 FR 31794, May 19, 2000, as amended at 68 FR 12580, Mar. 17, 2003; 68 FR 16715, Apr. 7, 2003]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 111.46</SECTNO>
+        <SUBJECT>How will the respondent be notified of actions taken by the Commission and the reviewing officer?</SUBJECT>
+        <P>If a statement designating counsel has been filed in accordance with 11 CFR 111.23, all notifications and other communications to a respondent provided for in subpart B of this part will be sent to designated counsel. If a statement designating counsel has not been filed, all notifications and other communications to a respondent provided for in subpart B of this part will be sent to respondent political committee and its treasurer at the political committee's address as listed in the most recent Statement of Organization, or amendment thereto, filed with the Commission in accordance with 11 CFR 102.2.</P>
+        <CITA>[68 FR 12580, Mar. 17, 2003]</CITA>
+      </SECTION>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>

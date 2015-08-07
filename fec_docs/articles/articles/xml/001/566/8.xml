@@ -1,0 +1,403 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 100, 101, 102, 104, 109, 114, 9003, and 9033</CFR>
+        <DEPDOC>[Notice 2000-13]</DEPDOC>
+        <SUBJECT>Electronic Filing of Reports by Political Committees</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final Rules and Transmittal of Regulations to Congress.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Federal Election Commission is revising its regulations to implement a mandatory electronic filing system for reports of campaign finance activity filed with the agency. Beginning with reporting periods that start on or after January 1, 2001, all political committees (except the authorized committees of candidates for U.S. Senate) and other persons will be required to file electronically when either their total contributions or total expenditures within a calendar year exceed, or are expected to exceed, $50,000. The Commission has had a voluntary electronic filing system in place since 1996. Voluntary electronic filing will still be an option for political committees and persons who do not exceed the $50,000 threshold. This mandatory system is designed to reflect recent changes to the Federal Election Campaign Act of 1971. Further information is provided in the supplementary information that follows.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+
+          <P>Further action, including the publication of a document in the<E T="04">Federal Register</E>announcing an effective date, will be taken after these regulations have been before Congress for 30 legislative days pursuant to 2 U.S.C. 438(d) and 26 U.S.C. 9009(c) and 9039(c).</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Rosemary Smith, Assistant General Counsel, or Cheryl Fowle, Attorney, 999 E Street, NW, Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>The Commission is publishing today the final text of new regulations to be added to 11 CFR 100.19 and 11 CFR 104.18 and revisions to the regulations at 11 CFR 101.1, 102.2, 104.5, 109.2, 114.10, 9003.1 and 9033.1 making electronic filing mandatory for certain political committees and other persons. These rules implement provisions of Public Law 106-58, (Pub. L. No. 106-58, 106th Cong., &#xA7; 639, 113 Stat. 430, 476-477 (1999)) which amended the Federal Election Campaign Act of 1971, 2 U.S.C. 431<E T="03">et seq.</E>(&#x201C;FECA&#x201D; or &#x201C;the Act&#x201D;), to require,<E T="03">inter alia,</E>that the Commission make electronic filing mandatory for political committees and other persons required to file with the Commission who, in a calendar year, have, or have reason to expect to have, total contributions or total expenditures exceeding a threshold amount to be set by the Commission. The final rules announced today set the threshold at $50,000 per calendar year.</P>
+        <P>The 1999 amendment to the FECA and the regulations (11 CFR 104.18) maintain the voluntary electronic filing system for political committees or persons who do not exceed, or who do not have reason to expect to exceed, the $50,000 threshold of financial activity. The Commission encourages committees below these thresholds to voluntarily file their reports electronically.</P>
+        <P>Public Law 106-58 requires the mandatory system to be in place for reports covering periods after December 31, 2000.</P>
+        <P>Section 438(d) of Title 2, United States Code and sections 9009(c) and 9039(c) of Title 26, United States Code require that any rules or regulations prescribed by the Commission to carry out the provisions of Titles 2 and 26 of the United States Code be transmitted to the Speaker of the House of Representatives and the President of the Senate 30 legislative days before they are finally promulgated. These regulations were transmitted to Congress on June 16, 2000.</P>
+        <HD SOURCE="HD1">Explanation and Justification</HD>
+
+        <P>The Commission initiated this rulemaking by publishing a Notice of Proposed Rulemaking (&#x201C;NPRM&#x201D;) in the<E T="04">Federal Register</E>on April 11, 2000, 65<PRTPAGE P="38416"/>FR 19339 (April 11, 2000). The NPRM contained proposed rules covering,<E T="03">inter alia,</E>the threshold amount, what reports are covered and the requirement for publicly funded candidates to agree to file electronically.</P>
+        <P>The comment period ended on May 11, 2000. The Commission received three comments, one from U. S. Public Interest Research Group, and one from National Association of Business Political Action Committees. In addition, the Internal Revenue Service (&#x201C;IRS&#x201D;) submitted a comment in which it said that the proposed rules are not inconsistent with IRS regulations or the Internal Revenue Code.</P>
+        <P>The goals of the electronic filing system include more complete and rapid on-line access to reports on file with the Commission, reduced paper filing and manual processing, and more efficient and cost-effective methods of operation for filers and for the Commission. The 1999 amendment to the FECA requires that the Commission make electronically filed reports, designations or statements available on its web site not later than 24 hours after the Commission receives them. Pub. L. No. 106-58, 106th Cong., &#xA7; 639(a), 113 Stat. 430, 476 (1999). Currently, reports that are filed under the voluntary system of electronic filing are posted in viewable form on the Commission's web site within five minutes and detailed data are available in the Commission's databases within 24 to 48 hours (depending on the time of receipt). In contrast, under the current paper filing system, the time between receipt of a report and its appearance in viewable form on the Commission's web site is 48 hours. Additionally, while some summary data is available in the Commission's indexes within 48 hours, it can take as long as 30 days before the detailed data filed on paper is available in those databases. Thus, the greater the number of pages that are filed electronically, the greater the volume of data that is almost instantly available. Additionally, decreasing the volume of paper filed will decrease the processing time of the reports that are filed on paper, making them more rapidly available in the Commission's databases.</P>
+        <HD SOURCE="HD2">Section 100.19File, filed or filing (2 U.S.C. 434(a)).</HD>
+        <P>The Commission's regulations at 11 CFR 100.19 define<E T="03">file,</E>
+          <E T="03">filed,</E>or<E T="03">filing</E>with respect to reports filed on paper. New paragraph (c) is being added to section 100.19 to define these terms with respect to electronically filed reports. In order to be timely filed, the report must be received and validated by the Commission's computer system on or before 11:59 p.m. Eastern Standard Time (or Eastern Daylight Time, as appropriate) on the prescribed filing date. The computer validation program ensures that all required information is disclosed. Additionally the validation program is being updated to require that the figures disclosed within the report add up to the figures reported on the Detailed Summary Page and that committees correctly indicate the type of report being filed. Incomplete or incorrect reports that do not pass validation will not be accepted and will not be considered filed. Please note, however, that using the Commission's FECFile software will ensure that all numbers in the report add up to the correct total. The Commission received one comment on this issue in response to its NPRM on its new administrative fine program. (<E T="03">See</E>65 FR 16534, March 29, 2000.) The commenter, Akin, Gump, Strauss, Hauer  Feld, L.L.P., argued that the Commission's rules should clarify the date and time when an electronic report is considered &#x201C;filed.&#x201D; Thus, paragraph (c) is being added to this section.</P>
+        <HD SOURCE="HD2">Section 101.1Candidate designations (2 U.S.C. 432(e)(1)).</HD>
+        <P>The Commission is revising paragraph (a) of section 101.1 to clarify that if a candidate exceeds, or has reason to expect to exceed the $50,000 threshold, he or she must file his or her Statement of Candidacy electronically on FEC Form 2. The Commission anticipates that its free FECFile software will generate FEC Form 2 by January 1, 2001, when these regulations take effect. The Commission received no comments on this provision.</P>
+        <HD SOURCE="HD2">Section 102.2Statement of organization: Forms and committee identification number (2 U.S.C. 433(b)(c)).</HD>
+        <P>Commission regulations at 11 CFR 102.2(a)(1)(i) through (vi) require a political committee to provide certain identifying information on its Statement of Organization (FEC Form 1). New paragraph (a)(1)(vii) requires any political committee that has an Internet web site to provide the address of its web site as part of its address on FEC Form 1. Additionally, it requires any committee that is required to file electronically, and that has an electronic mail address, to include its electronic mail address as part of its address on FEC Form 1. The Commission received no comments on these changes.</P>
+        <P>Revisions to paragraph (a)(2) clarify that if a committee is required to file electronically, it must file amendments to its Statement of Organization (FEC Form 1) electronically. The Commission anticipates that its free FECFile software will generate FEC Form 1 by January 1, 2001, when these regulations take effect. The Commission received one comment on the issue of filing amendments by electronic letter. For the reasons explained at &#x201C;F. Amending Reports,&#x201D; infra, the Commission is not allowing filers to amend electronic reports by electronic letter, rather than using the appropriate electronic FEC form.</P>
+        <HD SOURCE="HD2">Section 104.5Filing dates (2 U.S.C. 434(a)(2)).</HD>
+        <P>The Commission's regulations at 11 CFR 104.5(e) define when a paper report is considered filed with respect to when and how it is mailed. A new sentence is being added to paragraph (e) to provide that, in order to be timely filed electronically, the report, designation or statement must be received and validated by the Commission's computer system on or before 11:59 p.m. Eastern Standard Time (or Eastern Daylight Time, as appropriate) on the prescribed filing date. Incomplete or incorrect reports that do not pass validation will not be accepted and will not be considered filed. The Commission is adding the new sentence to paragraph (e) of this section to follow the changes in 11 CFR 101.1.</P>
+        <HD SOURCE="HD2">Section 104.18Electronic filing of reports (2 U.S.C. 432(d) and 434(a)(11)).</HD>
+
+        <P>Section 104.18 is being reorganized. New paragraph (a) sets forth the thresholds and rules for mandatory electronic filing. Former paragraph (a) &#x201C;General&#x201D; is redesignated as paragraph (b) &#x201C;Voluntary&#x201D; and sets forth the rules with regard to who may voluntarily file electronically. New paragraph (c) has been added to define which reports under the 1999 amendment to the FECA must be filed electronically. Former paragraphs (b) through (g) are being redesignated as paragraphs (d) through (i). These provisions apply to both mandatory and voluntary electronic filing. Paragraph (d) continues to state the format requirements for the electronic filing system (both mandatory and voluntary). Paragraph (e) sets forth the rules on the acceptance and validation of electronically filed reports. Paragraph (f) addresses amending electronic reports. Paragraph (g) sets forth signature requirements. Rules for schedules and forms requiring third party signatures are in paragraph (h), and paragraph (i) addresses the preservation of reports.<PRTPAGE P="38417"/>
+        </P>
+        <HD SOURCE="HD1">A. Who Must File Electronically</HD>
+        <P>The mandatory electronic filing provisions of Public Law 106-58 and new paragraph (a) of 11 CFR 104.18 apply to those political committees and other persons who are required to file reports, statements and designations with the FEC. This includes House and Presidential candidates and their authorized committees, party committees, nonconnected committees, and separate segregated funds required to file with the Commission. Mandatory electronic filing does not apply to candidates for United States Senate and their authorized committees because Senate candidates and their committees must file with the Secretary of the Senate. Senate candidates are, however, encouraged to electronically file an unofficial copy of their reports, designations and statements with the FEC for the purposes of faster disclosure.</P>
+        <P>The Commission received one comment requesting clarification that the threshold applies to each individual committee and not to the total activity of all affiliated committees. While affiliated unauthorized committees share contribution limits, they do not file consolidated reports. Thus, the Commission has concluded that it would be overly burdensome to require all affiliated unauthorized committees to file electronically if, in the aggregate they exceed, or have reason to expect to exceed, the threshold. Therefore, the threshold applies to each individual unauthorized committee whether or not it is affiliated with other committees.</P>
+
+        <P>In contrast, authorized committees of a candidate are affiliated and share contribution limits, but the principal campaign committee files one consolidated report incorporating all reports from all other authorized committees (except joint fundraising committees, see<E T="03">infra</E>) for that candidate for that election. The principal campaign committee also forwards to the Commission, along with its own, the reports of the other authorized committees. Therefore, all authorized committees of a candidate must file electronically if the total of all contributions and expenditures from all authorized committees for that election exceeds, or the committees have reason to expect the totals to exceed, the threshold.</P>
+        <P>Joint fundraising representatives (<E T="03">see</E>11 CFR 102.17) must file electronically if they have, or have reason to expect to have, total contributions or total expenditures exceeding the $50,000 threshold. Thus, if for example, a joint fundraiser raises total contributions of $65,000 that it divides equally between the three participating committees, including itself, the joint fundraising representative must file electronically.</P>
+        <P>Other persons, including individuals and qualified nonprofit corporations, must file electronically if they make independent expenditures exceeding $50,000 in a calendar year.<SU>1</SU>
+          <FTREF/>Please note, however, that the provision in the NPRM that would have applied the new electronic filing rules to corporations or labor organizations making communications in excess of $50,000 to their restricted classes has been deleted from the final rules because these disbursements are not expenditures. 2 U.S.C. 431(9)(B)(iii) and (v) and 441b(b)(2) and 11 CFR 100.8(b)(4). The Commission received no comments on this issue.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>Note that under 11 CFR 104.4(c) and 105.4, independent expenditures in favor of, or opposition to, candidates for the U.S. Senate must be filed with the Secretary of the Senate and, therefore are not subject to this regulation.</P>
+        </FTNT>
+        <HD SOURCE="HD1">B. Threshold</HD>
+        <P>The Commission has set $50,000 as the appropriate threshold for all political committees and other persons because, as discussed below, data from the 1996 and 1998 election cycles indicate that at that threshold, the goals of the statutory amendment are maximized and the effect on the political committees and other persons is minimized.</P>
+        <HD SOURCE="HD2">1. Nonfederal Funds; Cash on Hand; Debts</HD>
+        <P>The Commission received one comment requesting clarification that, since the purpose of the FECA is the disclosure of federal activity, the new rule applies only when a committee makes $50,000 in expenditures or receives $50,000 in contributions as defined in 2 U.S.C. 431(8) and (9) and 11 CFR 100.7 and 100.8. The commenter is correct that for purposes of determining if a filer has exceeded, or has reason to expect to exceed, the $50,000 filing threshold, nonfederal funds should be excluded from the calculation.</P>
+        <P>In addition, please note that cash on hand and debt that is outstanding at the beginning of the calendar year are not included in the threshold calculation. Thus, the calculation of the threshold takes into account only those contributions received or expenditures made, or expected to be received or made, within the calendar year.</P>
+        <P>To calculate whether the committee has exceeded the threshold, use the following formulas:<SU>2</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>2</SU>These calculations can be estimated by using the Detailed Summary Page of the appropriate FEC Form for filing receipts and disbursements.</P>
+        </FTNT>
+        <P>Unauthorized committees other than political party committees (FEC Form 3X).</P>
+        <P>
+          <E T="03">Contributions:</E>Total contributions (from individuals and other persons, political party committees and other political committees) minus refunds of contributions (to individuals and other persons, political party committees and other political committees) plus transfers from affiliated federal committees.</P>
+        <P>
+          <E T="03">Expenditures:</E>Total federal operating expenditures plus transfers to affiliated federal committees plus contributions to federal candidates/committees and other political committees plus independent expenditures.</P>
+        <P>Political Party Committees (FEC Form 3X).</P>
+        <P>
+          <E T="03">Contributions:</E>Total contributions (from individuals and other persons, political party committees and other political committees) minus refunds of contributions (to individuals and other persons, political party committees and other political committees) plus transfers from affiliated federal political party committees.</P>
+        <P>
+          <E T="03">Expenditures:</E>Total federal operating expenditures plus transfers to affiliated federal political party committees plus contributions to federal candidates/committees and other political committees plus independent expenditures plus coordinated expenditures.</P>
+        <P>Authorized committees (FEC Form 3, or FEC Form 3P (Presidential candidates only)).</P>
+        <P>
+          <E T="03">Contributions:</E>Total contributions (from individuals and other persons, political party committees, other political committees and the candidate, including the outstanding balance of any loans made, guaranteed or endorsed by the candidate or other person) minus any refunds of contributions (to individuals and other persons, political party committees or other political committees).</P>
+        <P>
+          <E T="03">Expenditures:</E>Total operating expenditures plus total contributions to other federal candidates, political party committees or other federal political party committees.</P>
+        <HD SOURCE="HD2">2. Candidates and Authorized Committees</HD>
+
+        <P>Data from the 1996 and 1998 election cycles show that this threshold would<PRTPAGE P="38418"/>make 96% to 98%<SU>3</SU>
+          <FTREF/>of all financial activity reported by House and Presidential campaign committees almost immediately available on both the FEC's web site and in the agency's on-line databases. The historical information shows that of the 1,837 to 2,231 authorized committees filing with the Commission between 1995 and 1998, 31% to 44% of the committees (599 to 982 committees) had aggregate contributions or expenditures exceeding $50,000. These authorized committees filed 43% to 73% of the reports (2,162 to 12,646 reports), and 73% to 88% (66,569 to 282,339 pages) of the total number of pages filed by authorized committees. If 73% to 88% of the total number of pages filed by authorized committees is filed electronically, the Commission can manually process the remaining 12% to 29% of the pages more quickly to substantially reduce the amount of time before the information is available in Commission databases.</P>
+        <FTNT>
+          <P>
+            <SU>3</SU>Because the data was taken over a period of two election cycles that included a Presidential-election year (1996), a midterm-election year (1998) and two non-election years (1995 and 1997), the number of committees, reports and pages filed and financial figures vary&#x2014;increasing in election years, decreasing in non-election years. The percentages and numbers used in this document are the high and low figures of the four year span. Please note that the high or low percentage may have come from one year and the high or low actual number may have come from a different year.</P>
+        </FTNT>
+        <P>The effect of a $50,000 threshold on candidates and authorized committees will be minimal since, based on the 1996 and 1998 election cycle data, only the largest 30% to 40% of registered authorized committees would be required to file electronically.</P>
+        <HD SOURCE="HD2">3. Party Committees</HD>
+        <P>At the $50,000 level, historical data from the 1996 and 1998 election cycles show that of the 373 to 451 party committees filing with the Commission, 36% to 41% of them (142 to 182 committees) consistently disclosed over 99% (between $213 million and $459 million) of party activity. Of the total number of pages filed by party committees, 93% to 96% (71,598 to 210,242 pages) would have been filed electronically, thereby greatly decreasing the amount of paper processing by the committees and the FEC and considerably increasing the amount of data that would be almost immediately available.</P>
+        <P>Based on the 1996 and 1998 election cycle data, the impact on party committees will be relatively small since only 36% to 41% of all party committees registered with the Commission during those election cycles would have been required to file electronically. Thus, the smallest 59% to 64% of party committees could continue to file paper reports.</P>
+        <HD SOURCE="HD2">4. Nonconnected Committees</HD>
+        <P>At the $50,000 level, in the 1996 and 1998 election cycles, of the 840 to 933 nonconnected committees filing with the Commission, 15% to 22% of them (128 to 202 committees) disclosed 88% to 93% of the activity by nonconnected committees (representing approximately $29 million to $65 million of the total $33 million to $70 million disclosed by nonconnected committees). Additionally at that level, 59% to 68% (16,794 to 44,907 pages) of the total number of pages filed by nonconnected committees would have been filed electronically, causing a significant decrease in paper processing and a corresponding increase in the amount of data more rapidly disclosed.</P>
+        <P>The number of nonconnected committees affected will be relatively small since the historical data from the 1996 and 1998 election cycles show that only the largest 15% to 22% of the nonconnected committees registered with the Commission would have been required to file electronically.</P>
+        <HD SOURCE="HD2">5. Separate Segregated Funds</HD>
+        <P>At the $50,000 level, in the 1996 and 1998 election cycles, of the 2,938 to 2,976 SSFs registered with the Commission, 22% to 28% of them (632 to 825 committees) disclosed 85% to 89% ($138 million to $211 million) of the total SSF financial activity. This represents 63% to 68% (between 94,670 and 110,864 pages) of the total number of pages filed by SSFs. Based on historical data, the decrease in the amount of paper filed would represent approximately 100,000 pages of data and hundreds of millions of dollars available almost instantly on the Commission's web site and in the agency's databases.</P>
+        <P>The impact on SSFs will be small considering that, in the 1996 and 1998 election cycles, only 22% to 28% of all SSFs registered with the Commission would have been required to file electronically. Thus, the smallest 72% to 78% (approximately 2,300 committees) of SSFs will continue to have the option of filing paper reports.</P>
+        <P>The NPRM requested comments on whether SSFs should have a lower threshold than other filers because their administrative costs can be paid by their connected organizations. One commenter opposed setting a different threshold because that would lead to confusion and burden SSFs with higher administrative costs than those of other types of committees. The Commission has concluded that it is not appropriate to treat SSFs differently than other types of committees. Therefore it is establishing a uniform $50,000 threshold for all filers.</P>
+        <HD SOURCE="HD2">6. Other Persons Making Independent Expenditures</HD>
+        <P>The 1999 amendment to the FECA requires that &#x201C;a person&#x201D; who is required to file under the Act must file electronically if that person exceeds, or has reason to expect to exceed, the threshold. Therefore, in addition to the committees discussed above, new paragraph (a) of section 104.18 also applies the $50,000 threshold to any other persons defined in 11 CFR 100.10 who are required to file a &#x201C;designation, statement or report&#x201D; with the Commission. This applies only to individuals or qualified non-profit corporations (&#x201C;QNCs&#x201D;) making independent expenditures. 11 CFR 109.2. Thus, under the new rules, individuals and QNCs will be required to file electronically if they make independent expenditures in excess, or that are expected to be in excess, of $50,000 in a calendar year.</P>
+        <P>Data from the 1996 and 1998 election cycles show that the between 7% and 19% (between 2 and 24 persons) of other persons filing with the Commission had aggregate contributions or aggregate expenditures exceeding $50,000 in a calendar year. During that four year period, those persons who exceeded the threshold accounted for 33% and 50% of all activity by other persons in the non-election years, and as high as 94% of all activity by other persons in the Presidential election year and 91% in the midterm election year.</P>
+        <P>The effect of the final rules in section 104.18(a) on this category of filer will be small because historical data show that the number of these other filings is very small. For example, in 1995 and 1997 (the non-election years), only two of 28 and 23 filers (less than 10% in each case), respectively, would have been required to file electronically under the proposed rules. In 1996 and 1998 (1996 being a Presidential election year), the total numbers of filers who would have been affected were 24 of 128 filers (19%) and 13 of 75 filers (17%), respectively.</P>
+        <HD SOURCE="HD2">7. All Committees</HD>
+
+        <P>The historical data for the 1996 and 1998 election cycles show that if a $50,000 mandatory electronic filing threshold had been in place at that time, hundreds of thousands of pages would have been filed electronically, dramatically decreasing the amount of paper processed by both committees<PRTPAGE P="38419"/>and the Commission. Additionally, the amount of financial data that would have been almost instantly disclosed by electronic filing would have been between $544 million and $1.2 billion.</P>
+        <HD SOURCE="HD2">8. Comments on Threshold Amount</HD>
+        <P>The Commission received two comments on the $50,000 threshold. While one commenter strongly favored electronic filing to improve disclosure, it urged the Commission to adopt a much lower threshold of $5,000 because that is the level at which candidates are required to register and begin filing with the Commission. The Commission has determined that a $5,000 threshold is not practical. The 1999 amendment to the FECA requires persons to file electronically if they &#x201C;have reason to expect to&#x201D; exceed the threshold. Under 2 U.S.C. 431(2) and 11 CFR 100.3, an individual is not a candidate and is not required to register and report financial activity until he or she actually exceeds $5,000 in contributions or expenditures. Therefore, to set the electronic filing threshold at $5,000 would require individuals to report electronically before they become candidates under the FECA. Additionally, setting the threshold at $5,000 might be overly burdensome to smaller political committees and other persons who do not have access to the computer hardware required to file electronically.</P>
+        <P>The second commenter stated that its membership was split over the $50,000 proposed threshold. The commenter recommended raising the threshold to $100,000 per calendar year. The Commission believes that setting the threshold at $100,000 for all committees and other persons would vastly increase the amount of paper to be filed and processed, thus greatly decreasing the amount of information immediately available to the public. For example, according to historical data from the 1996 and 1998 election cycles, by raising the threshold from $50,000 to $100,000 an additional 512-610 committees would be allowed to file paper reports numbering between 2,906 and 6,406. Those reports represented 35,341 to 61,275 pages and between $34 million and $41 million in financial activity. The Commission estimates that processing the increased number of reports and pages at a $100,000 threshold would take a minimum of thirty days to complete. If those additional reports are filed electronically, the information will be on the Commission's web site within a few minutes and in the Commission's indexes within twenty-four to forty-eight hours of receipt.</P>
+        <P>The second commenter also stated that the $50,000 threshold might be too burdensome on some committees that just slightly exceed the threshold. The Commission notes that some states have laws requiring electronic filing at much lower thresholds. For example, a recent Georgia statute<SU>4</SU>
+
+          <FTREF/>sets the threshold for candidates at $25,000 beginning January 1, 2001. On January 1, 2003, the threshold for candidates drops to $10,000 and the threshold for independent committees (<E T="03">e.g.,</E>clubs, associations and political action committees) will be $5,000. In New York, any committee that raises or spends, or has reason to expect to raise or spend, more than $1,000 in a calendar year must file electronically.<SU>5</SU>
+          <FTREF/>Given the lower levels set by some states, the Commission has concluded that the $50,000 will not be overly burdensome on political committees.</P>
+        <FTNT>
+          <P>
+            <SU>4</SU>1999 GAH. B. 1630.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>5</SU>NY ELEC &#xA7; 14-102.</P>
+        </FTNT>
+        <HD SOURCE="HD2">9. Threshold Per Calendar Year</HD>
+
+        <P>The 1999 amendment to the Act requires that persons who are required to file with the Commission must &#x201C;maintain and file a designation, statement or report for<E T="03">any calendar year</E>in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission * * *&#x201D; [emphasis added] 113 Stat. 430, 476 (1999). The NPRM proposed calculating the threshold on a calendar year basis but sought comments on whether the threshold should be calculated on an &#x201C;election cycle basis&#x201D; instead. The NPRM asked whether an election cycle threshold should be used for authorized committees only or for all committees and other persons.</P>
+        <P>The Commission received one comment on this issue. The commenter stated that SSFs typically operate on a calendar year basis, and therefore there is no basis for calculating the threshold on an election cycle basis.</P>
+
+        <P>The Commission has concluded that the threshold must be determined on the calendar year basis for the following reasons. First, the Commission notes that Congress specifically provided for an election-cycle approach regarding reporting of receipts and disbursements by authorized committees in the same legislation that specified a calendar-year approach to the electronic filing thresholds. (Election cycle reporting by authorized committees is being addressed in a separate rulemaking.<E T="03">See</E>NPRM 65 FR 25672 (May 3, 2000)). In contrast, the legislative language regarding electronic filing refers to the calendar year and not the election cycle. Thus, the Commission concludes that Congress intended the threshold for mandatory electronic filing to be set on a calendar year basis. Second, there is no mention of treating authorized committees differently than any other committee in either the plain language of the statutory amendment requiring mandatory electronic filing or in its legislative history. Nor is there support for an election cycle approach in the underlying FEC legislative recommendation. Third, since the voluntary electronic filing system requires that once committees start filing electronically they must do so for the remainder of the calendar year, and since the statute requires the voluntary system to be left in place, the Commission believes the intent of the underlying legislative recommendation and of Congress was to maintain the &#x201C;for the calendar year&#x201D; requirement.</P>
+        <HD SOURCE="HD1">C. Filing for the Calendar Year</HD>
+        <P>New paragraph (a)(2) of 11 CFR 104.18 requires that once a filer exceeds, or has reason to expect to exceed, the threshold, the filer must begin filing electronically with his or her next regularly scheduled report and continue filing electronically for the remainder of the calendar year. Paragraph (a)(2) does not require persons to electronically refile any reports, statements or designations that were properly filed on paper earlier in the calendar year or earlier in the election cycle. For example, if an authorized committee files its April quarterly report on paper because it has not exceeded and does not expect to exceed the appropriate threshold and, if in June it exceeds the $50,000 threshold, the committee must electronically file its July quarterly report, but is not expected to go back and electronically refile the April report.</P>
+
+        <P>The Commission received one comment on when a committee must begin filing electronically upon exceeding, or having reason to expect to exceed, the threshold. The commenter recommended allowing monthly filers a 90-day grace period between the time they are required to begin filing electronically and their first electronically filed report. The commenter argued that monthly filers would not have time to convert to the electronic filing system if they unexpectedly exceeded the threshold. The commenter noted that quarterly filers who exceed the threshold in the early part of the quarter have a period of time before the first electronic report<PRTPAGE P="38420"/>must be filed at the end of the quarter. The Commission cannot adopt this approach for several reasons. First, the 1999 amendment to the FECA requires political committees to file electronically upon exceeding, or having reason to expect to exceed, the threshold. The Commission finds no Congressional intent to allow a grace period. The Commission notes that other sections of the FECA allow a specific number of days before filing is required. For example, an individual has 15 days upon becoming a candidate to designate a principal campaign committee, and a principal campaign committee has 10 days upon being so designated to register with the Commission. 2 U.S.C. 432(e)(1) and 433(a). Had Congress intended to allow electronic filers a similar period of time, it would have so stated. Second, unauthorized committees that file monthly have the option to file quarterly instead. Since the new regulations take effect on January 1, 2001&#x2014;a non-election year&#x2014;monthly filers could opt to file under the non-election year quarterly filer schedule. In non-election years, quarterly filers file only mid-year and year-end reports.<SU>6</SU>
+          <FTREF/>Thus, the monthly filers will have sufficient time to convert to electronic filing.</P>
+        <FTNT>
+          <P>
+            <SU>6</SU>11 CFR 104.5(c).</P>
+        </FTNT>
+
+        <P>Under electronic filing regulations at 11 CFR 104.18(b), voluntary electronic filers must continue filing electronically for the remainder of the calendar year unless the Commission determines that an extraordinary and unforeseen circumstance makes electronic filing impracticable. The Commission sought comments on whether a similar provision allowing a committee or other person to stop filing electronically within the calendar year due to extraordinary and unforeseen circumstances should be included in the proposed rules for mandatory electronic filers. The Commission received no comments on this issue. Because the Commission does not have statutory authority to waive reporting requirements under these circumstances and because it is the intention of the new regulations that persons who are required to file electronically but who file on paper be treated as non-filers (<E T="03">see</E>&#x201C;4. Non-filers,&#x201D;<E T="03">infra</E>) the Commission has determined that no such waiver can be established for mandatory electronic filers.</P>
+        <HD SOURCE="HD1">D. Have Reason to Expect to Have</HD>
+        <P>The NPRM, in paragraph (a)(3) of 11 CFR 104.18 proposed two tests to determine when a filer has reason to expect to exceed the threshold. (1) A filer should expect to have financial activity above the $50,000 threshold if it exceeded this amount during the comparable year of the previous election cycle; or (2) A filer should expect to have financial activity exceeding the threshold if the committee's aggregate contributions or expenditures exceeded the threshold during the previous calendar year. In addition, comments were sought on three other possible approaches that were not included in the proposed rules&#x2014;(1) Should the Commission base the expectation solely on the committee's or person's own projections during the year? If so, at what point during the year will political committees and other persons be expected to make the projection? Should it be a one-time forecast at the beginning of the year or a rolling projection that changes as necessary throughout the calendar year? (2) Should new filers having no historical data on which to base a projection, base their expectations of aggregate contributions and expenditures on historical data for similarly situated committees in the previous election cycle; or should such new committees be presumed to have no reason to expect to exceed the threshold until such time as they actually do so? (3) Should a filer have reason to expect to exceed the threshold if it raises or spends more than one quarter of the proposed yearly threshold in the first calendar quarter, or if it raises or spends more than half the threshold in the first half of the calendar year? For example, should a committee be required to file electronically if it raises $30,000 in the first calendar quarter on the grounds that it has reason to expect to exceed the $50,000 threshold within the calendar year?</P>
+        <P>The Commission received one comment on this issue. The commenter stated that under the first proposed test (the &#x201C;comparable year&#x201D; test), its members would be able to make a determination of whether they have reason to expect to exceed the threshold. The commenter pointed out, however, that many committees' non-election year receipts are much lower than the previous, election-year receipts. Therefore, the commenter believed that the second proposed test (the &#x201C;previous year&#x201D; test) would not provide an accurate expectation of contributions or expenditures for many committees.</P>
+        <P>New paragraph (a)(3)(i) contains a combination of the &#x201C;comparable year&#x201D; and the &#x201C;previous year&#x201D; tests proposed in the NPRM. While the Commission understands the commenter's concern with the &#x201C;previous year&#x201D; test, the Commission believes that the administrative inconvenience of going from electronic to paper filing for filers fluctuating above and below the threshold in election and non-election years, respectively, will be overly burdensome on the filers, as well as on the Commission. Therefore, the Commission is combining the two tests proposed in the NPRM to require that once a committee or other person actually exceeds the threshold, that committee or other person has reason to expect to exceed the threshold in the following two calendar years. For example, if a committee exceeds the threshold in May of 2001, it must electronically file its mid-year report due on July 31, and its year end report due on January 31 of the following year. Furthermore, under new paragraph (a)(3)(i), such a committee has reason to expect to exceed the threshold in 2002 and 2003, and must electronically file its reports for those years.</P>
+        <P>However, the new rules also contain an exception to electronic filing for certain candidates who do not intend to run in the next federal election. To qualify for this exception, an authorized committee must have $50,000 or less in net debts outstanding on January 1 of the year following the election and must anticipate terminating prior to the next election year. In addition, under this exception, the candidate must not have qualified as a candidate for the next election and must not intend to become a candidate for federal office in the next election. The Commission anticipates that this exception is likely to apply to the campaign committees of many candidates who have lost the election. Candidate's committees meeting these conditions are not likely to have financial activity in excess of the $50,000 threshold after the election because their only financial activity is likely to relate to raising funds to pay off their debts, which total less than $50,000.</P>
+
+        <P>The commenter also noted that the third alternative proffered in the NPRM, the &#x201C;calendar quarter&#x201D; test, would require a committee to extrapolate annual estimates based on first quarter or first half year receipts. The Commission understands the commenter's objection with regard to the &#x201C;calendar quarter&#x201D; test, however, the Commission concluded that this test will provide a limited means by which filers without any historical data would have reason to expect to exceed the threshold, thus requiring them to file electronically before they actually meet the threshold, more rapidly disclosing their financial activity. Therefore, the<PRTPAGE P="38421"/>&#x201C;calendar quarter&#x201D; test is being added to the final rules as a test only for those filers who have no historical data.</P>
+        <HD SOURCE="HD1">E. Definition of Reports</HD>
+        <P>New paragraph (c) adds a definition of<E T="03">reports.</E>The 1999 amendment to the FECA defines<E T="03">report</E>as &#x201C;. . . a report, designation, or statement required by this Act to be filed with the Commission.&#x201D; Thus, for purposes of 11 CFR 104.18,<E T="03">report</E>means any statement required by the FECA and filed with the Commission. Therefore, reports, designations and statements that are required by the regulations but not the FECA, or that are required to be filed with the Secretary of the Senate, are not subject to the mandatory electronic filing regulations. The Commission received no comments on this provision.</P>
+        <HD SOURCE="HD1">F. Amending Reports</HD>
+        <P>The Commission received one comment on paragraph (f) (former paragraph (d)) of section 104.18 regarding amending electronic reports. The commenter urged the Commission to develop a system whereby electronic filers can file letter amendments electronically, rather than filing amended forms electronically. The commenter argued that letter amendments are easier to file and provide greater opportunity for explanation. The Commission's voluntary electronic filing system has required amendments to electronic reports to be filed electronically since the system's inception in 1996. This process has worked well and has provided sufficient information in amendments. Further, since electronic filing should decrease the number of errors in reports, the number and complexity of amendments may decrease as well.</P>
+        <P>The Commission is deleting the requirement from paragraph (f) that amended reports contain electronic flags or markings that point to the portions of the report that are being amended. The Commission now requires only that amendments comply with the formatting specifications contained in the Electronic Filing Specification Requirements document.</P>
+        <HD SOURCE="HD2">Section 109.2Reporting of independent expenditures by persons other than political committees (2 U.S.C. 434(c))</HD>
+        <P>Previously, under 11 CFR 109.2(a), persons had the option of disclosing independent expenditures by filing either FEC Form 5 or a signed statement. Paragraph (a) is being revised to clarify that electronic filers do not have the option of reporting independent expenditures via signed statement. Beginning with reporting periods after December 31, 2000, anyone who exceeds, or has reason to expect to exceed, the $50,000 threshold, must disclose these independent expenditures electronically on FEC Form 5. Please note that FEC Form 5 must be notarized. Therefore, under paragraph (h) of 11 CFR 104.18, the filer must submit the notary seal and signature either by submitting a paper copy of FEC Form 5 in addition to the electronic form, or by including a digitized version of the notary seal and signature as a separate file in the electronic submission. The Commission anticipates that its free FECFile software will generate FEC Form 5 in the near future. The Commission received no comments on this section.</P>
+        <HD SOURCE="HD2">Section 114.10Nonprofit corporations exempt from the prohibition on independent expenditures (2 U.S.C. 434(c)).</HD>
+        <P>Previously, qualified nonprofit corporations (&#x201C;QNCs&#x201D;) could disclose independent expenditures by either filing FEC Form 5 or by filing a signed statement. Revised paragraph (e)(1)(ii) of 11 CFR 114.10 clarifies that if a QNC exceeds, or has reason to expect to exceed, the $50,000 threshold, it must disclose its independent expenditures electronically on FEC Form 5. Please note that FEC Form 5 must be notarized. Therefore, under paragraph (h) of 11 CFR 104.18, the filer may submit the notary seal and signature either by filing a paper copy of FEC Form 5 in addition to the electronic form or by including a digitized version of the notary seal and signature as a separate file in the electronic submission. The Commission anticipates that its free FECFile software will generate FEC Form 5 in the near future. The Commission received no comments on this section.</P>
+        <HD SOURCE="HD2">Section 9003.1Candidate and committee agreements (2 U.S.C. 9003(a)).</HD>
+        <P>Former paragraph (b)(11) of 11 CFR 9003.1 stated that, as a condition of receiving public funding, Presidential candidates are required to agree to file electronically if their data is computerized. The Commission is removing electronic filing as a condition for receiving public funding because these federally financed Presidential candidates will have reason to expect to exceed and, in fact, will exceed the $50,000 threshold and, therefore, are required to file electronically. The Commission received no comments on this section.</P>
+        <HD SOURCE="HD2">Section 9033.1Candidate and committee agreements (2 U.S.C. 9033(a)).</HD>
+        <P>Previously, under paragraph (b)(13) of this section, as a condition of receiving public funding Presidential candidates in the primary elections were required to agree to file electronically if their data is computerized. This requirement is being deleted for the reasons explained above. The Commission received no comments on this section.</P>
+        <HD SOURCE="HD1">Other Issues</HD>
+        <HD SOURCE="HD2">1. Computerization of Data and FECFile Software</HD>
+        <P>The Commission's computer systems are currently capable of receiving all reports that are required under the new regulations. However, the Commission's FECFile software, which is available from the agency at no cost, does not currently generate all required forms. For example, the FECFile software does not currently generate FEC Form 1 and 2 (Statement of Organization and Statement of Candidacy, respectively), FEC Form 3P for Presidential candidates, FEC Form 4 for Convention and Host Committees to report their receipts and disbursements, or FEC Form 5 for persons other than political committees reporting independent expenditures. The Commission plans to update the FECFile software to generate FEC Forms 1 and 2 by January 1, 2001, and anticipates that FECFile will generate FEC Forms 3P, 4 and 5 in the near future. The Commission received one comment suggesting that the Commission's software should be updated to allow committees to import data from the software they currently use for reporting to FECFile. The Commission notes that committees are not required to use the Commission's filing software. The Commission's computer system is designed to accept properly formatted reports using other software packages. The Commission's Data Systems Development Division is working with the software vendor community to assist the vendors in updating their programs to comply with these mandatory electronic filing regulations. The comment was forwarded to the FEC Data Systems Development Division.</P>
+        <HD SOURCE="HD2">2. Formatting and Standardization Requirements</HD>
+
+        <P>The NPRM proposed maintaining the standardization requirements that are present in the current voluntary electronic filing system. When the voluntary electronic filing system was designed, the Commission created &#x201C;The Federal Election Commission's<PRTPAGE P="38422"/>Electronic Filing Specifications Requirements&#x201D; (EFSR) document and invited comment on that document at that time. The EFSR is available at no charge on the Commission's web site. The Commission is updating the EFSR and intends to use specifications embodied in the updated EFSR for this mandatory electronic filing program. The Commission uses several means of communication to relay changes in the EFSR or other system changes to electronic filers, including special notices, the FEC's web site, the Record newsletter, and electronic mail.</P>
+        <P>Please note that the validation program that checks incoming reports is also being updated. For example, upon completion of this update, the program will no longer accept forms on which the figures disclosed within the report do not add up to the figures reported on the detailed summary page and forms indicating the incorrect type of report.</P>
+        <P>The Commission received no comments on the EFSR or the validation program.</P>
+        <HD SOURCE="HD2">3. Means of Filing</HD>
+        <P>The Commission currently accepts properly formatted electronic reports on diskettes (either hand delivered or sent by other delivery means such as U.S. Postal Service). Although the Commission has no plans at this time to cease accepting electronic reports on disk, most electronic filers find it more convenient to file via electronic upload through an Internet connection.</P>
+        <HD SOURCE="HD2">4. Non-filers</HD>
+
+        <P>The FECA and the new regulations at 11 CFR 104.18 make electronic filing mandatory for those political committees, candidates, and other persons who exceed or who have reason to expect to exceed the threshold set by the Commission. Consequently, political committees, candidates, and other persons who are required to file electronically, but who fail to do so, may be subject to the Commission's enforcement process for non-filers and may have their names published as non-filers under 2 U.S.C. 437g(b) and 438(a)(7). This includes those who are required to file electronically but who file paper reports instead. Additionally, in 1999, Congress amended 2 U.S.C. 437g(a)(4) and (6)(A) to authorize the Commission to impose an administrative fine on late and non-filers pursuant to a schedule of civil money penalties. The Commission recently promulgated final rules and penalty schedules.<E T="03">See</E>65 FR 31787 (May 19, 2000). The Commission received no comments on this issue.</P>
+        <HD SOURCE="HD1">Certification of No Effect Pursuant to 5 U.S.C. 605(b) (Regulatory Flexibility Act)</HD>
+        <P>These final rules will not have a significant economic impact on a substantial number of small entities. The basis of this certification is that the Commission's thresholds are set at a sufficiently high level that most, if not all, small political committees are not required to file electronically, although they could continue to do so voluntarily. In the event that any small committees do exceed the proposed threshold, the economic impact is not significant because the committees may obtain the FECFile software from the Commission at no cost, and the Commission anticipates this software will generate all required forms.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>11 CFR Part 100</CFR>
+          <P>Elections.</P>
+          <CFR>11 CFR Part 101</CFR>
+          <P>Political candidates, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 102</CFR>
+          <P>Political committees and parties, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 104</CFR>
+          <P>Campaign funds, Political committees and parties, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 109</CFR>
+          <P>Elections, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 114</CFR>
+          <P>Business and industry, Elections, Labor.</P>
+          <CFR>11 CFR Part 9003</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 9033</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+        </LSTSUB>
+        <REGTEXT PART="100" TITLE="11">
+          <AMDPAR>For the reasons set out in the preamble, subchapters A, E and F of chapter I of title 11 of the Code of Federal Regulations are amended as follows:</AMDPAR>
+          <PART>
+            <HD SOURCE="HED">PART 100&#x2014;SCOPE AND DEFINITIONS (2 U.S.C. 431)</HD>
+          </PART>
+          <AMDPAR>1. The authority for part 100 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431, 434(a)(11), 438(a)(8).</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="100" TITLE="11">
+          <AMDPAR>2. Section 100.19 is amended by adding paragraph (c) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 100.19</SECTNO>
+            <SUBJECT>File, filed or filing (2 U.S.C. 434(a)).</SUBJECT>
+            <STARS/>
+            <P>(c) For electronic filing purposes, a document is timely filed when it is received and validated by the Federal Election Commission at or before 11:59 p.m., Eastern Standard/Daylight Time, on the filing date.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="101" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 101&#x2014;CANDIDATE STATUS AND DESIGNATIONS (2 U.S.C. 432(e))</HD>
+          </PART>
+          <AMDPAR>3. The authority citation for part 101 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 432(e), 434(a)(11), 438(a)(f).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="101" TITLE="11">
+          <AMDPAR>4. Section 101.1 is amended by revising paragraph (a) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 101.1</SECTNO>
+            <SUBJECT>Candidate designations (2 U.S.C. 432(e)(1)).</SUBJECT>
+            <P>(a)<E T="03">Principal Campaign Committee.</E>Within 15 days after becoming a candidate under 11 CFR 100.3, each candidate, other than a nominee for the office of Vice President, shall designate in writing a principal campaign committee in accordance with 11 CFR 102.12. A candidate shall designate his or her principal campaign committee by filing a Statement of Candidacy on FEC Form 2, or, if the candidate is not required to file electronically under 11 CFR 104.18, by filing a letter containing the same information (that is, the individual's name and address, party affiliation and office sought, the District and State in which Federal office is sought, and the name and address of his or her principal campaign committee) at the place of filing specified at 11 CFR part 105. Each principal campaign committee shall register, designate a depository and report in accordance with 11 CFR Parts 102, 103 and 104.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="102" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 102&#x2014;REGISTRATION, ORGANIZATION AND RECORDKEEPING BY POLITICAL COMMITTEES (2 U.S.C. 433).</HD>
+          </PART>
+          <AMDPAR>5. The authority citation for part 102 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 432, 433, 434(a)(11), 438(a)(8), 441d.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="102" TITLE="11">
+          <AMDPAR>6. Section 102.2 is amended by revising paragraphs (a)(1)(vi) and (a)(2), and adding (a)(1)(vii) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 102.2</SECTNO>
+            <SUBJECT>Statement of organization: Forms and committee identification number (2 U.S.C. 433(b), (c)).</SUBJECT>
+            <P>(a) * * *</P>
+            <P>(1) * * *</P>
+
+            <P>(vi) A listing of all banks, safe deposit boxes, or other depositories used by the committee; and<PRTPAGE P="38423"/>
+            </P>
+            <P>(vii) The Internet address of the committee's official web site, if such a web site exists. If the committee is required to file electronically under 11 CFR 104.18, its electronic mail address, if such an address exists.</P>
+            <P>(2) Any change or correction in the information previously filed in the Statement of Organization shall be reported no later than 10 days following the date of the change or correction by filing an amended Statement of Organization or, if the political committee is not required to file electronically under 11 CFR 104.18, by filing a letter noting the change(s). The amendment need list only the name of the political committee and the change or correction.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 104&#x2014;REPORTS BY POLITICAL COMMITTEES (2 U.S.C. 434)</HD>
+          </PART>
+          <AMDPAR>7. The authority citation for part 104 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(1), 431(8), 431(9), 432(i), 434, 438(a)(8) and (b) and 439a.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <AMDPAR>8. Section 104.5 is amended by revising paragraph (e) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 104.5</SECTNO>
+            <SUBJECT>Filing dates (2 U.S.C. 434(a)(2)).</SUBJECT>
+            <STARS/>
+            <P>(e)<E T="03">Date of filing.</E>A designation, report or statement sent by registered or certified mail shall be considered filed on the date of the U.S. post mark except that a twelve day pre-election report sent by certified or registered mail shall be mailed no later than the 15th day before any election. Designations, reports or statements sent by first class mail must be received by the close of business of the prescribed filing date to be timely filed. Designations, reports or statements electronically filed must be received and validated at or before 11:59 p.m., Eastern Standard/Daylight Time on the prescribed filing date to be timely filed.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <AMDPAR>9. Section 104.18 is revised to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 104.18</SECTNO>
+            <SUBJECT>Electronic filing of reports (2 U.S.C. 432(d) and 434(a)(11)).</SUBJECT>
+            <P>(a)<E T="03">Mandatory.</E>(1) Political committees and other persons required to file reports with the Commission, as provided in 11 CFR Parts 105 and 107, must file reports in an electronic format that meets the requirements of this section if &#x2014;</P>
+            <P>(i) The political committee or other person has received contributions or has reason to expect to receive contributions aggregating in excess of $50,000 in any calendar year; or</P>
+            <P>(ii) The political committee or other person has made expenditures or has reason to expect to make expenditures aggregating in excess of $50,000 in any calendar year.</P>
+            <P>(2) Once any political committee or other person described in paragraph (a)(1) of this section exceeds or has reason to expect to exceed the appropriate threshold, the political committee or person must file electronically all subsequent reports covering financial activity for the remainder of the calendar year. All electronically filed reports must pass the Commission's validation program in accordance with paragraph (e) of this section. Reports filed on paper do not satisfy a political committee's or other person's filing obligations.</P>
+            <P>(3) Have Reason to Expect to Exceed.</P>
+            <P>(i) A political committee or other person shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section for two calendar years following the calendar year in which the political committee or other person exceeds the threshold unless&#x2014;</P>
+            <P>(A) The committee is an authorized committee, and has $50,000 or less in nets debts outstanding on January 1 of the year following the general election, and anticipates terminating prior to January 1 of the next election year; and</P>
+            <P>(B) The candidate has not qualified as a candidate for the next election and does not intend to become a candidate for federal office in the next election.</P>
+            <P>(ii) New political committees or other persons with no history of campaign finance activity shall have reason to expect to exceed the threshold stated in paragraph (a)(1) of this section within the calendar year if&#x2014;</P>
+            <P>(A) It receives contributions or makes expenditures that exceed one quarter of the threshold amount in the first calendar quarter of the calendar year; or</P>
+            <P>(B) It receives contributions or makes expenditures that exceed one-half of the threshold amount in the first half of the calendar year.</P>
+            <P>(b)<E T="03">Voluntary.</E>A political committee or other person who files reports with the Commission, as provided in 11 CFR part 105, and who is not required to file electronically under paragraph (a) of this section, may choose to file its reports in an electronic format that meets the requirements of this section. If a political committee or other person chooses to file its reports electronically, all electronically filed reports must pass the Commission's validation program in accordance with paragraph (e) of this section. The committee or other person must continue to file in an electronic format all reports covering financial activity for that calendar year, unless the Commission determines that extraordinary and unforeseeable circumstances have made it impracticable for the political committee or other person to continue filing electronically.</P>
+            <P>(c)<E T="03">Definition of report.</E>For purposes of this section,<E T="03">report</E>means any statement, designation or report required by the Act to be filed with the Commission.</P>
+            <P>(d)<E T="03">Format specifications.</E>Reports filed electronically shall conform to the technical specifications described in the Federal Election Commission's Electronic Filing Specifications Requirements. The data contained in the computerized magnetic media provided to the Commission shall be organized in the order specified by the Electronic Filing Specifications Requirements.</P>
+            <P>(e)<E T="03">Acceptance of reports filed in electronic format; validation program.</E>
+            </P>
+            <P>(1) Each political committee or other person who submits an electronic report shall check the report against the Commission's validation program before it is submitted, to ensure that the files submitted meet the Commission's format specifications and can be read by the Commission's computer system. Each report submitted in an electronic format under this section shall also be checked upon receipt against the Commission's validation program. The Commission's validation program and the Electronic Filing Specification Requirement are available on request and at no charge.</P>
+            <P>(2) A report that does not pass the validation program will not be accepted by the Commission and will not be considered filed. If a political committee or other person submits a report that does not pass the validation program, the Commission will notify the political committee or other person that the report has not been accepted.</P>
+            <P>(f)<E T="03">Amended reports.</E>If a political committee or other person files an amendment to a report that was filed electronically, the political committee or other person shall also submit the amendment in an electronic format. The political committee or other person shall submit a complete version of the report as amended, rather than just those portions of the report that are being amended. In addition, amendments must be filed in accordance with the Electronic Filing Specification Requirements.</P>
+            <P>(g)<E T="03">Signature requirements.</E>The political committee's treasurer, or any other person having the responsibility to file a designation, report or statement under this subchapter, shall verify the report in one of the following ways: by submitting a signed certification on<PRTPAGE P="38424"/>paper that is submitted with the computerized media; or by submitting a digitized copy of the signed certification as a separate file in the electronic submission. Each verification submitted under this section shall certify that the treasurer or other signatory has examined the report or statement and, to the best of the signatory's knowledge and belief, it is true, correct and complete. Any verification under this section shall be treated for all purposes (including penalties for perjury) in the same manner as a verification by signature on a report submitted in a paper format.</P>
+            <P>(h)<E T="03">Schedules and forms with special requirements.</E>The following list of schedules, materials, and forms have special signature and other requirements and reports containing these documents shall include, in addition to providing the required data within the electronic report, either a paper copy submitted with the political committee's or other person's electronic report or a digitized version submitted as a separate file in the electronic submission: Schedule C-1 (Loans and Lines of Credit From Lending Institutions), including copies of loan agreements required to be filed with that Schedule, Schedule E (Itemized Independent Expenditures), Form 5 (Report of Independent Expenditures Made and Contributions Received), and Form 8 (Debt Settlement Plan). The political committee or other person shall submit any paper materials together with the electronic media containing the report.</P>
+            <P>(i)<E T="03">Preservation of reports.</E>For any report filed in electronic format under this section, the treasurer or other person required to file any report under the Act shall retain a machine-readable copy of the report as the copy preserved under 11 CFR 104.14(b)(2). In addition, the treasurer or other person required to file any report under the Act shall retain the original signed version of any documents submitted in a digitized format under paragraphs (g) and (h) of this section.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="109" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 109&#x2014;INDEPENDENT EXPENDITURES (2 U.S.C. 431(17), 434(c)).</HD>
+          </PART>
+          <AMDPAR>10. The authority for part 109 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(17), 434(a)(11) and (c), 438(a)(8), 441d.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="109" TITLE="11">
+          <AMDPAR>11. Section 109.2 is amended by revising the introductory text of paragraph (a) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 109.2</SECTNO>
+            <SUBJECT>Reporting of independent expenditures by persons other than a political committee 2 U.S.C. 434(c)).</SUBJECT>
+            <P>(a) Every person other than a political committee, who makes independent expenditures aggregating in excess of $250 during a calendar year shall file a report on FEC Form 5 or, if the person is not required to file electronically under 11 CFR 104.18, a signed statement with the Commission or Secretary of the Senate in accordance with 11 CFR 104.4(c).</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="114" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 114&#x2014;CORPORATE AND LABOR ORGANIZATION ACTIVITY</HD>
+          </PART>
+          <AMDPAR>12. The authority citation for part 114 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(8)(B), 431(9)(B), 432, 434(a)(11), 437d(a)(8), 438(a)(8) and 441b.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="114" TITLE="11">
+          <AMDPAR>13. Section 114.10 is amended by revising paragraph (e)(1)(ii) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 114.10</SECTNO>
+            <SUBJECT>Nonprofit corporations exempt from the prohibition on independent expenditures.</SUBJECT>
+            <STARS/>
+            <P>(e) * * *</P>
+            <P>(1) * * *</P>
+            <P>(ii) This certification may be made either as part of filing FEC Form 5 (independent expenditure form) or, if the corporation is not required to file electronically under 11 CFR 104.18, by submitting a letter in lieu of the form. The letter shall contain the name and address of the corporation and the signature and printed name of the individual filing the qualifying statement. The letter shall also certify that the corporation has the characteristics set forth in paragraphs (c)(1) through (c)(5) of this section.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="9003" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9003&#x2014;ELIGIBILITY FOR PAYMENTS</HD>
+          </PART>
+          <AMDPAR>14. The authority citation for part 9003 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9003 and 9009(b).</P>
+          </AUTH>
+          <SECTION>
+            <SECTNO>&#xA7; 9003.1</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="9003" TITLE="11">
+          <AMDPAR>15. Section 9003.1 is amended by removing paragraph (b)(11).</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="9033" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9033&#x2014;ELIGIBILITY FOR PAYMENTS</HD>
+          </PART>
+          <AMDPAR>16. The authority citation for part 9033 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9033 and 9039(b).</P>
+          </AUTH>
+          <SECTION>
+            <SECTNO>&#xA7; 9033.1</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="9003" TITLE="11">
+          <AMDPAR>17. Section 9033.1 is amended by removing paragraph (b)(13).</AMDPAR>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: June 16, 2000.</DATED>
+          <NAME>Darryl R. Wold,</NAME>
+          <TITLE>Chairman, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 00-15668 Filed 6-20-00; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

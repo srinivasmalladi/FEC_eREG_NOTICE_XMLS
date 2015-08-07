@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>FEDERAL CONTRACTORS</TITLE>
+    <GRANULENUM>115</GRANULENUM>
+    <HEADING>PART 115</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 115—FEDERAL CONTRACTORS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>115.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <SECTNO>115.2</SECTNO>
+      <SUBJECT>Prohibition.</SUBJECT>
+      <SECTNO>115.3</SECTNO>
+      <SUBJECT>Corporations, labor organizations, membership organizations, cooperatives, and corporations without capital stock.</SUBJECT>
+      <SECTNO>115.4</SECTNO>
+      <SUBJECT>Partnerships.</SUBJECT>
+      <SECTNO>115.5</SECTNO>
+      <SUBJECT>Individuals and sole proprietors.</SUBJECT>
+      <SECTNO>115.6</SECTNO>
+      <SUBJECT>Employee contributions or expenditures.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>Sec. 310(8), Pub. L. 92-225, added by sec. 208, Pub. L. 93-443, 88 Stat. 1279, and amended by secs. 105 and 107(a)(1), Pub. L. 94-283, 90 Stat. 481 (2) U.S.C. 437d(a)(8)), and sec. 315(a)(10), Pub. L. 92-225, 86 Stat. 16, amended by secs. 208(a) and (c)(10), and 209(a)(1) and (b)(1), Pub. L. 93-443, 88 Stat. 1279, 1287, and sec. 105, Pub. L. 94-283, 90 Stat. 481 (2 U.S.C. 438(a)(10)).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>41 FR 35963, Aug. 25, 1976, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 115.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <P>(a) <E T="03">A Federal contractor</E> means a person, as defined in 11 CFR 100.10 who—</P>
+      <P>(1) Enters into any contract with the United States or any department or agency thereof either for—</P>
+      <P>(i) The rendition of personal services; or</P>
+      <P>(ii) Furnishing any material, supplies, or equipment; or</P>
+      <P>(iii) Selling any land or buildings;<PRTPAGE P="176"/>
+      </P>
+      <P>(2) If the payment for the performance of the contract or payment for the material, supplies, equipment, land, or building is to be made in whole or in part from funds appropriated by the Congress.</P>
+      <P>(b) The period during which a person is prohibited from making a contribution or expenditure is the time between the earlier of the commencement of negotiations or when the requests for proposals are sent out, and the later of—</P>
+      <P>(1) The completion of performance under; or</P>
+      <P>(2) The termination of negotiations for, the contract or furnishing of material, supplies, equipment, land, or buildings, or the rendition of personal services.</P>
+      <P>(c) For purposes of this part, a contract includes</P>
+      <P>(1) A sole source, negotiated, or advertised procurement conducted by the United States or any of its agencies;</P>
+      <P>(2) A written (except as otherwise authorized) contract, between any person and the United States or any of its departments or agencies, for the furnishing of personal property, real property, or personal services; and</P>
+      <P>(3) Any modification of a contract.</P>
+      <P>(d) The basic contractual relationship must be with the United States or any department or agency thereof. A person who contracts with a State or local jurisdiction or entity other than the United States or any department or agency thereof is not subject to this part, even if the State or local jurisdiction or entity is funded in whole or in part from funds appropriated by the Congress. The third party beneficiary of a Federal contract is not subject to the prohibitions of this part.</P>
+      <P>(e) The term labor organization has the meaning given it by § 114.1(a).</P>
+      <CITA>[41 FR 35963, Aug. 25, 1976, as amended at 45 FR 21210, Apr. 1, 1980]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 115.2</SECTNO>
+      <SUBJECT>Prohibition.</SUBJECT>
+      <P>(a) It shall be unlawful for a Federal contractor, as defined in § 115.1(a), to make, either directly or indirectly, any contribution or expenditure of money or other thing of value, or to promise expressly or impliedly to make any such contribution or expenditure to any political party, committee, or candidate for Federal office or to any person for any political purpose or use. This prohibition does not apply to contributions or expenditures in connection with State or local elections.</P>
+      <P>(b) This prohibition runs for the time period set forth in § 115.1(b).</P>
+      <P>(c) It shall be unlawful for any person knowingly to solicit any such contribution from a Federal contractor.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 115.3</SECTNO>
+      <SUBJECT>Corporations, labor organizations, membership organizations, cooperatives, and corporations without capital stock.</SUBJECT>
+      <P>(a) Corporations, labor organizations, membership organizations, cooperatives, and corporations without capital stock to which this part applies may expend treasury monies to establish, administer, and solicit contributions to any separate segregated fund subject to the provisions of part 114. Each specific prohibition, allowance, and duty applicable to a corporation, labor organization, or separate segregated fund under part 114 applies to a corporation, labor organization, or separate segregated fund to which this part applies.</P>
+      <P>(b) The question of whether a professional organization is a corporation is determined by the law of the State in which the professional organization exists.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 115.4</SECTNO>
+      <SUBJECT>Partnerships.</SUBJECT>
+      <P>(a) The assets of a partnership which is a Federal contractor may not be used to make contributions or expenditures in connection with Federal elections.</P>
+      <P>(b) Individual partners may make contributions or expenditures in their own names from their personal assets.</P>
+      <P>(c) Nothing in this part prohibits an employee of a partnership which is a Federal contractor from making contributions or expenditures from his or her personal assets.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 115.5</SECTNO>
+      <SUBJECT>Individuals and sole proprietors.</SUBJECT>
+
+      <P>Individuals or sole proprietors who are Federal contractors are prohibited from making contributions or expenditures from their business, personal, or other funds under their dominion or control. The spouse of an individual or <PRTPAGE P="177"/>sole proprietor who is a Federal contractor is not prohibited from making a personal contribution or expenditure in his or her name.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 115.6</SECTNO>
+      <SUBJECT>Employee contributions or expenditures.</SUBJECT>
+      <P>Nothing in this part shall prohibit the stockholders, officers, or employees of a corporation, the employees, officers, or members of an unincorporated association, cooperative, membership organization, labor organization, or other group or organization which is a Federal contractor from making contributions or expenditures from their personal assets.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

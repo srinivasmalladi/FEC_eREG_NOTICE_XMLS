@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2000-01-01</DATE>
+    <ORIGINALDATE>2000-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>EXPENDITURE LIMITATIONS</TITLE>
+    <GRANULENUM>9035</GRANULENUM>
+    <HEADING>PART 9035</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 11" SEQ="2">Federal Elections</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">FEDERAL ELECTION COMMISSION</PARENT>
+      <PARENT HEADING="SUBCHAPTER F" SEQ="0">PRESIDENTIAL ELECTION CAMPAIGN FUND: PRESIDENTIAL PRIMARY MATCHING FUND</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 9035</EAR>
+    <HD SOURCE="HED">PART 9035—EXPENDITURE LIMITATIONS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>9035.1</SECTNO>
+      <SUBJECT>Campaign expenditure limitation; compliance and fundraising exemptions.</SUBJECT>
+      <SECTNO>9035.2</SECTNO>
+      <SUBJECT>Limitation on expenditures from personal or family funds.</SUBJECT>
+      <SECTNO>9035.3</SECTNO>
+      <SUBJECT>Contributions to and expenditures by Vice Presidential candidates.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>26 U.S.C. 9035 and 9039(b).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>56 FR 35491, July 29, 1991, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 9035.1</SECTNO>
+      <SUBJECT>Campaign expenditure limitation; compliance and fundraising exemptions.</SUBJECT>
+      <P>(a) <E T="03">Spending limit.</E> (1) No candidate or his or her authorized committee(s) shall knowingly incur expenditures in connection with the candidate's campaign for nomination, which expenditures, in the aggregate, exceed $10,000,000 (as adjusted under 2 U.S.C. 441a(c)), except that the aggregate expenditures by a candidate in any one State shall not exceed the greater of: 16 cents (as adjusted under 2 U.S.C. 441a(c)) multiplied by the voting age population of the State (as certified under 2 U.S.C. 441a(e)); or $200,000 (as adjusted under 2 U.S.C. 441a(c)).</P>
+      <P>(2) The Commission will calculate the amount of expenditures attributable to the overall expenditure limit or to a particular state using the full amounts originally charged for goods and services rendered to the committee and not the amounts for which such obligations were settled and paid, unless the committee can demonstrate that the lower amount paid reflects a reasonable settlement of a bona fide dispute with the creditor.</P>
+      <P>(b) <E T="03">Allocation of expenditures.</E> Each candidate receiving or expecting to receive matching funds under this subchapter shall also allocate his or her expenditures in accordance with the provisions of 11 CFR 106.2.</P>
+      <P>(c) <E T="03">Compliance and fundraising exemptions.</E> (1) A candidate may exclude from the overall expenditure limitation set forth in paragraph (a) of this section an amount equal to 15% of the overall expenditure limitation as exempt legal and accounting compliance costs under 11 CFR 100.8(b)(15).<PRTPAGE P="269"/>
+      </P>
+      <P>(2) A candidate may exclude from the overall expenditure limitation of 11 CFR 9035.1 the amount of exempt fundraising costs specified in 11 CFR 100.8(b)(21)(iii).</P>
+      <P>(d) <E T="03">Candidates not receiving matching funds.</E> The expenditure limitations of 11 CFR 9035.1 shall not apply to a candidate who does not receive matching funds at any time during the matching payment period.</P>
+      <CITA>[64 FR 49364, Sept. 13, 1999]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9035.2</SECTNO>
+      <SUBJECT>Limitation on expenditures from personal or family funds.</SUBJECT>
+      <P>(a)(1) No candidate who has accepted matching funds shall knowingly make expenditures from his or her personal funds, or funds of his or her immediate family, in connection with his or her campaign for nomination for election to the office of President which exceed $50,000, in the aggregate. This section shall not operate to prohibit any member of the candidate's immediate family from contributing his or her personal funds to the candidate, subject to the limitations of 11 CFR part 110. The provisions of this section also shall not limit the candidate's liability for, nor the candidate's ability to pay, any repayments required under 11 CFR part 9038. If the candidate or his or her committee knowingly incurs expenditures in excess of the limitations of 11 CFR 110.8(a), the Commission may seek civil penalties under 11 CFR part 111 in addition to any repayment determinations made on the basis of such excessive expenditures.</P>
+
+      <P>(2) Expenditures made using a credit card for which the candidate is jointly or solely liable will count against the limits of this section to the extent that the full amount due, including any finance charge, is not paid by the committee within 60 days after the closing date of the billing statement on which the charges first appear. For purposes of this section, the <E T="03">closing date</E> shall be the date indicated on the billing statement which serves as the cutoff date for determining which charges are included on that billing statement.</P>
+      <P>(b) For purposes of this section, the term <E T="03">immediate family</E> means a candidate, spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.</P>
+      <P>(c) For purposes of this section, <E T="03">personal funds</E> has the same meaning as specified in 11 CFR 110.10.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9035.3</SECTNO>
+      <SUBJECT>Contributions to and expenditures by Vice Presidential candidates.</SUBJECT>
+      <P>(a) <E T="03">Aggregation of contributions and expenditures.</E> For purposes of the limitations on contributions and expenditures of this part and part 110, contributions to, and expenditures by, the authorized committee of a candidate who becomes the nominee of a political party for the office of Vice President of the United States shall be aggregated with contributions to and expenditures by the publicly funded primary candidate who obtains that political party's nomination for the office of President of the United States, provided that the contributions to or expenditures by the authorized committee of the Vice Presidential candidate were made on or after the date on which—</P>
+      <P>(1) The Presidential or Vice Presidential candidate publicly indicates that the two candidates intend to run on the same ticket;</P>
+      <P>(2) The candidate for the office of Vice President accepts an offer by the publicly funded primary candidate for the office of President, or by the Presidential candidate's agent(s), to run on the same ticket; or</P>
+      <P>(3) The Presidential and Vice Presidential committees become affiliated pursuant to 11 CFR 100.5(g)(4)(i) or (ii).</P>
+      <P>(b) <E T="03">Exceptions.</E> The following expenditures, if incurred by the authorized committee of a candidate who subsequently becomes the nominee of a political party for the office of Vice President of the United States, will not be aggregated under paragraph (a) of this section:</P>
+      <P>(1) The cost of attendance by the candidate, the candidate's family, and the candidate's authorized committee's staff at a political party's national nominating convention, including the cost of transportation, lodging, and subsistence;</P>
+
+      <P>(2) The cost of legal and accounting services associated with background checks during the Vice Presidential selection process; and<PRTPAGE P="270"/>
+      </P>
+      <P>(3) The cost of raising funds for the expenses listed in paragraphs (b)(1) and (b)(2) of this section.</P>
+      <CITA>[64 FR 61781, Nov. 15, 1999]</CITA>
+      <EFFDNOT>
+        <HD SOURCE="HED">Effective Date Note:</HD>
+        <P>At 64 FR 61781, Nov. 15, 1999, § 9035.3 was added, effective after this regulation has been before Congress for thirty legislative days pursuant to 26 U.S.C. 9009(c) and 9039(c).</P>
+      </EFFDNOT>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

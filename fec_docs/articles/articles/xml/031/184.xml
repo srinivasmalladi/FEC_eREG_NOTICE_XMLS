@@ -1,0 +1,134 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="2871"/>
+        <AGENCY TYPE="F">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 104 and 110</CFR>
+        <DEPDOC>[Notice 2003-2]</DEPDOC>
+        <SUBJECT>BCRA Technical Corrections</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; technical amendments.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Commission published technical amendments to its regulations on December 26, 2002, entitled &#x201C;BCRA Technical Amendments.&#x201D; These amendments became effective upon publication. However, some of the amendments changed regulations that were promulgated but had not become effective as of December 26, 2002, and therefore could not take effect. Thus, the Commission is re-promulgating the technical amendments that did not take effect with the original BRCA technical amendments. Further information is provided in the supplementary information that follows.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">EFFECTIVE DATES:</HD>
+          <P>The effective date for the revisions to 11 CFR 104.3(d)(1), introductory text, is December 31, 2002. The effective date for revisions to 11 CFR 110.19(e) is January 1, 2003.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Mai T. Dinh, Acting Assistant General Counsel, 999 E Street, NW., Washington DC, 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P>The Commission promulgated a series of regulations to implement the Bipartisan Campaign Reform Act of 2002 (&#x201C;BCRA&#x201D;), Public Law 107-155, 116 Stat. 81 (March 27, 2002).<SU>1</SU>
+
+          <FTREF/>As part of that effort, the Commission recently published technical amendments to its regulations to correct obsolete citations and typographical errors.<E T="03">See</E>BCRA Technical Amendments Final Rule, 67 FR 78679 (Dec. 26, 2002). While these technical amendments became effective on December 26, 2002, the final rule amended sections that had been promulgated but had not yet been made effective as of that date. The affected sections are 11 CFR 104.3(d)(1) and 110.19(e). Additionally, the changes to the amendments to 11 CFR 113.1(g)(5) and (6), and 114.10(e) that were part of the BCRA Technical Amendments Final Rule will not be made because they are no longer necessary.<SU>2</SU>
+          <FTREF/>Therefore, the Commission is publishing and establishing the correct effective dates for the revisions to 11 CFR 104.3(d)(1) and 110.19(e) in this final rule.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>
+            <E T="03">See</E>the following rulemakings: Final Rules on Prohibited and Excessive Contributions: Non-Federal Funds or Soft, 67 FR 49064 (July 29, 2002); Final Rules on Reorganization of Regulations on Contributions and Expenditures, 67 FR 50582 (Aug. 5, 2002); Final Rules on Corrdinated and Independent expenditures, 67 FR (Jan. 3, 2003); Final Rules on Electioneering Communications, 67 FR 65212 (October 23, 2002); Final Rules on Contribution Limitations and Prohibitions, 67 FR 69928 (Nov. 19, 2002).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>The appropriate changes to 11 CFR 113.1(g)(5) and (6), and 114.10(e)(2) have already been made as part of the Final Rules on Disclaimers, Fraudulent Solicitation, Civil Penalties, and Personal Use of Campaign Funds, 67 FR 76962, 76979 (Dec. 13, 2002), and Final Rules on Electioneering Communications, 67 FR at 65212, respectively.</P>
+        </FTNT>
+
+        <P>Because the amendments published herein are merely technical and nonsubstantive, they are not a substantive rule requiring notice and comment under Administrative Procedure Act, 5 U.S.C. 553. Under the &#x201C;good cause&#x201D; exception in 5 U.S.C. 553(b)(B) and 553(d)(3), these technical amendments do not need to wait the 30 days after publication in the<E T="04">Federal Register</E>to become effective. Rather, the effective date for the revisions to 11 CFR 104.3(d)(1) is December 31, 2002; and the effective date for 11 CFR 110.19(e) is January 1, 2003.</P>
+        <HD SOURCE="HD1">Certification of No Effect Pursuant to 5 U.S.C. 605(b) (Regulatory Flexibility Act)</HD>
+        <P>This final rule does not have a significant economic impact on a substantial number of small entities. The amendments in this final rule are all technical and nonsubstantive in nature and do not have any economic impact on any entity subject to the underlying regulations.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>11 CFR Part 104</CFR>
+          <P>Campaign funds, Political committees and parties, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 110</CFR>
+          <P>Campaign funds, Political committees and parties.</P>
+        </LSTSUB>
+        <REGTEXT PART="104" TITLE="11">
+
+          <AMDPAR>For the reasons set out in the preamble, subchapters A of chapter 1 of title 11 of the<E T="03">Code of Federal Regulations</E>are amended as follows:</AMDPAR>
+          <PART>
+            <HD SOURCE="HED">PART 104&#x2014;REPORTS BY POLITICAL COMMITTEES (2 U.S.C. 434)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 104 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(1), 431(8), 431(9), 432(i), 434, 438(a)(8) and (b), and 439a.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7; 104.3</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>2. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r50,xs88" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">104.3(d)(1), introductory text</ENT>
+              <ENT>100.7(b)(11)</ENT>
+              <ENT>100.82(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1), introductory text</ENT>
+              <ENT>100.8(b)(12)</ENT>
+              <ENT>100.142(a) through (d).</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="110" TITLE="11">
+          <PART>
+            <PRTPAGE P="2872"/>
+            <HD SOURCE="HED">PART 110&#x2014;CONTRIBUTION AND EXPENDITURE LIMITATIONS AND PROHIBITIONS</HD>
+          </PART>
+          <AMDPAR>3. The authority citation for part 110 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(8), 431(9), 432(c)(2), 437d, 438(a)(8), 441a, 441b, 441d, 441e, 441f, 441g, 441h and 441k.</P>
+          </AUTH>
+          <SECTION>
+            <SECTNO>&#xA7; 110.19</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>4. In the table below, for each section indicated in the left column, remove the citation or phrase indicated in the middle column, and replace it with the citation or phrase indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r50,xs88" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">110.19(e) paragraph heading</ENT>
+              <ENT>maintain, finance</ENT>
+              <ENT>finance, maintain.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">110.19(e)</ENT>
+              <ENT>maintain, finance</ENT>
+              <ENT>finance, maintain.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: January 14, 2003.</DATED>
+          <NAME>Ellen L. Weintraub,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 03-1184 Filed 1-21-03; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

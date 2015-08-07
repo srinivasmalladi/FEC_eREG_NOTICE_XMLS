@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>EXPENDITURE LIMITATIONS</TITLE>
+    <GRANULENUM>9035</GRANULENUM>
+    <HEADING>PART 9035</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER F" SEQ="0">PRESIDENTIAL ELECTION CAMPAIGN FUND: PRESIDENTIAL PRIMARY MATCHING FUND</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 9035—EXPENDITURE LIMITATIONS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>9035.1</SECTNO>
+      <SUBJECT>Campaign expenditure limitation.</SUBJECT>
+      <SECTNO>9035.2</SECTNO>
+      <SUBJECT>Limitation on expenditures from personal or family funds.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>26 U.S.C. 9035 and 9039(b).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>56 FR 35491, July 29, 1991, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 9035.1</SECTNO>
+      <SUBJECT>Campaign expenditure limitation.</SUBJECT>
+
+      <P>(a)(1) No candidate or his or her authorized committee(s) shall knowingly incur expenditures in connection with <PRTPAGE P="262"/>the candidate's campaign for nomination, which expenditures, in the aggregate, exceed $10,000,000 (as adjusted under 2 U.S.C. 441a(c)), except that the aggregate expenditures by a candidate in any one State shall not exceed the greater of: 16 cents (as adjusted under 2 U.S.C. 441a(c)) multiplied by the voting age population of the State (as certified under 2 U.S.C. 441a(e)); or $200,000 (as adjusted under 2 U.S.C. 441a(c)).</P>
+      <P>(2) The Commission will calculate the amount of expenditures attributable to the overall expenditure limit or to a particular state using the full amounts originally charged for goods and services rendered to the committee and not the amounts for which such obligations were settled and paid, unless the committee can demonstrate that the lower amount paid reflects a reasonable settlement of a bona fide dispute with the creditor.</P>
+      <P>(b) Each candidate receiving or expecting to receive matching funds under this subchapter shall also allocate his or her expenditures in accordance with the provisions of 11 CFR 106.2.</P>
+      <P>(c)(1) A candidate may exclude from the overall expenditure limitation of 11 CFR 9035.1 an amount equal to 10% of all salaries and overhead expenditures as an exempt legal and accounting compliance cost under 11 CFR 100.8(b)(15). For purposes of this section overhead expenditures include, but are not limited to rent, utilities, office equipment, furniture, supplies, and telephone base service charges as set forth at 11 CFR 106.2(b)(2)(iii)(A).</P>
+      <P>(i) If the candidate wishes to claim a larger compliance exemption for any person, the candidate shall establish allocation percentages for each individual who spends all or a portion of his or her time to perform duties which are considered compliance. The candidate shall keep detailed records to support the derivation of each percentage. Such records shall indicate which duties are considered compliance and the percentage of time each person spends on such activity. Alternatively, the Commission's Financial Control and Compliance Manual for Presidential Primary Candidates contains some other accepted allocation methods for calculating a compliance exemption.</P>
+
+      <P>(ii) Exempt compliance costs are those legal and accounting costs incurred solely to ensure compliance with 26 U.S.C. 9031 <E T="03">et seq.,</E> 2 U.S.C. 431 <E T="03">et seq.,</E> and 11 CFR ch. I, including the costs of preparing matching fund submissions and the costs of producing, delivering and explaining computerized information and materials provided pursuant to 11 CFR 9033.12 and explaining the operation of the computer system's software. The costs of preparing matching fund submissions shall be limited to those functions not required for general contribution processing and shall include the costs associated with: Generating the matching fund submission list and the matching fund computer tape or other form of magnetic media for each submission, edits of the contributor data base that are related to preparing a matching fund submission, making photocopies of contributor checks, and seeking additional documentation from contributors for matching purposes. The costs associated with general contribution processing shall include those normally performed for fundraising purposes, or for compliance with the recordkeeping and reporting requirements of 11 CFR part 100 <E T="03">et seq.,</E> such as data entry, batching contributions for deposit, and preparation of FEC reports.</P>
+      <P>(2) A candidate may exclude from the overall expenditure limitation of 11 CFR 9035.1 the amount of exempt fundraising costs specified in 11 CFR 100.8(b)(21)(iii).</P>
+      <P>(d) The expenditure limitations of 11 CFR 9035.1 shall not apply to a candidate who does not receive matching funds at any time during the matching payment period.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9035.2</SECTNO>
+      <SUBJECT>Limitation on expenditures from personal or family funds.</SUBJECT>
+
+      <P>(a)(1) No candidate who has accepted matching funds shall knowingly make expenditures from his or her personal funds, or funds of his or her immediate family, in connection with his or her campaign for nomination for election to the office of President which exceed $50,000, in the aggregate. This section shall not operate to prohibit any member of the candidate's immediate family from contributing his or her personal funds to the candidate, subject to <PRTPAGE P="263"/>the limitations of 11 CFR part 110. The provisions of this section also shall not limit the candidate's liability for, nor the candidate's ability to pay, any repayments required under 11 CFR part 9038. If the candidate or his or her committee knowingly incurs expenditures in excess of the limitations of 11 CFR 110.8(a), the Commission may seek civil penalties under 11 CFR part 111 in addition to any repayment determinations made on the basis of such excessive expenditures.</P>
+
+      <P>(2) Expenditures made using a credit card for which the candidate is jointly or solely liable will count against the limits of this section to the extent that the full amount due, including any finance charge, is not paid by the committee within 60 days after the closing date of the billing statement on which the charges first appear. For purposes of this section, the <E T="03">closing date</E> shall be the date indicated on the billing statement which serves as the cutoff date for determining which charges are included on that billing statement.</P>
+      <P>(b) For purposes of this section, the term <E T="03">immediate family</E> means a candidate, spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.</P>
+      <P>(c) For purposes of this section, <E T="03">personal funds</E> has the same meaning as specified in 11 CFR 110.10.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

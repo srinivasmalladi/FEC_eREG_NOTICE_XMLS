@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>REPORTS AND RECORDKEEPING</TITLE>
+    <GRANULENUM>9006</GRANULENUM>
+    <HEADING>PART 9006</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER E" SEQ="0">PRESIDENTIAL ELECTION CAMPAIGN FUND: GENERAL ELECTION FINANCING</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 9006—REPORTS AND RECORDKEEPING</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>9006.1</SECTNO>
+      <SUBJECT>Separate reports.</SUBJECT>
+      <SECTNO>9006.2</SECTNO>
+      <SUBJECT>Filing dates.</SUBJECT>
+      <SECTNO>9006.3</SECTNO>
+      <SUBJECT>Alphabetized schedules.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 434 and 26 U.S.C. 9009(b).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>56 FR 35924, July 29, 1991, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 9006.1</SECTNO>
+      <SUBJECT>Separate reports.</SUBJECT>
+      <P>(a) The authorized committee(s) of a candidate shall report all expenditures to further the candidate's general election campaign in reports separate from reports of any other expenditures made by such committee(s) with respect to other elections. Such reports shall be filed pursuant to the requirements of 11 CFR part 104.</P>
+      <P>(b) The authorized committee(s) of a candidate shall file separate reports as follows:</P>
+      <P>(1) One report shall be filed which lists all receipts and disbursements of:</P>
+      <P>(i) Contributions and loans received by a major party candidate pursuant to 11 CFR part 9003 to make up deficiencies in Fund payments due to the application of 11 CFR part 9005;</P>
+      <P>(ii) Contributions and loans received pursuant to 11 CFR 9003.2(b)(2) by a minor, or new party for use in the general election;</P>
+      <P>(iii) Receipts for expenses incurred before the beginning of the expenditure report period pursuant to 11 CFR 9003.4;</P>
+      <P>(iv) Personal funds expended in accordance with 11 CFR 9003.2(c); and</P>
+      <P>(v) Payments received from the Fund.</P>
+      <P>(2) A second report shall be filed which lists all receipts of and disbursements from, contributions received for the candidate's legal and accounting compliance fund in accordance with 11 CFR 9003.3(a).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9006.2</SECTNO>
+      <SUBJECT>Filing dates.</SUBJECT>
+      <P>The reports required to be filed under <PRTPAGE P="212"/>11 CFR 9006.1 shall be filed during an election year on a monthly or quarterly basis as prescribed at 11 CFR 104.5(b)(1). During a non-election year, the candidate's principal campaign committee may elect to file reports either on a monthly or quarterly basis in accordance with 11 CFR 104.5(b)(2).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9006.3</SECTNO>
+      <SUBJECT>Alphabetized schedules.</SUBJECT>
+      <P>If the authorized committee(s) of a candidate file a schedule of itemized receipts, disbursements, or debts and obligations pursuant to 11 CFR 104.3 that was generated directly or indirectly from computerized files or records, the schedule shall list in alphabetical order the sources of the receipts, the payees or the creditors, as appropriate. In the case of individuals, such schedule shall list all contributors, payees, and creditors in alphabetical order by surname.</P>
+      <CITA>[60 FR 31877, June 16, 1995]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

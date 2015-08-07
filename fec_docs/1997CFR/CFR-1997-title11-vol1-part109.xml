@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>INDEPENDENT EXPENDITURES (2 U.S.C. 431(17), 434(c))</TITLE>
+    <GRANULENUM>109</GRANULENUM>
+    <HEADING>PART 109</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 109—INDEPENDENT EXPENDITURES (2 U.S.C. 431(17), 434(c))</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>109.1</SECTNO>
+      <SUBJECT>Definitions (2 U.S.C. 431(17)).</SUBJECT>
+      <SECTNO>109.2</SECTNO>
+      <SUBJECT>Reporting of independent expenditures by persons other than a political committee (2 U.S.C. 434(c)).</SUBJECT>
+      <SECTNO>109.3</SECTNO>
+      <SUBJECT>Non-authorization notice (2 U.S.C. 441d).</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 431(17), 434(c), 438(a)(8), 441d.<PRTPAGE P="116"/>
+      </P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>45 FR 15118, Mar. 7, 1980, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 109.1</SECTNO>
+      <SUBJECT>Definitions (2 U.S.C. 431(17)).</SUBJECT>
+      <P>(a) <E T="03">Independent expenditure</E> means an expenditure by a person for a communication expressly advocating the election or defeat of a clearly identified candidate which is not made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, a candidate or any agent or authorized committee of such candidate.</P>
+      <P>(b) For purposes of this definition—</P>
+      <P>(1) <E T="03">Person</E> means an individual, partnership, committee, association, qualified nonprofit corporation under 11 CFR 114.10(c), or any organization or group of persons, including a separate segregated fund established by a labor organization, corporation, or national bank (see part 114) but does not mean a labor organization, corporation not qualified under 11 CFR 114.10(c), or national bank.</P>
+      <P>(2) <E T="03">Expressly advocating</E> shall have the same meaning as set forth at 11 CFR 100.22.</P>
+      <P>(3) <E T="03">Clearly identified</E> shall have the same meaning as set forth at 11 CFR 100.17.</P>
+      <P>(4) <E T="03">Made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, a candidate or any agent or authorized committee of the candidate</E>—</P>
+      <P>(i) Means any arrangement, coordination, or direction by the candidate or his or her agent prior to the publication, distribution, display, or broadcast of the communication. An expenditure will be presumed to be so made when it is—</P>
+      <P>(A) Based on information about the candidate's plans, projects, or needs provided to the expending person by the candidate, or by the candidate's agents, with a view toward having an expenditure made; or</P>
+      <P>(B) Made by or through any person who is, or has been, authorized to raise or expend funds, who is, or has been, an officer of an authorized committee, or who is, or has been, receiving any form of compensation or reimbursement from the candidate, the candidate's committee or agent;</P>
+      <P>(ii) But does not include providing to the expending person upon request Commission guidelines on independent expenditures.</P>
+      <P>(5) <E T="03">Agent</E> means any person who has actual oral or written authority, either express or implied, to make or to authorize the making of expenditures on behalf of a candidate, or means any person who has been placed in a position within the campaign organization where it would reasonably appear that in the ordinary course of campaign-related activities he or she may authorize expenditures.</P>
+      <P>(c) An expenditure not qualifying under this section as an independent expenditure shall be a contribution in-kind to the candidate and an expenditure by the candidate, unless otherwise exempted.</P>
+      <P>(d)(1) The financing of the dissemination, distribution, or republication, in whole or in part, of any broadcast or any written, graphic, or other form of campaign materials prepared by the candidate, his campaign committees, or their authorized agents shall be considered a contribution for the purpose of contribution limitations and reporting responsibilities by the person making the expenditure but shall not be considered an expenditure by the candidate or his authorized committees unless made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, a candidate or any authorized agent or committee thereof.</P>
+      <P>(2) This paragraph does not affect the right of a State or subordinate party committee to engage in such dissemination, distribution, or republication as agents designated by the national committee pursuant to § 110.7(a)(4).</P>
+      <P>(e) No expenditure by an authorized committee of a candidate on behalf of that candidate shall qualify as an independent expenditure.</P>
+      <CITA>[45 FR 15118, Mar. 7, 1980, as amended at 60 FR 35305, July 6, 1995; 60 FR 64273, Dec. 14, 1995]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 109.2</SECTNO>
+      <SUBJECT>Reporting of independent expenditures by persons other than a political committee (2 U.S.C. 434(c)).</SUBJECT>
+
+      <P>(a) Every person other than a political committee, who makes independent expenditures aggregating in excess of <PRTPAGE P="117"/>$250 during a calendar year shall file a signed statement or report on FEC Form 5 with the Commission or Secretary of the Senate in accordance with 11 CFR 104.4(c).</P>
+      <P>(1) If a signed statement is submitted, the statement shall include:</P>
+      <P>(i) The reporting person's name mailing address, occupation and the name of his or her employer, if any;</P>
+      <P>(ii) The identification (name and mailing address) of the person to whom the expenditure was made;</P>
+      <P>(iii) The amount, date and purpose of each expenditure;</P>
+      <P>(iv) A statement which indicates whether such expenditure was in support of, or in opposition to a candidate, together with the candidate's name and office sought;</P>
+      <P>(v) A notarized certification under penalty of perjury as to whether such expenditure was made in cooperation, consultation or concert with, or at the request or suggestion of any candidate or any authorized committee or agent thereof; and</P>
+      <P>(vi) The identification of each person who made a contribution in excess of $200 to the person filing such report, which contribution was made for the purpose of furthering the reported independent expenditure.</P>
+      <P>(2) Reports or statements filed under this section shall be filed at the end of the reporting period (quarterly pre-election post-election semi-annual annual) (See 11 CFR 104.5)) during which any independent expenditure which aggregrates in excess of $250 is made and in any reporting period thereafter in which additional independent expenditures are made.</P>
+      <P>(b) Independent expenditures aggregating $1,000 or more made by any person after the twentieth day, but more than 24 hours before 12:01 a.m of the day of an election shall be reported within 24 hours after such independent expenditure is made. Such report or statement shall contain the information required by 11 CFR 109.2(a) indicating whether the independent expenditure is made in support of, or in opposition to, a particular candidate and shall be filed with the appropriate officers in accordance with 11 CFR 104.4(c).</P>
+      <CITA>[45 FR 15118, Mar. 7, 1980, as amended at 61 FR 3550, Feb. 1, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 109.3</SECTNO>
+      <SUBJECT>Non-authorization notice (2 U.S.C. 441d).</SUBJECT>
+      <P>Whenever any person makes an independent expenditure for the purpose of financing communications expressly advocating the election or defeat of a clearly identified candidate, such person shall comply with the requirements of 11 CFR 110.11.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

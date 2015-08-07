@@ -1,0 +1,49 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 110</CFR>
+        <DEPDOC>[Notice 2011-02]</DEPDOC>
+        <SUBJECT>Interpretive Rule Regarding Electronic Contributor Redesignations</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Notice of interpretive rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>Commission regulations require that a contributor's redesignation of a contribution for another election be in writing and signed by the contributor. The Commission construes the requirements of 11 CFR 110.1(b)(5) and 110.2(b)(5) to encompass a certain method of electronic redesignation. The method of electronic redesignation is described in the supplementary information below.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This Interpretive Rule is effective March 23, 2011.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Allison T. Steinle, Attorney, Office of General Counsel, 999 E Street, NW., Washington, DC 20463 (202) 694-1000 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>Commission regulations require that a contributor's redesignation of a contribution for another election be in writing and be signed by the contributor. 11 CFR 110.1(b)(5) and 110.2(b)(5). The Commission, however, recognizes that it should interpret the Federal Election Campaign Act of 1971, as amended, 2 U.S.C. 431<E T="03">et seq.</E>(&#x201C;the Act&#x201D;) and its regulations &#x201C;consistent with contemporary technological innovations * * * where such technology would not compromise the intent of the Act and regulations.&#x201D; Advisory Opinion 1999-09 (Bradley for President);<E T="03">see also</E>Advisory Opinions 2007-30 (Dodd); 2007-17 (DSCC); 1999-36 (Campaign Advantage); 1999-03 (Microsoft PAC); 1995-09 (NewtWatch).</P>
+        <P>During the course of an audit, the Commission recently determined that a specific redesignation practice provided the same degree of assurance of the contributor's identity and the contributor's intent to redesignate the contribution as a handwritten signature. Accordingly, the Commission determined that the practice met the requirements of 11 CFR 110.1(b)(5). The Commission believes it is important to inform the public, including political committees and their treasurers, of this determination.</P>
+        <P>The specific method approved by the Commission worked in the following manner: The political committee informed contributors through postal mail, with a follow-up e-mail, that, by visiting a Web site printed in the letter or by clicking on a link in the e-mail message that directed contributors to the Web site, they could redesignate their contributions to the candidate's other authorized committee if they wished to do so. Contributors were also informed that if they did not redesignate their contributions, they would then receive refunds automatically. Contributors who visited the Web site were asked to fill out an electronic form affirmatively authorizing the redesignation and verifying their identity by entering their personal information, including first and last name, address, phone number, e-mail address, occupation, and name of employer. Upon completing the form, contributors received a &#x201C;receipt record,&#x201D; thanking them for their redesignation. The political committee also retained a record of each electronic redesignation in a database, including the personal information provided by each contributor making a redesignation, in a manner consistent with the recordkeeping requirements for signed written redesignations under 11 CFR 110.1(l). The Commission concluded that this process provided assurance of contributor identity and intent equivalent to a written signature.</P>
+
+        <P>Accordingly, the Commission construes the written signature requirements of 11 CFR 110.1(b)(5) and 110.2(b)(5) to encompass the method of electronic redesignation described above. Because the specific method approved by the Commission requires the contributor to provide personal information that can be verified against a committee's records, it provides a level of assurance as to the contributor's identity and intent comparable to that of a written signature.<E T="03">See</E>Explanation and Justification for Final Rules on Contribution Limitations and Prohibitions, 67 FR 69928, 69934 (Nov. 19, 2002) (Commission declined to eliminate the written signature requirement for contributor redesignations).</P>
+
+        <P>The Commission encourages the use of innovations in technology to effectuate electronic redesignations. In that light, committees are advised that the Commission will consider other methods of electronic redesignation not explicitly addressed in this interpretive rule, provided that they offer a sufficient degree of assurance of the contributor's identity and the contributor's intent to redesignate. Unless and until the Commission initiates a rulemaking on this issue, such consideration may be provided on a case-by-case basis, including but not limited to the Commission's advisory opinion process or requests for Commission consideration of legal questions.<E T="03">See</E>2 U.S.C. 437f; 11 CFR part 112; Policy Statement Establishing a Pilot Program for Requesting Consideration of Legal Questions by the Commission, 75 FR 42088 (July 20, 2010). Committees are also advised that this interpretive rule does not alter or affect the timing or recordkeeping requirements of 11 CFR 110.1 or 110.2.</P>
+        <P>This<E T="04">Federal Register</E>notice represents an interpretive rule announcing the general course of action that the Commission intends to follow. This interpretive rule does not constitute an agency rule requiring notice of proposed rulemaking, opportunities for public participation, prior publication, and delay in effective date under 5 U.S.C. 553 of the Administrative Procedure Act (&#x201C;APA&#x201D;). As such, it does not bind the Commission or any members of the general public, or create or remove any rights, duties, etc. The provisions of the Regulatory Flexibility Act, which apply when notice and comment are required by the APA or another statute, are not applicable.<E T="03">See</E>5 U.S.C. 603(a).</P>
+        <SIG>
+          <DATED>Dated: March 16, 2011.</DATED>
+          
+          <P>On behalf of the Commission.</P>
+          <NAME>Cynthia L. Bauerly,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2011-6756 Filed 3-22-11; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

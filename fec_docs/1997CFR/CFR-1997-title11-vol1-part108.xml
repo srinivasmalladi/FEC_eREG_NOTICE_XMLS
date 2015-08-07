@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>FILING COPIES OF REPORTS AND STATEMENTS WITH STATE OFFICERS (2 U.S.C. 439)</TITLE>
+    <GRANULENUM>108</GRANULENUM>
+    <HEADING>PART 108</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 108—FILING COPIES OF REPORTS AND STATEMENTS WITH STATE OFFICERS (2 U.S.C. 439)</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>108.1</SECTNO>
+      <SUBJECT>Filing requirements (2 U.S.C. 439(a)(1)).</SUBJECT>
+      <SECTNO>108.2</SECTNO>
+      <SUBJECT>Filing copies of reports and statements in connection with the campaign of any candidate seeking nomination for election to the Office of President or Vice-President (2 U.S.C. 439(a)(2)).</SUBJECT>
+      <SECTNO>108.3</SECTNO>
+      <SUBJECT>Filing copies of reports and statements in connection with the campaign of any congressional candidate (2 U.S.C. 439(a)(2)).</SUBJECT>
+      <SECTNO>108.4</SECTNO>
+      <SUBJECT>Filing copies of reports by committees other than principal campaign committees (2 U.S.C. 439(a)(2)).</SUBJECT>
+      <SECTNO>108.5</SECTNO>
+      <SUBJECT>Time and manner of filing copies (2 U.S.C. 434(a)(2)).</SUBJECT>
+      <SECTNO>108.6</SECTNO>
+      <SUBJECT>Duties of State officers (2 U.S.C. 439(b)).</SUBJECT>
+      <SECTNO>108.7</SECTNO>
+      <SUBJECT>Effect on State law (2 U.S.C. 453).</SUBJECT>
+      <SECTNO>108.8</SECTNO>
+      <SUBJECT>Exemption for the District of Columbia.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 434(a)(2) 438(a)(8), 439, 453.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>45 FR 15117, Mar. 7, 1980, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 108.1</SECTNO>
+      <SUBJECT>Filing requirements (2 U.S.C. 439(a)(1)).</SUBJECT>
+      <P>A copy of each report and statement required to be filed by any person under the Act shall be filed either with the Secretary of State of the appropriate State or with the State officer who is charge by State law with maintaining state election campaign reports. In States where reports are to be filed with a designated officer other than the Secretary of State, the chief executive officer of that State shall notify the Commission of such designation.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.2</SECTNO>
+      <SUBJECT>Filing copies of reports and statements in connection with the campaign of any candidate seeking nomination for election to the Office of President or Vice-President (2 U.S.C. 439(a)(2)).</SUBJECT>
+      <P>A copy of each report and statement required to be filed by a Presidential or Vice Presidential candidate's principal campaign committee under the Act, including 11 CFR part 104, or by any other person making independent expenditures in connection with a candidate seeking nomination for election to the office of President or Vice-President under 11 CFR 104.4 or part 109, shall be filed with the State officer of each State in which an expenditure is made in connection with the campaign of a candidate seeking nomination for election to the office of President or Vice-President. The report and statement shall contain all transactions pertaining to that State during the reporting period. Any committee, other than a Presidential or Vice Presidential candidate's principal campaign committee and the candidate's authorized committee(s) shall also file a copy of each report and statement with the appropriate State officer of the State in which such committee has its headquarters pursuant to 11 CFR 108.4.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.3</SECTNO>
+      <SUBJECT>Filing copies of reports and statements in connection with the campaign of any congressional candidate (2 U.S.C. 439(a)(2)).</SUBJECT>
+
+      <P>A copy of each report and statement required to be filed by a committee under 11 CFR part 104, or by any other person under 11 CFR part 109 shall be filed with the appropriate State officer of that State in which an expenditure is made in connection with the campaign of a candidate for nomination for election or election, to the office of Senator, Representative in, Delegate or Resident Commissioner to the Congress <PRTPAGE P="115"/>except that political committees other than authorized committees are required to file, and the Secretary of State is required to retain only that portion of the report applicable to candidates seeking election in that State.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.4</SECTNO>
+      <SUBJECT>Filing copies of reports by committees other than principal campaign committees (2 U.S.C. 439(a)(2)).</SUBJECT>
+      <P>Any unauthorized committee, which makes contributions in connection with a Presidential election and which is required to file a report(s) and statement(s) under the Act shall file a copy of such report(s) and statement(s) with the State officer of the State in which both the recipient and contributing committees have their headquarters.</P>
+      <CITA>[45 FR 15117, Mar. 7, 1980, as amended at 45 FR 21209, Apr. 1, 1980]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.5</SECTNO>
+      <SUBJECT>Time and manner of filing copies (2 U.S.C. 434(a)(2)).</SUBJECT>
+      <P>A copy of any report or statement required to be filed with a State officer under 11 CFR part 108 shall be filed at the same time as the original report is filed. Each copy of such report or statement shall be a complete, true, and legible copy of the original report or statement filed.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.6</SECTNO>
+      <SUBJECT>Duties of State officers (2 U.S.C. 439(b)).</SUBJECT>
+      <P>The Secretary of State, or the equivalent State officer shall carry out the duties set forth in 11 CFR 108.5(a) through (d):</P>
+      <P>(a) Receive and maintain in an orderly manner all reports and statements required to be filed;</P>
+      <P>(b) Preserve such reports and statements (either in original form or in facsimile copy by microfilm or otherwise) filed under the Act for a period of 2 years from the date of receipt;</P>
+      <P>(c) Make the reports and statements filed available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during office hours and permit copying of any such reports or statements by hand or by duplicating machine, at the request of any person except that such copying shall be at the expense of the person making the request and at a reasonable fee;</P>
+      <P>(d) Compile and maintain a current list of all reports and statements or parts of such reports and statements pertaining to each candidate.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.7</SECTNO>
+      <SUBJECT>Effect on State law (2 U.S.C. 453).</SUBJECT>
+      <P>(a) The provisions of the Federal Election Campaign Act of 1971, as amended, and rules and regulations issued thereunder, supersede and preempt any provision of State law with respect to election to Federal office.</P>
+      <P>(b) Federal law supersedes State law concerning the—</P>
+      <P>(1) Organization and registration of political committees supporting Federal candidates;</P>
+      <P>(2) Disclosure of receipts and expenditures by Federal candidates and political committees; and</P>
+      <P>(3) Limitation on contributions and expenditures regarding Federal candidates and political committees.</P>
+      <P>(c) The Act does not supersede State laws which provide for the—</P>
+      <P>(1) Manner of qualifying as a candidate or political party organization;</P>
+      <P>(2) Dates and places of elections;</P>
+      <P>(3) Voter registration;</P>
+      <P>(4) Prohibition of false registration, voting fraud, theft of ballots, and similar offenses; or</P>
+      <P>(5) Candidate's personal financial disclosure.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 108.8</SECTNO>
+      <SUBJECT>Exemption for the District of Columbia.</SUBJECT>
+      <P>Any copy of a report required to be filed with the equivalent officer in the District of Columbia shall be deemed to be filed if the original has been filed with the Secretary or the Commission, as appropriate.</P>
+      <CITA>[45 FR 15117, Mar. 7, 1980, as amended at 61 FR 6095, Feb. 16, 1996]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

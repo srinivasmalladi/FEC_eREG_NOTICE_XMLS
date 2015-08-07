@@ -1,0 +1,940 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="78679"/>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 100, 101, 102, 104, 106, 110, 113, 114, 116, 300, 9002, 9003, 9004, 9034, and 9035</CFR>
+        <DEPDOC>[Notice 2002-29]</DEPDOC>
+        <SUBJECT>BCRA Technical Amendments</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; technical amendments.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>The Commission recently reorganized the sections defining &#x201C;contributions&#x201D; and &#x201C;expenditures,&#x201D; and also redesignated other sections. These technical amendments correct cites in title 11 of the<E T="03">Code of Federal Regulations</E>to bring the regulations into conformity with the designation. Additionally, the final rules correct typographical mistakes made in the recently promulgated Bipartisan Campaign Reform Act rulemakings. Further information is provided in the supplementary information that follows.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">EFFECTIVE DATE:</HD>
+          <P>December 26, 2002.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Mai T. Dinh, Acting Assistant General Counsel, 999 E Street, NW., Washington, DC, 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>The Bipartisan Campaign Reform Act of 2002 (&#x201C;BCRA&#x201D;), Pub. L. 107-155, 116 Stat. 81 (March 27, 2002), contains extensive amendments to the Federal Election Campaign Act of 1971 (&#x201C;FECA&#x201D; or &#x201C;the Act&#x201D;), as amended, 2 U.S.C. 431<E T="03">et seq.</E>This final rule is part of a continuing series of rulemakings the Commission has published over the last several months in order to meet the rulemaking deadlines set out in BCRA. In the Final Rule on Reorganization of the Definitions of &#x201C;Contribution&#x201D; and &#x201C;Expenditure,&#x201D; 67 FR 50582 (August 5, 2002), the Commission moved these definitions from former 11 CFR 100.7 and 100.8 to new 11 CFR part 100, subparts B, C, D and E. Additionally, the Commission notes that in the various final rules that the Commission promulgated this year, it moved the following sections and paragraphs: 109.2, 109.3, 110.1(i)(2), 110.4(a), 110.7, 110.9(b), 110.9(c), and 110.9(d). Consequently, current regulations that include cross references to these former sections and paragraphs need to be updated to reflect the new citations.<SU>1</SU>
+          <FTREF/>Therefore, the Commission is publishing this final rule to make necessary technical and conforming amendments to its regulations to reflect the current citations, as well as to correct typographical errors that are in the various final rules.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>
+            <E T="03">See</E>the following rulemakings: Final Rules on Prohibited and Excessive Contributions: Non-Federal Funds or Soft Money, 67 FR 49064 (July 29, 2002); Final Rules on Reorganization of Regulations on Contributions and Expenditures, 67 FR 50582 (August 5, 2002); Final Rules on Coordinated and Independent Expenditures, 67 FR (forthcoming December, 2002); Final Rules on Electioneering Communications, 67 FR 65212 (October 23, 2002); Final Rules on Contribution Limitations and Prohibitions, 67 FR 69928 (November 19, 2002).</P>
+        </FTNT>
+        <P>Because the final rules published herein are merely technical and non-substantive, they are not a substantive rule requiring notice and comment under the Administrative Procedure Act, 5 U.S.C. 553. Under the &#x201C;good cause&#x201D; exception to the notice and comment requirements, 5 U.S.C. 553(b)(B) and 553(d)(3), the final rules are effective upon publication. Thus, the final rules are effective on December 26, 2002.</P>
+        <HD SOURCE="HD1">Certification of No Effect Pursuant to 5 U.S.C. 605(b) [Regulatory Flexibility Act]</HD>
+        <P>This final rule does not have a significant economic impact on a substantial number of small entities. The amendments in this final rule are all technical and nonsubstantive in nature and do not have any economic impact on any entity subject to the underlying regulations.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>11 CFR Part 100</CFR>
+          <P>Elections.</P>
+          <CFR>11 CFR Part 101</CFR>
+          <P>Political candidates, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 102</CFR>
+          <P>Political committees and parties, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 104</CFR>
+          <P>Campaign funds, Political committees and parties, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 106</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 110</CFR>
+          <P>Campaign funds, Political committees and parties.</P>
+          <CFR>11 CFR Part 113</CFR>
+          <P>Campaign funds.</P>
+          <CFR>11 CFR Part 114</CFR>
+          <P>Business and industry, Elections, Labor.</P>
+          <CFR>11 CFR Part 116</CFR>
+          <P>Administrative practice and procedure, Business and industry, Credit, Elections, Political candidates, Political committees and parties.</P>
+          <CFR>11 CFR Part 300</CFR>
+          <P>Campaign funds, Nonprofit organizations, Political committees and parties, Political candidates, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 9002</CFR>
+          <P>Campaign funds.</P>
+          <CFR>11 CFR Part 9003</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 9004</CFR>
+          <P>Political candidates, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 9034</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+          <CFR>11 CFR Part 9035</CFR>
+          <P>Campaign funds, Reporting and recordkeeping requirements.</P>
+        </LSTSUB>
+
+        <AMDPAR>For the reasons set out in the preamble, subchapters A, E and F of chapter 1 of title 11 of the<E T="03">Code of Federal Regulations</E>are amended as follows:</AMDPAR>
+        <PART>
+          <HD SOURCE="HED">PART 100-SCOPE AND DEFINITIONS (2 U.S.C. 431)</HD>
+        </PART>
+        <AMDPAR>1. The authority citation for part 100 continues to read as follows:</AMDPAR>
+        <AUTH>
+          <HD SOURCE="HED">Authority:</HD>
+          <P>2 U.S.C. 431, 434, and 438(a)(8).</P>
+        </AUTH>
+        <REGTEXT PART="100" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 100.5, 100.52, 100.82, 100.87, 100.89, 100.91, 100.142, 100.147, 100.149 and 100.159</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>2. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">100.5(c)</ENT>
+              <ENT>100.7(b)(9), (15) and (17)</ENT>
+              <ENT>100.80, 100.87, and 100.89.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.5(c)</ENT>
+              <ENT>100.8(b)(10), (16) and (18)</ENT>
+              <ENT>100.140, 100.147 and 100.149.</ENT>
+            </ROW>
+            <ROW>
+              <PRTPAGE P="78680"/>
+              <ENT I="01">100.52(b)(5)</ENT>
+              <ENT>110.4(a)</ENT>
+              <ENT>110.20.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.82(e)(1)(ii)</ENT>
+              <ENT>110.4</ENT>
+              <ENT>110.4, 110.20.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.87(g)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>109.32.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.89(g)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>109.32.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.91</ENT>
+              <ENT>110.4(a)</ENT>
+              <ENT>110.20.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.142(e)(1)(ii)</ENT>
+              <ENT>110.4</ENT>
+              <ENT>110.4, 110.20.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.147(g)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>109.32.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.149(g)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>109.32.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">100.151</ENT>
+              <ENT>110.4(a)</ENT>
+              <ENT>110.20.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="101" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 101&#x2014;CANDIDATE STATUS AND DESIGNATIONS (2 U.S.C. 432(e))</HD>
+          </PART>
+          <AMDPAR>3. The authority citation for part 101 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 432(e), 434(a)(11), and 438(a)(8).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="101" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 101.2 and 101.3</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>4. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">101.2(a)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">101.3</ENT>
+              <ENT>100.7(b)(1)</ENT>
+              <ENT>100.72(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">101.3</ENT>
+              <ENT>100.8(b)(1)</ENT>
+              <ENT>100.131(a).</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="102" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 102-REGISTRATION, ORGANIZATION, AND RECORDKEEPING BY POLITICAL COMMITTEES (2 U.S.C. 433)</HD>
+          </PART>
+          <AMDPAR>5. The authority citation for part 102 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 432, 433, 434(a)(11), 438(a)(8), 441d.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="102" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 102.5, 102.7, 102.13 and 102.14</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>6. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">102.5(b)(1)</ENT>
+              <ENT>100.7(b)(9), (15) and (17)</ENT>
+              <ENT>100.80, 100.87 and 100.89.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">102.5(b)(1)</ENT>
+              <ENT>100.8(b)(10), (16) and (18)</ENT>
+              <ENT>100.140, 100.147 and 100.149.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">102.7(d)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and D.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">102.13(b)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>part 109, subpart D.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">102.13(c)(2)</ENT>
+              <ENT>11 CFR part 110</ENT>
+              <ENT>11 CFR part 109, subpart D and 11 CFR part 110.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">102.14(c)</ENT>
+              <ENT>109.3</ENT>
+              <ENT>109.11.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 104-REPORTS BY POLITICAL COMMITTEES (2 U.S.C. 434)</HD>
+          </PART>
+          <AMDPAR>7. The authority citation for part 104 continues to read as follows:</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="104" TITLE="11">
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(1), 431(8), 431(9), 432(i), 434, 438(a)(8) and (b), and 439a.</P>
+          </AUTH>
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 104.3 and 104.6</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>8. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">104.3(a)(3)(iii)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>part 109, subpart D.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(b)(1)(viii)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>part 109, subpart D.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(b)(3)(viii)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>part 109, subpart D.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)</ENT>
+              <ENT>100.7(b)(11)</ENT>
+              <ENT>100.82(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)</ENT>
+              <ENT>100.8(b)(12)</ENT>
+              <ENT>100.142(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)(iv)</ENT>
+              <ENT>100.7(b)(11)(i)(A) and (B)</ENT>
+              <ENT>100.82(e)(1) and (2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)(iv)</ENT>
+              <ENT>100.8(b)(12)(i)(A) and (B)</ENT>
+              <ENT>100.142(e)(1) and (2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)(v)</ENT>
+              <ENT>100.7(b)(11)</ENT>
+              <ENT>100.82(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(d)(1)(v)</ENT>
+              <ENT>100.8(b)(12)</ENT>
+              <ENT>100.142(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(g)</ENT>
+              <ENT>100.7(b)(12)</ENT>
+              <ENT>100.84.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.3(h)</ENT>
+              <ENT>100.7(b)(13) and (14)</ENT>
+              <ENT>100.85 and 100.86.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">104.6(a)</ENT>
+              <ENT>100.8(b)(4)</ENT>
+              <ENT>100.134(a).</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="106" TITLE="11">
+          <PART>
+            <PRTPAGE P="78681"/>
+            <HD SOURCE="HED">PART 106-ALLOCATIONS OF CANDIDATE AND COMMITTEE ACTIVITIES</HD>
+          </PART>
+          <AMDPAR>9. The authority citation for part 106 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 438(a)(8), 441a(b), 441a(g).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="106" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 106.1, 106.2, 106.4, and 106.7</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>10. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">106.1(b)</ENT>
+              <ENT>110.7</ENT>
+              <ENT>109.32 or 109.33.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.1(c)(3)</ENT>
+              <ENT>100.7(b)(17)</ENT>
+              <ENT>100.89.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.1(c)(3)</ENT>
+              <ENT>100.8(b)(18)</ENT>
+              <ENT>100.149.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.2(a)(2)</ENT>
+              <ENT>100.7(b)(1)</ENT>
+              <ENT>100.72(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.2(a)(2)</ENT>
+              <ENT>100.8(b)(1)</ENT>
+              <ENT>100.131(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.4(a)</ENT>
+              <ENT>100.8(b)(1)</ENT>
+              <ENT>100.131(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.4(b)</ENT>
+              <ENT>100.7(b)(1)</ENT>
+              <ENT>100.72(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.7(c)(3)</ENT>
+              <ENT>100.7(b)(9), (15) or (17)</ENT>
+              <ENT>100.80, 100.87 or 100.89.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">106.7(c)(3)</ENT>
+              <ENT>100.7(b)(10), (16) or (18)</ENT>
+              <ENT>100.140, 100.147 or 100.149.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="110" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 110&#x2014;CONTRIBUTION AND EXPENDITURE LIMITATIONS AND PROHIBITIONS</HD>
+          </PART>
+          <AMDPAR>11. The authority citation for part 110 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(8), 431(9), 432(c)(2), 437d, 438(a)(8), 441a, 441b, 441d, 441e, 441f, 441g, 441h and 441k.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="110" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 110.13 and 110.19</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+            <P>12. In the table below, for each section indicated in the left column, remove the citation or phrase indicated in the middle column, and replace it with the citation or phrase indicated in the right column:</P>
+            <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+              <TTITLE/>
+              <BOXHD>
+                <CHED H="1">Section</CHED>
+                <CHED H="1">Remove</CHED>
+                <CHED H="1">Add</CHED>
+              </BOXHD>
+              <ROW>
+                <ENT I="01">110.13(a)(2)</ENT>
+                <ENT>100.7</ENT>
+                <ENT>part 100, subparts B and C.</ENT>
+              </ROW>
+              <ROW>
+                <ENT I="01">110.13(a)(2)</ENT>
+                <ENT>100.8</ENT>
+                <ENT>part 100, subparts D and E.</ENT>
+              </ROW>
+              <ROW>
+                <ENT I="01">110.19(e) paragraph heading</ENT>
+                <ENT>maintain, finance</ENT>
+                <ENT>finance, maintain.</ENT>
+              </ROW>
+              <ROW>
+                <ENT I="01">110.19(e)</ENT>
+                <ENT>maintain, finance</ENT>
+                <ENT>finance, maintain.</ENT>
+              </ROW>
+            </GPOTABLE>
+          </SECTION>
+          <PART>
+            <HD SOURCE="HED">PART 113&#x2014;EXCESS CAMPAIGN FUNDS AND FUNDS DONATED TO SUPPORT FEDERAL OFFICE-HOLDER ACTIVITIES (2 U.S.C. 439a)</HD>
+          </PART>
+          <AMDPAR>13. The authority citation for part 113 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 432(h), 438(a)(8), 439a, 441a.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="113" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7; 113.1</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>14. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">113.1(g)(5)</ENT>
+              <ENT>100.8</ENT>
+              <ENT>part 100, subparts D and E.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">113.1(g)(6)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and C.</ENT>
+            </ROW>
+          </GPOTABLE>
+          <PART>
+            <HD SOURCE="HED">PART 114&#x2014;CORPORATE AND LABOR ORGANIZATION ACTIVITY</HD>
+          </PART>
+          <AMDPAR>15. The authority citation for part 114 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 431(8)(B), 431(9)(B), 432, 434, 437d(a)(8), 438(a)(8), 441b.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="114" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 114.1, 114.2, 114.3, 114.4, 114.5, 114.9, and 114.10</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>16. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">114.1(a)(1)</ENT>
+              <ENT>100.7(b)(11)</ENT>
+              <ENT>100.82(a) through (d).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.2(b)(1)</ENT>
+              <ENT>100.7(a)</ENT>
+              <ENT>part 100, subpart B.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.2(b)(2)(i)</ENT>
+              <ENT>100.8(a)</ENT>
+              <ENT>part 100, subpart. D</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.2(c)</ENT>
+              <ENT>109.1</ENT>
+              <ENT>100.16.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.2(f)(1)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.2(f)(1)</ENT>
+              <ENT>100.8</ENT>
+              <ENT>part 100, subparts D and E.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.3(a)(1)</ENT>
+              <ENT>109.1</ENT>
+              <ENT>100.16.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.3(b)</ENT>
+              <ENT>100.8(b)(4)</ENT>
+              <ENT>100.134(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.4(a)</ENT>
+              <ENT>109.1</ENT>
+              <ENT>100.16.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.5(e)(2)(i)</ENT>
+              <ENT>100.8(b)(4)</ENT>
+              <ENT>100.134(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.9(a)(2)</ENT>
+              <ENT>100.7(a)(1)(iii)(B)</ENT>
+              <ENT>100.52(d)(2).</ENT>
+            </ROW>
+            <ROW>
+              <PRTPAGE P="78682"/>
+              <ENT I="01">114.9(b)(2)</ENT>
+              <ENT>100.7(a)(1)(iii)(B)</ENT>
+              <ENT>100.52(d)(2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.9(d)</ENT>
+              <ENT>100.7(a)(1)(iii)(B)</ENT>
+              <ENT>100.52(d)(2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">114.10(e)(2)</ENT>
+              <ENT>109.2</ENT>
+              <ENT>109.10.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="116" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 116&#x2014;DEBTS OWED BY CANDIDATES AND POLITICAL COMMITTEES</HD>
+          </PART>
+          <AMDPAR>17. The authority citation for part 116 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 433(d), 434(b)(8), 438(a)(8), 441a, 441b, and 451.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="116" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 116.4, 116.5 and 116.6</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>18. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">116.4(a)(1)</ENT>
+              <ENT>100.7(b)</ENT>
+              <ENT>part 100, subpart C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">116.4(b)(1)</ENT>
+              <ENT>100.7(b)</ENT>
+              <ENT>part 100, subpart C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">116.4(c)(1)</ENT>
+              <ENT>100.7(b)</ENT>
+              <ENT>part 100, subpart C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">116.5(b)</ENT>
+              <ENT>100.7(b)(8)</ENT>
+              <ENT>100.79.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">116.6(a)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and C.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">116.6(a)</ENT>
+              <ENT>100.7(b)(3)</ENT>
+              <ENT>100.74.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="300" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 300&#x2014;NON-FEDERAL FUNDS</HD>
+          </PART>
+          <AMDPAR>19. The authority citation for part 300 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 434(e), 438(a)(8), 441a(a), 441i, 453.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="300" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 300.2 and 300.36</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>20. In the table below, for each section indicated in the left column, remove the citation or phrase indicated in the middle column, and replace it with the citation or phrase indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">300.2(c) paragraph heading</ENT>
+              <ENT>maintain, finance</ENT>
+              <ENT>finance, maintain.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">300.36(a)(2)</ENT>
+              <ENT>100.8(b)(10), (16), or (18)</ENT>
+              <ENT>100.140, 100.147, or 100.149.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">300.36(c)(2)</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subpart B.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">300.36(c)(2)</ENT>
+              <ENT>100.8</ENT>
+              <ENT>part 100, subpart D.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="9002" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9002&#x2014;DEFINITIONS</HD>
+          </PART>
+          <AMDPAR>21. The authority citation for part 9002 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9002 and 9009(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9002" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 9002.11 and 9002.13</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>22. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">9002.11(b)(5)</ENT>
+              <ENT>100.7(b)(14)</ENT>
+              <ENT>100.86.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9002.11(b)(5)</ENT>
+              <ENT>100.8(b)(15)</ENT>
+              <ENT>100.146.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9002.13</ENT>
+              <ENT>100.7</ENT>
+              <ENT>part 100, subparts B and C.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="9003" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9003&#x2014;ELIGIBILITY FOR PAYMENTS</HD>
+          </PART>
+          <AMDPAR>23. The authority citation for part 9003 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9003 and 9009(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9003" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 9003.3 and 9003.4</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+            <P>24. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</P>
+            <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+              <TTITLE/>
+              <BOXHD>
+                <CHED H="1">Section</CHED>
+                <CHED H="1">Remove</CHED>
+                <CHED H="1">Add</CHED>
+              </BOXHD>
+              <ROW>
+                <ENT I="01">9003.3(a)(2)(iii)</ENT>
+                <ENT>100.8(b)(15)</ENT>
+                <ENT>100.146.</ENT>
+              </ROW>
+              <ROW>
+                <ENT I="01">9003.4(b)(1)</ENT>
+                <ENT>100.7(b)(11)</ENT>
+                <ENT>100.82.</ENT>
+              </ROW>
+            </GPOTABLE>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="9004" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9004-ENTITLEMENT OF ELIGIBLE CANDIDATES TO PAYMENTS; USE OF PAYMENTS</HD>
+          </PART>
+          <AMDPAR>25. The authority citation for part 9004 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <PRTPAGE P="78683"/>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9004 and 9009(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9004" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 9004.1 and 9004.4</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>26. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">9004.1</ENT>
+              <ENT>110.9(c)</ENT>
+              <ENT>110.17(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9004.4(a)(2)</ENT>
+              <ENT>100.7(a)(1) or (b)(11)</ENT>
+              <ENT>100.52(b) or 100.82.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="9008" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9008&#x2014;FEDERAL FINANCING OF PRESIDENTIAL NOMINATING CONVENTIONS</HD>
+          </PART>
+          <AMDPAR>27. The authority citation for part 9008 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>2 U.S.C. 437, 438(a)(8); 26 U.S.C. 9008, 9009(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9008" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7; 9008.7</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>28. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">9008.7(b)(3)</ENT>
+              <ENT>110.4</ENT>
+              <ENT>110.4, 110.19(b)(2), and 110.20.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="9032" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9032&#x2014;DEFINITIONS</HD>
+          </PART>
+          <AMDPAR>29. The authority citation for part 9032 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9032 and 9039(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9032" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7; 9032.4</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+        </REGTEXT>
+        <AMDPAR>30. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+        <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+          <TTITLE/>
+          <BOXHD>
+            <CHED H="1">Section</CHED>
+            <CHED H="1">Remove</CHED>
+            <CHED H="1">Add</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">9032.4</ENT>
+            <ENT>100.7</ENT>
+            <ENT>part 100, subparts B and C.</ENT>
+          </ROW>
+        </GPOTABLE>
+        <REGTEXT PART="9034" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9034&#x2014;ENTITLEMENTS</HD>
+          </PART>
+          <AMDPAR>31. The authority citation for part 9034 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9034 and 9039(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9034" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 9034.2 and 9034.4</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>32. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s57,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">9034.2(a)(4)</ENT>
+              <ENT>100.7(b)(1)</ENT>
+              <ENT>100.72(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9034.2(a)(4)</ENT>
+              <ENT>100.8(b)(1)</ENT>
+              <ENT>100.131(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9034.4(a)(2)</ENT>
+              <ENT>100.8(b)(1)</ENT>
+              <ENT>100.131(a).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9034.4(e)(1)</ENT>
+              <ENT>110.9(c)</ENT>
+              <ENT>110.17(a).</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <REGTEXT PART="9035" TITLE="11">
+          <PART>
+            <HD SOURCE="HED">PART 9035&#x2014;EXPENDITURE LIMITATIONS</HD>
+          </PART>
+          <AMDPAR>33. The authority for part 9035 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>26 U.S.C. 9035 and 9039(b).</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="9035" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7; 9035.1</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>34. In the table below, for each section indicated in the left column, remove the citation indicated in the middle column, and replace it with the citation indicated in the right column:</AMDPAR>
+          <GPOTABLE CDEF="s75,r75,r75" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Section</CHED>
+              <CHED H="1">Remove</CHED>
+              <CHED H="1">Add</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">9035.1(c)(1)</ENT>
+              <ENT>100.8(b)(15)</ENT>
+              <ENT>100.146.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">9035.1(c)(2)</ENT>
+              <ENT>100.8(b)(21)(iii)</ENT>
+              <ENT>100.152(c).</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <SIG>
+          <PRTPAGE P="78684"/>
+          <DATED>Dated: December 19, 2002.</DATED>
+          <NAME>David M. Mason,</NAME>
+          <TITLE>Chairman, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 02-32452 Filed 12-24-02; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

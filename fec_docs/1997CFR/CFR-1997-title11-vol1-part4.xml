@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>PUBLIC RECORDS AND THE FREEDOM OF INFORMATION ACT</TITLE>
+    <GRANULENUM>4</GRANULENUM>
+    <HEADING>PART 4</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="1"/>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 4—PUBLIC RECORDS AND THE FREEDOM OF INFORMATION ACT</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>4.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <SECTNO>4.2</SECTNO>
+      <SUBJECT>Policy on disclosure of records.</SUBJECT>
+      <SECTNO>4.3</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <SECTNO>4.4</SECTNO>
+      <SUBJECT>Availability of records.</SUBJECT>
+      <SECTNO>4.5</SECTNO>
+      <SUBJECT>Categories of exemptions.</SUBJECT>
+      <SECTNO>4.6</SECTNO>
+      <SUBJECT>Discretionary release of exempt records.</SUBJECT>
+      <SECTNO>4.7</SECTNO>
+      <SUBJECT>Requests for records.</SUBJECT>
+      <SECTNO>4.8</SECTNO>
+      <SUBJECT>Appeal of denial.</SUBJECT>
+      <SECTNO>4.9</SECTNO>
+      <SUBJECT>Fees.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>5 U.S.C. 552, as amended.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>44 FR 33368, June 8, 1979, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 4.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <P>As used in this part:</P>
+      <P>(a) <E T="03">Commission</E> means the Federal Election Commission, established by the Federal Election Campaign Act of 1971, as amended.</P>
+      <P>(b) <E T="03">Commissioner</E> means the Secretary of the Senate, the Clerk of the House, or their designees ex officio, or an individual appointed to the Federal Election Commission pursuant to 2 U.S.C. 437c(a).</P>
+      <P>(c) <E T="03">Request</E> means to seek the release of records under 5 U.S.C. 552.</P>
+      <P>(d) <E T="03">Requestor</E> is any person who submits a request to the Commission.</P>
+      <P>(e) <E T="03">Act</E> means the Federal Election Campaign Act of 1971, as amended by the Federal Election Campaign Act Amendments of 1974, 1976, and 1979, and unless specifically excluded, includes chapters 95 and 96 of the Internal Revenue Code of 1954 relating to public financing of Federal elections.</P>
+      <P>(f) <E T="03">Public Disclosure Division</E> of the Commission is that division which is responsible for, among other things, the processing of requests for public access to records which are submitted to the Commission pursuant to 2 U.S.C. 437f(d), 437g(a)(4)(B)(ii), and 438(a).</P>
+      <P>(g) <E T="03">Direct costs</E> means those expenditures which the Commission actually incurs in searching for and duplicating (and, in the case of commercial use requestors, reviewing) documents to respond to a FOIA request. Direct costs include the salary of the employee performing the work (the basic rate of pay for the employee plus 16 percent of that rate to cover benefits) and the cost of <PRTPAGE P="14"/>operating duplicating equipment. Direct costs do not include overhead expenses such as the cost of space and heating or lighting the facility in which the records are stored.</P>
+      <P>(h) <E T="03">Search</E> means all time spent looking for material that is responsive to a FOIA request, including page-by-page or line-by-line identification of material within documents. This includes both manual searches and searches conducted with a computer using existing programming. Search time does not include review of material in order to determine whether the material is exempt from disclosure.</P>
+      <P>(i) <E T="03">Review</E> means the process of examining a document located in response to a commercial use request to determine whether any portion of the document located is exempt from disclosure. Review also refers to processing any document for disclosure, i.e., doing all that is necessary to excise exempt portions of the document and otherwise prepare the document for release. Review does not include time spent by the Commission resolving general legal or policy issues regarding the application of exemptions.</P>
+      <P>(j) <E T="03">Duplication</E> means the process of making a copy of a document necessary to respond to a FOIA request. Examples of the form such copies can take include, but are not limited to, paper copy, microform, audio-visual materials, or machine readable documentation (e.g., magnetic tape or disk).</P>
+      <P>(k) <E T="03">Commercial use</E> means a purpose that furthers the commercial, trade, or profit interests of the requestor or the person on whose behalf the request is made. The Commission's determination as to whether documents are being requested for a commercial use will be based on the purpose for which the documents are being requested. Where the Commission has reasonable cause to doubt the use for which the requestor claims to have made the request or where that use is not clear from the request itself, the Commission will seek additional clarification before assigning the request to a specific category.</P>
+      <P>(l) <E T="03">Educational institution</E> means a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of undergraduate higher education, an institution of professional education, and an institution of vocational education, which operates a program or programs of scholarly research.</P>
+      <P>(m) <E T="03">Non-commercial scientific institution</E> means an organization that is not operated on a commercial basis, as that term is defined in paragraph (k) of this section, and which is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry.</P>
+      <P>(n) <E T="03">Representative of the news media</E> means a person actively gathering news for an entity that is organized and operated to publish or broadcast news to the public. The term news means information that is about current events or that would be of current interest to the public. Examples of news media entities include, but are not limited to, television or radio stations broadcasting to the public at large, and publishers of periodicals (but only in those instances when they can qualify as disseminators of news, as defined in this paragraph) who make their products available for purchase or subscription by the general public. A freelance journalist may be regarded as working for a news organization and therefore considered a representative of the news media if that person can demonstrate a solid basis for expecting publication by that news organization, even though that person is not actually employed by that organization. The best means by which a freelance journalist can demonstrate a solid basis for expecting publication by a news organization is by having a publication contract with that news organization. When no such contract is present, the Commission will look to the freelance journalist's past publication record in making this determination.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980; 52 FR 39212, Oct. 21, 1987]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.2</SECTNO>
+      <SUBJECT>Policy on disclosure of records.</SUBJECT>
+
+      <P>(a) The Commission will make the fullest possible disclosure of records to the public, consistent with the rights of individuals to privacy, the rights of <PRTPAGE P="15"/>persons contracting with the Commission with respect to trade secret and commercial or financial information entitled to confidential treatment, and the need for the Commission to promote free internal policy deliberations and to pursue its official activities without undue disruption.</P>
+      <P>(b) All Commission records shall be available to the public unless they are specifically exempt under this part.</P>
+      <P>(c) To carry out this policy, the Commission shall designate a Freedom of Information Act Officer.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.3</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <P>The regulations in this part implement the provisions of the Freedom of Information Act, 5 U.S.C. 552, with respect to the availability of records for inspection and copying.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.4</SECTNO>
+      <SUBJECT>Availability of records.</SUBJECT>
+      <P>(a) In accordance with 5 U.S.C. 552 (a)(2) and (a)(3) the Commission shall make the following materials available for public inspection and copying:</P>
+      <P>(1) Statements of policy and interpretation which have been adopted by the Commission;</P>
+      <P>(2) Administrative staff manuals and instructions to staff that affect a member of the public;</P>
+      <P>(3) Opinions of Commissioners rendered in enforcement cases and General Counsel's reports and non-exempt 2 U.S.C. 437g investigatory materials in enforcement files will be made available no later than 30 days from the date on which a respondent is notified that the Commission has voted to take no further action and to close such an enforcement file.</P>
+      <P>(4) Letter requests for guidance and responses thereto;</P>
+      <P>(5) The minutes of Commission meetings and transcripts made from tapes of Commission meetings;</P>
+      <P>(6) Material routinely prepared for public distribution, e.g. campaign guidelines, FEC Record, press releases, speeches, notices to candidates and committees.</P>
+
+      <P>(7) Proposals submitted in response to a request for proposals formulated pursuant to the Federal Procurement Regulations. 41 CFR 1-1.001 <E T="03">et seq.</E>
+      </P>
+      <P>(8) Contracts for services and supplies entered into by the Commission.</P>
+      <P>(9) Statements and certifications (with respect to closing meetings) as required by the Government in the Sunshine Act, 5 U.S.C. 552b.</P>
+      <P>(10) Reports of receipts and expenditures, designations of campaign depositories, statements of organization, candidate designations of committees, and the indices compiled from the filings therein.</P>
+      <P>(11) Requests for advisory opinions, written comments submitted in connection therewith, and responses approved by the Commission.</P>
+      <P>(12) With respect to enforcement matters, any conciliation agreement entered into between the Commission and any respondent.</P>
+      <P>(13) Copies of studies published pursuant to the Commission's duty to serve as a national clearinghouse on election law administration.</P>
+      <P>(14) Audit reports (if discussed in open session).</P>
+      <P>(15) Agendas for Commission meetings.</P>
+      <P>(b) Public access to the materials described in subparagraphs (a)(3) and (a)(10) through (a)(15) of this section is also available pursuant to the Federal Election Campaign Act of 1971, as amended, in accordance with the provisions of part 5 of this chapter.</P>
+
+      <P>(c) The Commission shall maintain and make available current indexes and supplements providing identifying information regarding any matter issued, adopted or promulgated after April 15, 1975 as required by 5 U.S.C. 552(a)(2)(c). These indexes and supplements shall be published and made available on at least a quarterly basis for public distribution unless the Commission determines by Notice in the <E T="04">Federal Register</E> that publication would be unnecessary, impracticable, or not feasible due to budgetary considerations. Nevertheless, copies of any index or supplement shall be made available upon request at a cost not to exceed the direct cost of duplication.</P>
+
+      <P>(d) The Freedom of Information Act and the provisions of this part apply only to existing records; they do not require the creation of new records.<PRTPAGE P="16"/>
+      </P>
+      <P>(e) If documents or files contain both disclosable and nondisclosable information, the nondisclosable information will be deleted and the disclosable information released unless the disclosable portions cannot be reasonably segregated from the other portions in a manner which will allow meaningful information to be disclosed.</P>
+      <P>(f) All records created in the process of implementing provisions of 5 U.S.C. 552 will be maintained by the Commission in accordance with the authority granted by General Records Schedule 14, approved by the National Archives and Records Service of the General Services Administration.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 45 FR 31291, May 13, 1980]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.5</SECTNO>
+      <SUBJECT>Categories of exemptions.</SUBJECT>
+      <P>(a) No requests under 5 U.S.C. 552 shall be denied release unless the record contains, or its disclosure would reveal, matters that are:</P>
+      <P>(1) Specifically authorized under criteria established by an executive order to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order;</P>
+      <P>(2) Related solely to the internal personnel rules and practices of the Commission;</P>
+      <P>(3) Specifically exempted from disclosure by statute, provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withhholding or refers to particular types of matters to be withheld;</P>
+      <P>(4) Trade secrets and commercial or financial information obtained from a person which are privileged or confidential. Such information includes confidential business information which concerns or relates to the trade secrets, processes, operations, style of works, or apparatus, or to the production, sales, shipments, purchases, transfers, identification of customers, inventories, or amount of source of income, profits, losses, or expenditures of any person, firm, partnership, corporation, or other organization, if the disclosure is likely to have the effect of either impairing the Commission's ability to obtain such information as is necessary to perform its statutory functions, or causing substantial harm to the competitive position of the person, firm, partnership, corporation, or other organization from which the information was obtained, unless the Commission is required by law to disclose such information. These procedures shall be used for submitting business information in confidence:</P>
+      <P>(i) A request for confidential treatment shall be addressed to the FOIA officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463, and shall indicate clearly on the envelope that it is a request for confidential treatment.</P>
+      <P>(ii) With each submission of, or offer to submit, business information which a submitter desires to be treated as confidential under paragraph (a)(4) of this section, the submitter shall provide the following, which may be disclosed to the public: (A) A written description of the nature of the subject information, and a justification for the request for its confidential treatment, and (B) a certification in writing under oath that substantially identical information is not available to the public.</P>
+      <P>(iii) Approval or denial of requests shall be made only by the FOIA officer or his or her designees. A denial shall be in writing, shall specify the reason therefore, and shall advise the submitter of the right to appeal to the Commission.</P>
+      <P>(iv) For good cause shown, the Commission may grant an appeal from a denial by the FOIA Officer or his or her designee if the appeal is filed within fifteen (15) days after receipt of the denial. An appeal shall be addressed to the FOIA Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463 and shall clearly indicate that it is a confidential submission appeal. An appeal will be decided within twenty (20) days after its receipt (excluding Saturdays, Sundays and legal holidays) unless an extension, stated in writing with the reasons therefore, has been provided the person making the appeal.</P>
+
+      <P>(v) Any business information submitted in confidence and determined to be entitled to confidential treatment shall be maintained in confidence by <PRTPAGE P="17"/>the Commission and not disclosed except as required by law. In the event that any business information submitted to the Commission is not entitled to confidential treatment, the submitter will be permitted to withdraw the tender unless it is the subject of a request under the Freedom of Information Act or of judicial discovery proceedings.</P>
+      <P>(vi) Since enforcement actions under 2 U.S.C. 437g are confidential by statute, the procedures outlined in § 4.5(a)(4) (i) thru (v) are not applicable.</P>
+      <P>(5) Inter-agency or intra-agency memoranda or letters which would not be available by law to a party in litigation with the Commission.</P>
+      <P>(6) Personnel and medical files and similar files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.</P>
+      <P>(7) Records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information:</P>
+      <P>(i) Could reasonably be expected to interfere with enforcement proceedings;</P>
+      <P>(ii) Would deprive a person of a right to a fair trial or an impartial adjudication;</P>
+      <P>(iii) Could reasonably be expected to constitute an unwarranted invasion of personal privacy;</P>
+      <P>(iv) Could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source;</P>
+      <P>(v) Would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law; or</P>
+      <P>(vi) Could reasonably be expected to endanger the life or physical safety of any individual.</P>
+      <P>(b) Whenever a request is made which involves access to records described in 11 CFR 4.5(a)(7): and</P>
+      <P>(1) The investigation or proceeding involves a possible violation of criminal law; and</P>
+      <P>(2) There is reason to believe that—</P>
+      <P>(i) The subject of the investigation or proceeding is not aware of its pendency, and</P>
+      <P>(ii) Disclosure of the existence of the records could reasonably be expected to interfere with enforcement proceedings;</P>
+      <FP>The agency may, during only such time as that circumstance continues, treat the records as not subject to the requirements of the Freedom of Information Act.</FP>
+      <P>(c) Any reasonably segregable portion of a record shall be provided to any person requesting such record after deletion of the portions which are exempt.</P>
+      <P>(d) If a requested record is one of another government agency or deals with subject matter to which a government agency other than the Commission has exclusive or primary responsibility, the request for such a record shall be promptly referred by the Commission to that agency for disposition or guidance as to disposition.</P>
+      <P>(e) Nothing in this part authorizes withholding of information or limiting the availability of records to the public, except as specifically provided in this part; nor is this part authority to withhold information from Congress.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985; 52 FR 23638, June 24, 1987; 52 FR 39212, Oct. 21, 1987]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.6</SECTNO>
+      <SUBJECT>Discretionary release of exempt records.</SUBJECT>
+      <P>The Commission may, in its discretion, release requested records despite the applicability of the exemptions in § 4.5(a), if it determines that it is in the public interest and that the rights of third parties would not be prejudiced.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.7</SECTNO>
+      <SUBJECT>Requests for records.</SUBJECT>
+
+      <P>(a) A request to inspect or copy Commission public records of the type referred to in 11 CFR 4.4(b) may be made <PRTPAGE P="18"/>in person or by mail. The Public Records Office is open Monday through Friday between the hours of 9 a.m. and 5 p.m. and is located on the first floor, 999 E Street, NW., Washington, DC 20463.</P>
+      <P>(b) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to FOIA officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.</P>
+      <P>(c) Records or copies thereof will normally be made available either immediately upon receipt of a request or within ten working days thereafter, or twenty working days in the case of an appeal, unless in unusual circumstances the time is extended or subject to 11 CFR 4.9(f)(3), which governs advance payments. In the event the time is extended, the requestor shall be notified of the reasons for the extension and the date on which a determination is expected to be made, but in no case shall the extended time exceed ten working days. An extension may be made if it is—</P>
+      <P>(1) Necessary to locate records or transfer them from physically separate facilities; or</P>
+      <P>(2) Necessary to search for, collect, and appropriately examine a large quantity of separate and distinct records which are the subject of a single request; or</P>
+      <P>(3) Necessary for consultation with another agency which has a substantial interest in the determination of the request, or with two or more components of the Commission which have a substantial subject matter interest therein.</P>
+      <P>(d) Any person denied access to records by the Commission shall be notified immediately giving reasons therefore, and notified of the right of such person to appeal such adverse determination to the Commission.</P>
+      <P>(e) The date of receipt of a request under this part shall be the date on which the FOIA Officer actually receives the request.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.8</SECTNO>
+      <SUBJECT>Appeal of denial.</SUBJECT>
+      <P>(a) Any person who has been notified pursuant to § 4.6(d) of this part that his/her request for inspection of a record or for a copy has been denied, or who has received no response within ten working days (or within such extended period as is permitted under § 4.7(c) of this part) after the request has been received by the Commission, may appeal the adverse determination or the failure to respond by requesting the Commission to direct that the record be made available.</P>
+      <P>(b) The appeal request shall be in writing, shall clearly and prominently state on the envelope or other cover and at the top of the first page “FOIA Appeal”, and shall identify the record in the form in which it was originally requested.</P>
+      <P>(c) The appeal request should be delivered or addressed to the FOIA Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463.</P>
+      <P>(d) The requestor may state facts and cite legal or other authorities as he/she deems appropriate in support of the appeal request.</P>
+      <P>(e) For good cause shown, the Commission may disclose a record which is subject to one of the exemptions listed in § 4.5 of this part.</P>
+      <P>(f) The Commission will make a determination with respect to any appeal within twenty days (excluding Saturdays, Sundays and legal holidays) after receipt of the appeal (or within such extended period as is permitted under § 4.7(c) of this part). If on appeal, the denial of the request for a record or a copy is in whole or in part upheld, the Commission shall advise the requestor of the denial and shall notify him/her of the provisions for judicial review of that determination as set forth in 5 U.S.C. 552(a)(4).</P>
+
+      <P>(g) Because of the risk of misunderstanding inherent in oral communications, the Commission will not entertain any appeal from an alleged denial <PRTPAGE P="19"/>or failure to comply with an oral request. Any person who has orally requested a copy of a record that he/she believes to have been improperly denied should resubmit the request in writing as set forth in § 4.7.</P>
+      <CITA>[44 FR 33368, June 8, 1979, as amended at 50 FR 50778, Dec. 12, 1985]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 4.9</SECTNO>
+      <SUBJECT>Fees.</SUBJECT>
+      <P>(a) <E T="03">Exceptions to fee charges</E>—(1) <E T="03">General.</E> Except for a commercial use requester, the Commission will not charge a fee to any requester for the first two hours of search time and the first 100 pages of duplication in response to any FOIA request.</P>
+      <P>(2) <E T="03">Free computer search time.</E> For purposes of this paragraph, the term <E T="03">search time</E> is based on the concept of a manual search. To apply this to a search conducted by a computer, the Commission will provide the equivalent dollar value of two hours of professional staff time, calculated according to paragraph (c)(4) of this section, in computer search time. Computer search time is determined by adding the cost of the computer connect time actually used for the search, calculated at the rate of $25.00 per hour, to the cost of the operator's salary for the time spent conducting the computer search, calculated at the professional staff time rate set forth at paragraph (c)(4) of this section.</P>
+      <P>(3) <E T="03">Definition of pages.</E> For purposes of this paragraph, the word <E T="03">pages</E> refers to paper copies of a standard agency size which will normally be 8<FR>1/2</FR>
+        <E T="61">″</E> x 11<E T="61">″</E> or 8<FR>1/2</FR>
+        <E T="61">″</E> x 14<E T="61">″.</E> Thus, while a requester would not be entitled to 100 free computer disks, for example, a requester would be entitled to 100 free pages of a computer printout.</P>
+      <P>(4) <E T="03">Minimum charge.</E> The Commission will not charge a fee to any requester when the allowable direct cost of that FOIA request is equal to or less than the Commission's cost of routinely collecting and processing a FOIA request fee.</P>
+      <P>(b) <E T="03">Fee reduction or waiver</E>—(1) The Commission will consider requests for the reduction or waiver of any fees assessed pursuant to paragraph (c)(1) of this section if it determines, either as a result of its own motion or in response to a written submission by the requester, that disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and that disclosure of the information is not primarily in the commercial interest of the requester.</P>
+      <P>(2) A request for a reduction or waiver of fees shall be made in writing by the FOIA requestor; shall accompany the relevant FOIA request so as to be considered timely; and shall include a specific explanation as to why the fee for that FOIA request should be reduced or waived, applying the standard stated in paragraph (b)(1) of this section to the facts of that particular request. In addition, the explanation shall include: the requester's (and user's, if the requester and the user are different persons or entities) identity, qualifications and expertise in the subject area, and ability and intention to disseminate the information to the public; and a discussion of any commercial or personal benefit that the requestor (and user, if the requestor and user are different persons or entities) expects as a result of disclosure, including whether the information disclosed would be resold in any form at a fee above actual cost.</P>
+      <P>(c) <E T="03">Fees to be charged.</E> (1) The FOIA services provided by the Commission in response to a FOIA request for which the requestor will be charged will depend upon the category of the requestor. The categories of FOIA requestors are as follows:</P>
+      <P>(i) <E T="03">Commercial use requestors.</E> A requestor of documents for commercial use will be assessed reasonable standard charges for the full allowable direct costs of searching for, reviewing for release and duplicating the records sought, according to the Commission's schedule of fees for those services as set forth at paragraph (c)(4) of this section. A commercial use requestor is not entitled to two hours of free search time nor 100 free pages of duplication of documents.</P>
+      <P>(ii) <E T="03">Educational and non-commercial scientific institution requestors.</E> The Commission will provide documents to requestors in this category for the cost of duplication of the records provided by <PRTPAGE P="20"/>the Commission in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first 100 pages of duplication. Requestors in this category will not be charged for search time. To be eligible for inclusion in this category, requestors must show that the request is being made as authorized by and under the auspices of a qualifying institution and that the records are not sought for a commercial use, but are sought in furtherance of scholarly (if the request is from an educational institution) or scientific (if the request is from a non-commercial scientific institution) research.</P>
+      <P>(iii) <E T="03">Requestors who are representatives of the news media.</E> The Commission will provide documents to requestors in this category for the cost of duplication of the records provided by the Commission in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first 100 pages of duplication. Requestors in this category will not be charged for search time. To be eligible for inclusion in this category, the requestor must meet the criteria listed at 11 CFR 4.1(n) and his or her request must not be made for a commercial use. A request for records supporting the news dissemination function of the requestor shall not be considered to be a request that is for a commercial use.</P>
+      <P>(iv) <E T="03">All other requestors.</E> The Commission will charge requestors who do not fit into any of the categories listed in paragraph (c)(1)(i), (ii) or (iii) of this section the full direct costs of searching for and duplicating records in response to the request, according to the Commission's schedule of fees as set forth at paragraph (c)(4) of this section, excluding charges for the first two hours of search time and the first 100 pages of duplication. Requests from record subjects for records about themselves will continue to be treated under the fee provisions of the Privacy Act of 1974 which permit fees only for duplication.</P>
+      <P>(2) The Commission may assess fees for the full allowable direct costs of searching for documents in response to a request even if the Commission fails to locate any documents which are responsive to that request and, in the case of commercial use requestors, of reviewing documents located in response to a request which the Commission determines are exempt from disclosure.</P>
+      <P>(3) If the Commission estimates that search or duplication charges are likely to exceed $25.00, it will notify the requestor of the estimated amount of the fee unless the requestor has indicated in advance a willingness to pay a fee as high as that estimated by the Commission. Through this notification, the Commission will offer the requestor the opportunity to confer with Commission staff to reformulate the original request in order to meet the requestor's needs at a lower cost.</P>
+
+      <P>(4) The following is the schedule of the Commission's standard fees. The cost of staff time will be added to all of the following fees, generally at the <E T="03">Professional</E> rate listed below, except for the cost of <E T="03">Photocopying from photocopying machines</E> which has been calculated to include staff time.</P>
+      <EXTRACT>
+        <HD SOURCE="HD3">Photocopying</HD>
+        <FP SOURCE="FP-1">Photocopying from photocopying machines—$.07 per page</FP>
+        <FP SOURCE="FP-1">Photocopying from microfilm reader-printer—$.15 per page</FP>
+        <FP SOURCE="FP-1">Paper copies from microfilm-paper print machine—$.05 per frame page</FP>
+        <HD SOURCE="HD1">Reels of Microfilm</HD>
+        <FP SOURCE="FP-1">Daily film (partial or complete roll)—$2.85 per roll</FP>
+        <FP SOURCE="FP-1">Other film (partial or complete roll)—$5.00 per roll</FP>
+        <HD SOURCE="HD1">Publications: (new or not from available stocks)</HD>
+        <FP SOURCE="FP-1">Cost of photocopying document—$.07 per page</FP>
+        <FP SOURCE="FP-1">Cost of binding document—$.30 per inch</FP>
+        <HD SOURCE="HD1">Publications: (available stock)</HD>
+
+        <P>If available from stock on hand, cost is based on previously calculated cost as stated in the publication (based on actual cost per copy, including reproduction and binding). Commission publications for which fees will be charged include, but are not limited to, the following: Advisory Opinion Index, Report on Financial Activity, Financial Control and Compliance Manual, MUR Index, and Guideline for Presentation in Good Order.<PRTPAGE P="21"/>
+        </P>
+        <HD SOURCE="HD1">Computer Tapes</HD>
+        <P>Cost to process the request at the rate of $25.00 per hour connect time plus the cost of the computer tape ($25.00) and professional staff time (see Staff Time).</P>
+        <HD SOURCE="HD1">Computer Indexes (including Name Searches)</HD>
+        <P>Cost to process the request at the rate of $25.00 per hour connect time plus the cost of professional staff time (see Staff Time).</P>
+        <HD SOURCE="HD1">Staff Time</HD>
+        <P>Clerical: $4.50 per each half hour (agency average of staff below a GS-11) for each request.</P>
+        <P>Professional: $12.40 per each half hour (agency average of staff at GS-11 and above) for each request.</P>
+        <HD SOURCE="HD1">Other Charges</HD>
+        <P>Certification of a Document: $7.35 per quarter hour.</P>
+        <P>Transcripts of Commission meetings not previously transcribed: $7.50 per half hour (equivalent of a GS-11 executive secretary).</P>
+        <P>The Commission will not charge a fee for ordinary packaging and mailing of records requested. When a request for special mailing or delivery services is received the Commission will package the records requested. The requestor will make all arrangements for pick-up and delivery of the requested materials. The requestor shall pay all costs associated with special mailing or delivery services directly to the courier or mail service.</P>
+      </EXTRACT>
+      
+      <P>(5) Upon receipt of any request for the production of computer tape or microfilm, the Commission will advise the requestor of the identity of the private contractor who will perform the duplication services. If fees are charged for the production of computer tape or microfilm, they shall be made payable to that private contractor and shall be forwarded to the Commission.</P>
+      <P>(d) <E T="03">Interest charges.</E> FOIA requestors should pay fees within 30 days following the day on which the invoice for that request was sent to the requestor. If the invoice is unpaid on the 31st day following the day on which the invoice was sent, the Commission will begin assessing interest charges, which will accrue from the date the invoice was mailed. Interest will be charged at a rate that is equal to the average investment rate for the Treasury tax and loan accounts for the 12-month period ending on September 30 of each year, rounded to the nearest whole percentage point, pursuant to 31 U.S.C. 3717. The accrual of interest will be stayed by the Commission's receipt of the fee, even if the fee has not yet been processed.</P>
+      <P>(e) <E T="03">Aggregating requests.</E> A requestor may not file multiple requests, each seeking portions of a document or documents, in order to avoid payment of fees. When the Commission reasonably believes that a FOIA requestor or group of requestors acting in concert is attempting to break a request down into a series of requests for the purpose of evading the assessment of fees, the Commission will aggregate any such requests and charge the appropriate fees. In making this determination, the Commission will consider the time period in which the requests have occurred, the relationship of the requestors, and the subject matter of the requests.</P>
+      <P>(f) <E T="03">Advance payments.</E> The Commission will require a requestor to make an advance payment, i.e., a payment before work is commenced or continued on a request, when:</P>
+      <P>(1) The Commission estimates or determines that allowable charges that a requestor may be required to pay are likely to exceed $250. In such a case, the Commission will notify the requestor of the likely cost and, where the requestor has a history of prompt payment of FOIA fees, obtain satisfactory assurance of full payment, or in the case of a requestor with no FOIA fee payment history, the Commission will require an advance payment of an amount up to the full estimated charges; or</P>
+      <P>(2) A requestor has previously failed to pay a fee in a timely fashion (i.e., within 30 days of the date of the billing). In such a case, the Commission may require that the requestor pay the full amount owed plus any applicable interest or demonstrate that the fee has been paid and make an advance payment of the full amount of the estimated fee before the Commission begins to process a new request or a pending request from that requestor.</P>
+
+      <P>(3) If the provisions of paragraph (f)(1) or (2) of this section apply, the administrative time limits prescribed in 11 CFR 4.7(c) will begin only after the Commission has received the payments or the requestor has made acceptable <PRTPAGE P="22"/>arrangements to make the payments required by paragraph (f)(1) or (2) of this section.</P>
+      <CITA>[52 FR 39213, Oct. 21, 1987]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

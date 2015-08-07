@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>STANDARDS OF CONDUCT</TITLE>
+    <GRANULENUM>7</GRANULENUM>
+    <HEADING>PART 7</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="1"/>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 7—STANDARDS OF CONDUCT</HD>
+    <CONTENTS>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—General Provisions</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>7.1</SECTNO>
+        <SUBJECT>Purpose and applicability.</SUBJECT>
+        <SECTNO>7.2</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+        <SECTNO>7.3</SECTNO>
+        <SUBJECT>Notification to employees and special Commission employees.</SUBJECT>
+        <SECTNO>7.4</SECTNO>
+        <SUBJECT>Interpretation and advisory service.</SUBJECT>
+        <SECTNO>7.5</SECTNO>
+        <SUBJECT>Reporting suspected violations.</SUBJECT>
+        <SECTNO>7.6</SECTNO>
+        <SUBJECT>Disciplinary and other remedial action.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart B—Conduct and Responsibilities of Employees or Commissioners</HD>
+        <SECTNO>7.7</SECTNO>
+        <SUBJECT>Prohibited conduct—General.</SUBJECT>
+        <SECTNO>7.8</SECTNO>
+        <SUBJECT>Gifts, entertainment, and favors.</SUBJECT>
+        <SECTNO>7.9</SECTNO>
+        <SUBJECT>Outside employment or activities.</SUBJECT>
+        <SECTNO>7.10</SECTNO>
+        <SUBJECT>Financial interests.</SUBJECT>
+        <SECTNO>7.11</SECTNO>
+        <SUBJECT>Political and organization activity.</SUBJECT>
+        <SECTNO>7.12</SECTNO>
+        <SUBJECT>Membership in associations.</SUBJECT>
+        <SECTNO>7.13</SECTNO>
+        <SUBJECT>Use of Government property.</SUBJECT>
+        <SECTNO>7.14</SECTNO>
+        <SUBJECT>Prohibition against making complaints and investigations public.</SUBJECT>
+        <SECTNO>7.15</SECTNO>
+        <SUBJECT>Ex parte communications.</SUBJECT>
+        <SECTNO>7.16</SECTNO>
+        <SUBJECT>Miscellaneous statutory provisions.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart C—Conduct and Responsibilities of Special Commission Employees</HD>
+        <SECTNO>7.17</SECTNO>
+        <SUBJECT>Use of Commission employment.</SUBJECT>
+        <SECTNO>7.18</SECTNO>
+        <SUBJECT>Use of inside information.</SUBJECT>
+        <SECTNO>7.19</SECTNO>
+        <SUBJECT>Coercion.</SUBJECT>
+        <SECTNO>7.20</SECTNO>
+        <SUBJECT>Gifts, entertainment, and favors.</SUBJECT>
+        <SECTNO>7.21</SECTNO>
+        <SUBJECT>Miscellaneous statutory provisions.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart D—Post Employment Conflict of Interest: Procedures for Administrative Enforcement Proceedings</HD>
+        <SECTNO>7.22</SECTNO>
+        <SUBJECT>Scope.</SUBJECT>
+        <SECTNO>7.23</SECTNO>
+        <SUBJECT>Initiation of investigation.</SUBJECT>
+        <SECTNO>7.24</SECTNO>
+        <SUBJECT>Conduct of preliminary investigation.</SUBJECT>
+        <SECTNO>7.25</SECTNO>
+        <SUBJECT>Initiation of administrative disciplinary proceeding.</SUBJECT>
+        <SECTNO>7.26</SECTNO>
+        <SUBJECT>Notice to former employee.</SUBJECT>
+        <SECTNO>7.27</SECTNO>
+        <SUBJECT>Hearing examiner designation and qualifications.</SUBJECT>
+        <SECTNO>7.28</SECTNO>
+        <SUBJECT>Hearing date.</SUBJECT>
+        <SECTNO>7.29</SECTNO>
+        <SUBJECT>Hearing rights of former employee.</SUBJECT>
+        <SECTNO>7.30</SECTNO>
+        <SUBJECT>Hearing procedures.</SUBJECT>
+        <SECTNO>7.31</SECTNO>
+        <SUBJECT>Examiner's decision.</SUBJECT>
+        <SECTNO>7.32</SECTNO>
+        <SUBJECT>Appeal.</SUBJECT>
+        <SECTNO>7.33</SECTNO>
+        <SUBJECT>Administrative sanctions.</SUBJECT>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>5 U.S.C. 7321 <E T="03">et seq.</E>; 18 U.S.C. 207.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>51 FR 34446, Sept. 29, 1986, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—General Provisions</HD>
+      <SECTION>
+        <SECTNO>§ 7.1</SECTNO>
+        <SUBJECT>Purpose and applicability.</SUBJECT>
+        <P>(a) The Federal Election Commission is committed to honest, independent and impartial monitoring and enforcement of federal election law. To ensure public trust in the fairness and integrity of the federal elections process, all employees must observe the highest standards of conduct. This part prescribes standards of ethical conduct for Commissioners, employees and special Government employees of the Federal Election Commission relating to conflicts of interest arising out of outside employment, private business and professional activities, political activities, and financial interests. The avoidance of misconduct and conflicts of interest on the part of Commission employees through informed judgment is indispensable to the maintenance of these prescribed ethical standards. Attainment of these goals necessitates strict and absolute fairness and impartiality in the administration of the law.</P>
+
+        <P>(b) This part applies to all persons included within the terms <E T="03">employee</E> and <E T="03">special Commission employees</E> of the Commission as defined in 11 CFR 7.2, except to the extent otherwise indicated herein, and is consistent with Executive Order 11222 and part 735 of title 5, Code of Federal Regulations, relating to employee responsibilities and conduct.</P>
+        <P>(c) These Standards of Conduct shall be construed in accordance with any applicable laws, regulations and agreements between the Federal Election Commission and a labor organization.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.2</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+        <P>As used in this part:</P>
+        <P>(a) <E T="03">Commission</E> means the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.</P>
+        <P>(b) <E T="03">Commissioner</E> means a voting member of the Federal Election Commission, in accordance with 2 U.S.C. 437c.</P>
+        <P>(c) <E T="03">Conflict of interest</E> means a situation in which an employee's private interest is inconsistent with the efficient <PRTPAGE P="32"/>and impartial conduct of his or her official duties and responsibilities.</P>
+        <P>(d) <E T="03">Designated Agency Ethics Officer</E> or <E T="03">Ethics Officer</E> means the employee designated by the Commission to administer the provisions of the Ethics in Government Act of 1978 (Pub. L. 95-521), as amended, and includes a designee of the Ethics Officer.</P>
+        <P>(e) <E T="03">Employee</E> means an employee of the Federal Election Commission, but does not include a special Commission employee.</P>
+        <P>(f) <E T="03">Former employee</E> means one who was, and is no longer, an employee of the Commission.</P>
+        <P>(g) <E T="03">Official responsibility</E> means the direct administrative or operating authority, whether intermediate or final, to approve, disapprove, or otherwise direct Commission action. Official responsibility may be exercised alone or with others and either personally or through subordinates.</P>
+        <P>(h) <E T="03">Outside employment or other outside activity</E> means any work, service or other activity performed by an employee, but not a Commissioner, other than in the performance of the employee's official duties. It includes such activities as writing and editing, publishing, teaching, lecturing, consulting, self-employment, and other services or work performed, with or without compensation.</P>
+        <P>(i) <E T="03">Person</E> means an individual, corporation, company, association, firm, partnership, society, joint stock company, political committee, or other group, organization, or institution.</P>
+        <P>(j) <E T="03">Special Commission employee</E> means an individual who is retained, designated, appointed or employed by the Federal Election Commission to perform, with or without compensation, temporary duties either on a full-time or intermittent basis, for not to exceed 130 days during any period of 365 consecutive days, as defined at 18 U.S.C. 202.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.3</SECTNO>
+        <SUBJECT>Notification to employees and special Commission employees.</SUBJECT>
+        <P>(a) The provisions of this part shall be brought to the attention of, and made available to, each employee and special Commission employee by furnishing a copy at the time of final publication. The provisions of this part shall further be brought to the attention of such employees at least annually thereafter.</P>
+        <P>(b) The provisions of this part shall be brought to the attention of each new employee and new special Commission employee by furnishing a copy at the time of entrance of duty, and by such other methods of information and education as the Ethics Officer may prescribe.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.4</SECTNO>
+        <SUBJECT>Interpretation and advisory service.</SUBJECT>
+        <P>A Commissioner or employee seeking advice and guidance on questions of conflict of interest and on other matters covered by this part should consult with the Commission's General Counsel, who serves as Ethics Officer. The Ethics Officer should be consulted prior to the undertaking of any action which might violate this part governing the conduct of Commissioners or employees.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.5</SECTNO>
+        <SUBJECT>Reporting suspected violations.</SUBJECT>
+        <P>(a) Personnel who have information which causes them to believe that there has been a violation of a statute or policy set forth in this part should promptly report such incident to the Ethics Officer. If a report is made orally, the Ethics Officer shall require a written report from the complainant before proceeding further.</P>
+        <P>(b) When information available to the Commission indicates a conflict between the interests of an employee or special Commission employee and the performance of his or her Commission duties, the employee or special Commission employee shall be provided an opportunity to explain the conflict or appearance of conflict in writing.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.6</SECTNO>
+        <SUBJECT>Disciplinary and other remedial action.</SUBJECT>
+        <P>(a) A violation of this part by an employee or special Commission employee may be cause for appropriate disciplinary action which may be in addition to any penalty prescribed by law.</P>
+
+        <P>(b) When the Ethics Officer determines that an employee may have or appears to have a conflict of interest, the Ethics Officer, the employee's supervisor, the employee's division head, and the Staff Director or General <PRTPAGE P="33"/>Counsel may question the employee in the matter and gather other information. The Ethics Officer, the employee's supervisor, the employee's division head, and the Staff Director or General Counsel shall discuss with the employee possible ways of eliminating the conflict or appearance of conflict. If the Ethics Officer, after consultation with the employee's supervisor, the employee's division head, and the Staff Director or General Counsel, concludes that remedial action should be taken, he or she shall refer a statement to the Commission containing his or her recommendation for such action. The Commission, after consideration of the employee's explanation and the results of any investigation, may direct appropriate remedial action as it deems necessary.</P>
+        <P>(c) Remedial action pursuant to paragraph (b) of this section may include, but is not limited to:</P>
+        <P>(1) Changes in assigned duties;</P>
+        <P>(2) Divestment by the employee of his or her conflicting interest;</P>
+        <P>(3) Disqualification for a particular action; or</P>
+        <P>(4) Disciplinary action.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Conduct and Responsibilities of Employees or Commissioners</HD>
+      <SECTION>
+        <SECTNO>§ 7.7</SECTNO>
+        <SUBJECT>Prohibited conduct—General.</SUBJECT>
+        <P>A Commissioner or employee shall avoid any action whether or not specifically prohibited by this subpart which might result in, or create the appearance of:</P>
+        <P>(a) Using public office for unlawful private gain;</P>
+        <P>(b) Giving favorable or unfavorable treatment to any person or organization due to any partisan, political, or other consideration;</P>
+        <P>(c) Impeding Government efficiency or economy;</P>
+        <P>(d) Losing independence or impartiality;</P>
+        <P>(e) Making a Government decision outside official channels; or</P>
+        <P>(f) Affecting adversely the confidence of the public in the integrity of the Government.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.8</SECTNO>
+        <SUBJECT>Gifts, entertainment, and favors.</SUBJECT>
+        <P>(a) A Commissioner or employee of the Federal Election Commission shall not solicit or accept, directly or indirectly, any gift, gratuity, favor, entertainment, loan, or any other thing of monetary value, from a person who:</P>
+        <P>(1) Has, or is seeking to obtain, contractual or other business or financial relations with the Commission;</P>
+        <P>(2) Conducts operations or activities that are regulated or examined by the Commission; or</P>
+        <P>(3) Has interests that may be substantially affected by the performance or nonperformance of the Commissioner or employee's official duty.</P>
+        <P>(b) Paragraph (a) of this section shall not apply:</P>
+        <P>(1) Where obvious family or personal relationships govern when the circumstances make it clear that it is those relationships rather than the business of the persons concerned which are the motivating factors;</P>
+        <P>(2) To the acceptance of food, refreshments, and accompanying entertainment of nominal value in the ordinary course of a social occasion or a luncheon or dinner meeting or other function where a Commissioner or an employee is properly in attendance;</P>
+        <P>(3) To the acceptance of unsolicited advertising or promotional material or other items of nominal intrinsic value such as pens, pencils, note pads, calendars; and</P>
+        <P>(4) To the acceptance of loans from banks or other financial institutions on customary terms to finance proper and usual activities, such as home mortgage loans.</P>
+        <P>(c) A Commissioner or an employee shall not solicit a contribution from another employee for a gift to an official superior, make a donation as a gift to an official superior, or accept a gift from an employee receiving less pay than himself or herself. However, this paragraph does not prohibit a voluntary gift of nominal value or donation in a nominal amount made on a special occasion such as birthday, holiday, marriage, illness, or retirement.</P>
+
+        <P>(d) A Commissioner or employee shall not accept a gift, present, decoration, or other thing from a foreign government unless authorized by Congress as provided by the Constitution and in <PRTPAGE P="34"/>section 7342 of title 5, United States Code.</P>
+        <P>(e) Neither this section nor 11 CFR 7.7 precludes a Commissioner or employee from receipt of a bona fide reimbursement, unless prohibited by law, for expenses of travel and such other necessary subsistence as is compatible with this part for which no Government payment or reimbursement is made. However, this section does not allow an employee or Commissioner to be reimbursed, or payment to be made on his or her behalf, for excessive personal living expenses, gifts, entertainment, or other personal benefits, nor does it allow an employee to be reimbursed by a person for travel on official business under agency orders when reimbursement is proscribed by Decision B-128527 of the Comptroller General dated March 7, 1967 (46 Comp. Gen. 689).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.9</SECTNO>
+        <SUBJECT>Outside employment or activities.</SUBJECT>
+        <P>(a) A member of the Commission shall not devote a substantial portion of his or her time to any other business, vocation, or employment. Any individual who is engaging substantially in any other business, vocation, or employment at the time such individual begins to serve as a member of the Commission shall appropriately limit such activity no later than 90 days after beginning to serve as such a member.</P>
+        <P>(b) An employee shall not engage in outside employment that is not compatible with the full discharge of his or her Government employment and not in compliance with any labor-management agreement between the Federal Election Commission and a labor organization. Incompatible outside employment or other activities include but are not limited to:</P>
+        <P>(1) Outside employment or other activities which would involve the violation of a Federal or State statute, local ordinance, Executive Order, or regulation to which the employee is subject;</P>
+        <P>(2) Outside employment or other activities which would give rise to a real or apparent conflict of interest situation even though no violation of a specific statutory provision was involved;</P>
+        <P>(3) Acceptance of a fee, compensation, gift, payment of expense, or any other thing of monetary value in circumstances where acceptance may result in, or create the appearance of, a conflict of interest;</P>
+        <P>(4) Outside employment or other activities that might bring discredit upon the Government or Commission;</P>
+        <P>(5) Outside employment or other activities that establish relationships or property interests that may result in a conflict between the employee's private interests and official duties;</P>
+        <P>(6) Outside employment or other activities which would involve any contractor or subcontractor connected with any work performed for the Commission or would involve any person or organization in a position to gain advantage in its dealings with the Government through the employee's exercise of his or her official duties;</P>
+        <P>(7) Outside employment of other activities that may be construed by the public to be the official acts of the Federal Election Commission. In any permissible outside employment, care shall be taken to ensure that names and titles of employees are not used to give the impression that the activity is officially endorsed or approved by the Commission or is part of the Commission's activities;</P>
+        <P>(8) Outside employment or other activities which would involve use by an employee of his or her official duty time; use of official facilities, including office space, machines, or supplies, at any time; or use of the services of other employees during their official duty hours;</P>
+        <P>(9) Outside employment or other activities which tend to impair the employee's mental or physical capacities to perform Commission duties and responsibilities in an acceptable manner; or</P>
+        <P>(10) Use of information obtained as a result of Government employment which is not freely available to the general public or would not be made available upon request. However, written authorization for the use of any such information may be given when the Commission determines that such use would be in the public interest.</P>
+
+        <P>(c) An employee shall not receive any salary or anything of monetary value from a private source as compensation for his or her services to the Government in violation of 18 U.S.C. 209.<PRTPAGE P="35"/>
+        </P>
+        <P>(d) Employees are encouraged to engage in teaching, lecturing, and writing that is not prohibited by law, Executive Order 11222, or this part. However, an employee shall not, either for or without compensation, engage in teaching or writing that is dependent on information obtained as a result of his or her Commission employment, except when that information has been made available to the general public or will be made available on request, or when the Commission gives written authorization for the use of nonpublic information on the basis that the use is in the public interest.</P>
+        <P>(e) This section does not preclude an individual from participation in the affairs of or acceptance of an award for meritorious public contribution or achievement given by a charitable, religious, professional, social, fraternal, nonprofit educational, recreational, public service or civic organization.</P>
+        <P>(f) An employee of the Office of General Counsel who intends to engage in outside employment shall obtain the approval of the General Counsel/Ethics Officer. All other employees who intend to engage in outside employment shall obtain the approval of the Staff Director prior to review and approval by the Ethics Officer. The request shall include the name of the person, group, or organization for whom the work is to be performed, the nature of the services to be rendered, the proposed hours of work, or approximate dates of employment, and the employee's certification as to whether the outside employment (including teaching, writing or lecturing) will depend in any way on information obtained as a result of the employee's official Government position. The employee will receive notice of approval or disapproval of any written request in accordance with any labor-management agreement between the Commission and a labor organization. A record of the approval shall be placed in each employee's official personnel folder.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.10</SECTNO>
+        <SUBJECT>Financial interests.</SUBJECT>
+        <P>(a)(1) A Commissioner or employee shall not engage in, directly or indirectly, a financial transaction as a result of, or primarily relying on, information obtained through his or her Commission employment.</P>
+        <P>(2) A Commissioner or employee shall not have a direct or indirect financial interest that conflicts substantially, or appears to conflict substantially, with his or her Commission duties and responsibilities, except in cases where the Commissioner or employee makes full disclosure, and the Commissioner or employee disqualifies himself or herself from participating in any decisions, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise in any proceeding of the Commission in which the financial interest is or appears to be affected. The filing of public financial disclosure reports will constitute full disclosure for all individuals who are required to file such reports pursuant to the Ethics in Government Act. Until such time as the extent, shape and form of confidential financial disclosure reports required of employees by the Ethics in Government Act has been determined, full disclosure by an employee will require that that employee submit a written statement to the Ethics Officer disclosing the particular financial interest which conflicts substantially, or appears to conflict substantially, with the employee's duties and responsibilities.</P>
+        <P>(3) A Commissioner or employee should disqualify himself or herself from a proceeding in which his or her impartiality might reasonably be questioned where the Commissioner or employee knows that he or she, or his or her spouse, has an interest in the subject matter in controversy or is a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding.</P>
+        <P>(b) This section does not preclude a Commissioner or employee from having a financial interest or engaging in financial transactions to the same extent as a private citizen not employed by the Government provided that the activity is not prohibited by law, Executive Order 11222, or Commission regulations.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.11</SECTNO>
+        <SUBJECT>Political and organization activity.</SUBJECT>
+
+        <P>(a) Due to the Federal Election Commission's role in the political process, <PRTPAGE P="36"/>the following restrictions on political activities are required in addition to those imposed by the Hatch Act (5 U.S.C. 7324 <E T="03">et seq.</E>):</P>
+        <P>(1) No Commissioner or employee should publicly support a candidate, political party, or political committee subject to the jurisdiction of the Commission. No Commissioner or employee should work for a candidate, political party or political committee subject to the jurisdiction of the Commission. Commissioners and employees should be aware that contributing to candidates, political parties, or political committees subject to the jurisdiction of the Commission is likely to result in a conflict of interest.</P>
+        <P>(2) No Commissioner or employee shall display partisan buttons, badges or other insignia on Commission premises.</P>
+        <P>(b) Special Government employees are subject to the restrictions contained in this section for the entire 24 hours of any day on which the employee is on active duty status.</P>
+        <P>(c) Employees on leave, leave without pay, or on furlough or terminal leave, even though the employees’ resignations have been accepted, are subject to the restrictions of this section. A separated employee who has received a lump-sum payment for annual leave, however, is not subject to the restrictions during the period covered by the lump-sum payment or thereafter, provided he or she does not return to Federal employment during that period. An employee is not permitted to take a leave of absence to work with a political candidate, committee, or organization or become a candidate for office despite any understanding that he or she will resign his or her position if nominated or elected.</P>
+        <P>(d) An employee is accountable for political activity by another person acting as his or her agent or under the employee's direction or control if the employee is thus accomplishing what he or she may not lawfully do directly and openly.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.12</SECTNO>
+        <SUBJECT>Membership in associations.</SUBJECT>
+        <P>Commissioners or employees who are members of nongovernmental associations or organizations shall avoid activities on behalf of those associations or organizations that are incompatible with their official governmental positions.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.13</SECTNO>
+        <SUBJECT>Use of Government property.</SUBJECT>
+        <P>A Commission or employee shall not directly or indirectly use, or allow the use of, Government property of any kind, including property leased to the Government, for other than officially approved activities. Commissioners and employees have a positive duty to protect and conserve Government property including equipment, supplies, and other property entrusted or issued to him or her.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.14</SECTNO>
+        <SUBJECT>Prohibition against making complaints and investigations public.</SUBJECT>
+        <P>(a) Commission employees are warned that they are subject to criminal penalties if they discuss or otherwise make public any matters pertaining to a complaint or investigation under 2 U.S.C. 437g, without the written permission of the person complained against or being investigated. Such communications are prohibited by 2 U.S.C. 437g(a)(12)(A).</P>
+        <P>(b) 2 U.S.C. 437g(a)(12)(B) provides as follows: “Any member or employee of the Commission or any other person, who violates the provisions of subparagraph (A) shall be fined not more than $2,000. Any such member, employee, or other person who knowingly and willfully violates this subsection shall be fined not more than $5,000.”</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.15</SECTNO>
+        <SUBJECT>Ex parte communications.</SUBJECT>
+        <P>In order to avoid the possibility of prejudice, real or apparent, to the public interest in enforcement actions pending before the Commission pursuant to 2 U.S.C. 437g(A) (1) or (2):</P>
+        <P>(a) Except to the extent required for the disposition of ex parte matters as required by law (as, for example, during the normal course of an investigation or a conciliation effort), no Commissioner or employee involved in the decisional process shall make or entertain any ex parte communications.</P>
+
+        <P>(b) The prohibition of this section shall apply from the time a complaint is filed with the Commission pursuant to 2 U.S.C. 437(a)(1) or from the time that the Commission determines on the basis of information ascertained in the <PRTPAGE P="37"/>normal course of its supervisory responsibilities that it has reason to believe that a violation has occurred or may occur pursuant to 2 U.S.C. 437g(a)(2), and shall remain in force until the Commission has concluded all action with respect to the enforcement matter in question.</P>
+        <P>(c) Any written communication prohibited by paragraph (a) of this section shall be delivered to the Ethics Officer of the Commission who shall place the communication in the file of the case.</P>
+        <P>(d) A Commissioner or employee, other than the employee assigned to the case, involved in handling enforcement actions who receives an oral offer or any communication concerning any enforcement action pending before the Commission as described in paragraph (a) of this section shall decline to listen to such communication. If unsuccessful in preventing the communication, the Commissioner or employee shall advise the person making the communication that he or she will not consider the communication and shall prepare a statement setting forth the substance and circumstances of the communication within 48 hours of receipt of the communication and shall deliver the statement to the Ethics Officer for placing in the file in the manner set forth in paragraph (c) of this section.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.16</SECTNO>
+        <SUBJECT>Miscellaneous statutory provisions.</SUBJECT>
+        <P>Each employee shall acquaint himself or herself with each statute that relates to his or her ethical and other conduct as an employee of the Commission and of the Government. In particular, the attention of employees is directed to the following statutory provisions:</P>
+        <P>(a) Chapter 11 of title 18, United States Code, relating to bribery, graft, and conflicts of interest, as appropriate to the employees concerned.</P>
+        <P>(b) The prohibition of 18 U.S.C. 1913 against lobbying with appropriated funds.</P>
+        <P>(c) The prohibitions of 5 U.S.C. 7311 and 18 U.S.C. 1918 against disloyalty and striking.</P>
+        <P>(d) The prohibition of 50 U.S.C. 784 against the employment of a member of a Communist organization.</P>
+        <P>(e) The prohibitions against (1) the disclosure of classified information under 18 U.S.C. 798 and 50 U.S.C. 782 and (2) the disclosure of confidential business information under 18 U.S.C. 1905.</P>
+        <P>(f) The provisions of 5 U.S.C. 7352 relating to the habitual use of intoxicants to excess.</P>
+        <P>(g) The prohibition of 31 U.S.C. 638a(c) against the misuse of a Government vehicle.</P>
+        <P>(h) The prohibition of 18 U.S.C. 1719 against the misuse of the franking privilege.</P>
+        <P>(i) The prohibition of 18 U.S.C. 1917 against the use of deceit in an examination or personnel action in connection with Government employment.</P>
+        <P>(j) The prohibition of 18 U.S.C. 1001 against fraud or false statements in a Government matter.</P>
+        <P>(k) The prohibition of 18 U.S.C. 2071 against mutilating or destroying a public record.</P>
+        <P>(l) The prohibition of 18 U.S.C. 508 against counterfeiting and forging transportion requests.</P>
+        <P>(m) The prohibitions against</P>
+        <P>(1) Embezzlement of Government money or property under 18 U.S.C. 641;</P>
+        <P>(2) Failing to account for public money under 18 U.S.C. 643; and</P>
+        <P>(3) Embezzlement of the money or property of another person in the possession of an employee by reason of his or her employment under 18 U.S.C 654.</P>
+        <P>(n) The prohibition of 18 U.S.C. 285 against unauthorized use of documents relating to claims from or by the Government.</P>
+        <P>(o) The prohibitions against political activities in subchapter III of chapter 73 of title 5, United States Code, and 18 U.S.C 602, 603, 607, and 608.</P>
+        <P>(p) The prohibition of 18 U.S.C. 219 against an employee acting as the agent of a foreign principal registered under the Foreign Agents Registration Act.</P>
+        <P>(q) The prohibition of 18 U.S.C. 207 against certain activities of departing and former employees.</P>
+
+        <P>(r) The prohibition of 18 U.S.C. 208 against certain acts affecting a personal financial interest.<PRTPAGE P="38"/>
+        </P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart C—Conduct and Responsibilities of Special Commission Employees</HD>
+      <SECTION>
+        <SECTNO>§ 7.17</SECTNO>
+        <SUBJECT>Use of Commission employment.</SUBJECT>
+        <P>A special Commission employee shall not use his or her Commission employment for a purpose that is, or gives the appearance of being, motivated by a desire for unlawful private gain for himself or herself, or for another person, particularly one with whom the employee has family, business or financial ties.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.18</SECTNO>
+        <SUBJECT>Use of inside information.</SUBJECT>
+
+        <P>(a) A special Commission employee shall not use inside information obtained as a result of his or her Commission employment for unlawful private gain for himself or herself, or for another person, either by direct action on the employee's part or by counsel, recommendation, or suggestion to another person, particularly one with whom the employee has family, business, or financial ties. For the purpose of this section, <E T="03">inside information</E> means information obtained under Commission authority which has not become part of the body of public information.</P>
+        <P>(b) A special Commission employee may teach, lecture, or write in a manner consistent with 11 CFR 7.9(d) and (e).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.19</SECTNO>
+        <SUBJECT>Coercion.</SUBJECT>
+        <P>A special Commission employee shall not use his or her Commission employment to coerce, or give the appearance of coercing, a person to provide unlawful financial benefit to himself or herself or to another person, particularly one with whom the employee has family, business, or financial ties.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.20</SECTNO>
+        <SUBJECT>Gifts, entertainment, and favors.</SUBJECT>
+        <P>Except as provided at 11 CFR 7.8(b), a special Commission employee, while so employed or in connection with his or her employment, shall not receive or solicit from a person having business with the Commission anything of value such as a gift, gratuity, loan, entertainment, or favor for himself or herself, or for another person, particularly one with whom the employee has family, business, or financial ties.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.21</SECTNO>
+        <SUBJECT>Miscellaneous statutory provisions.</SUBJECT>
+        <P>Each special Commission employee shall acquaint himself or herself with each statute that relates to his or her ethical or other conduct as a special Commission employee. Particular attention should be directed to the statutory provisions listed in 11 CFR 7.16.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart D—Post Employment Conflict of Interest: Procedures for Administrative Enforcement Proceedings</HD>
+      <SECTION>
+        <SECTNO>§ 7.22</SECTNO>
+        <SUBJECT>Scope.</SUBJECT>
+
+        <P>The following are procedures to be followed by the Federal Election Commission in investigating and administratively correcting violations of the post employment conflict of interest provisions contained in 18 U.S.C. 207 (a), (b), and (c), which restrict activities of former employees, including former special Commission employees, which might give the appearance of undue benefit based on prior Commission employment and affiliation. Where appropriate for purposes of this subpart, <E T="03">former special Commission employee</E> shall be defined in accordance with 18 U.S.C. 207(c)(1).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.23</SECTNO>
+        <SUBJECT>Initiation of investigation.</SUBJECT>
+        <P>(a) <E T="03">Filing of complaint.</E> (1) Any person who believes a former employee has violated the post employment conflict of interest provisions of 18 U.S.C. 207 (a), (b), or (c), or 5 CFR part 737 may file a signed complaint with the Ethics Officer.</P>
+        <P>(2) The Ethics Officer, within five days after receipt of the complaint, shall send a copy of the complaint by certified mail to the former employee named in the complaint. The former employee may, within ten days after receipt of the complaint, submit any written legal or factual materials he or she believes demonstrate that the complaint should be dismissed on its face.</P>
+        <P>(b) <E T="03">Review of complaint.</E> (1) The Ethics Officer will review the complaint and any materials submitted by the former employee, and will prepare a report to the Commission recommending whether the complaint should be investigated or should be dismissed on its face.<PRTPAGE P="39"/>
+        </P>
+        <P>(2) If the Commission, by an affirmative vote of four members, finds that the complaint appears to be substantiated, it may order an investigation of the allegations made in the complaint.</P>
+        <P>(i) Except as may be required to coordinate with the Department of Justice under 11 CFR 7.23(b)(2)(iii) any investigation conducted under this section shall be kept confidential until such time as the Commission has determined whether there is reasonable cause to believe a violation has occurred.</P>
+        <P>(ii) The Ethics Officer shall notify the Director of the Office of Government Ethics and the Criminal Division of the Department of Justice of the Commission's finding that the complaint has merit. The notification shall contain a copy of the complaint, any materials submitted by the former employee, the Ethics Officer's report, and the certification of the Commission's action.</P>
+        <P>(iii) The Commission will coordinate any investigation or administrative action with the Department of Justice to avoid prejudicing criminal proceedings, unless the Department of Justice notifies the Commission that it does not intend to initiate criminal proceedings.</P>
+        <P>(3) If the Commission finds the complaint to be unfounded, no investigation will be conducted and both the complainant and the former employee will be notified by the Ethics Officer of the Commission's finding.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.24</SECTNO>
+        <SUBJECT>Conduct of preliminary investigation.</SUBJECT>
+        <P>(a) <E T="03">Ethics Officer's responsibility.</E> Upon a finding under 11 CFR 7.23(b)(2) that a complaint appears to be substantiated, the Ethics Officer shall conduct an investigation into the allegations of the complaint.</P>
+        <P>(b) <E T="03">Opportunity to respond.</E> The former employee will be sent a copy of the Ethics Officer's report and will be given an opportunity to respond in writing and under oath to the allegations made in the complaint and the findings made in the report. The former empoloyee may provide any written legal or factual materials he or she believes demonstrate that no violation has occurred. Such response must be received by the Commission within 20 days after the former employee's receipt of the Ethics Officer's report, unless an extension is authorized in writing by the Ethics Officer.</P>
+        <P>(c) <E T="03">Representation by counsel.</E> The former employee may be represented by counsel during the investigation. Such counsel shall notify the Ethics Officer in writing that he or she is representing the former employee. Thereafter, all communications between the Commission staff and the former employee relating to the investigation shall be made to the former employee's counsel.</P>
+        <P>(d) <E T="03">Report to the Commission.</E> Upon completion of the investigation, the Ethics Officer shall prepare a report to the Commission, including any materials provided by the former employee. The report shall recommend whether there is reasonable cause to believe the respondent has violated 18 U.S.C. 207(a), (b), or (c).</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.25</SECTNO>
+        <SUBJECT>Initiation of administrative disciplinary proceeding.</SUBJECT>
+        <P>(a) <E T="03">Commission review of report.</E> The Commission shall review the Ethics Officer's investigative report in Executive Session.</P>
+        <P>(b) <E T="03">Reasonable cause to believe finding.</E> If the Commission, by an affirmative vote of four members, determines there is reasonable cause to believe a violation has occurred, it shall initiate an administrative disciplinary proceeding by providing the former employee with the notice defined in 11 CFR 7.26.</P>
+        <P>(c) <E T="03">No reasonable cause to believe finding.</E> If the Commission determines that there is no reasonable cause to believe a violation has occurred, it will close its file on the matter and take no further action. The Commission shall notify the Director of the Office of Government Ethics, the Criminal Division of the Department of Justice, the complainant, and the former employee of its determination. Included in this notification will be a statement of reasons for the Commission's determination.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.26</SECTNO>
+        <SUBJECT>Notice to former employee.</SUBJECT>
+        <P>(a) <E T="03">Notice requirement.</E> After a reasonable cause to believe finding the Ethics Officer shall provide the former Commission employee with adequate notice <PRTPAGE P="40"/>of an intention to institute a disciplinary proceeding and an opportunity to request a hearing.</P>
+        <P>(b) <E T="03">Contents.</E> The notice required under this section shall contain:</P>
+        <P>(1) A statement of the allegations (and the basis thereof);</P>
+        <P>(2) Notification of the right to request a hearing;</P>
+        <P>(3) An explanation of the method by which a hearing may be requested as set forth at 11 CFR 7.26(c); and</P>
+        <P>(4) A copy of the post-employment regulations.</P>
+        <P>(c) <E T="03">Request for hearing.</E> (1) A former employee who has received a notice under this section must notify the Commission with ten days after receipt of such notice by certified mail of his or her desire for a hearing. The request for a hearing should include the following information:</P>
+        <P>(i) The former employee's daytime telephone number;</P>
+        <P>(ii) The name, address, and telephone number of the former employee's counsel, if he or she intends to be represented by counsel; and</P>
+        <P>(iii) At least three dates and times at which the former employee will be available for a hearing.</P>
+
+        <P>(2) If a written request from the former employee is not received by the Ethics Officer within the stated time period, the right to a hearing shall be waived and the examiner (<E T="03">See</E> 11 CFR 7.27) shall consider the evidence and make a decision.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.27</SECTNO>
+        <SUBJECT>Hearing examiner designation and qualifications.</SUBJECT>
+        <P>(a) <E T="03">Designation.</E> If the Commission decides by an affirmative vote of four of its members to hold a hearing, the Ethics Officer shall designate an individual to serve as examiner at the administrative disciplinary hearing. In the absence of a hearing, the Ethics Officer shall designate an examiner to consider the written evidence and make a decision. (See 11 CFR 7.26(b)(2)). The individual designated as examiner shall have the qualifications set forth in paragraph (b) of this section.</P>
+        <P>(b) <E T="03">Qualifications.</E> (1) An examiner shall be impartial. No individual who has participated in any manner in the decision to initiate the proceeding may serve as an examiner in those proceedings. Therefore, the following persons may not be designated as an examiner:</P>
+        <P>(i) A Commissioner,</P>
+        <P>(ii) The Ethics Officer, or</P>
+        <P>(iii) Any Commission employee who has participated in the preliminary investigation of the complaint.</P>
+        <P>(2) The examiner shall be an attorney at the Assistant General Counsel level or higher.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.28</SECTNO>
+        <SUBJECT>Hearing date.</SUBJECT>
+        <P>(a) <E T="03">Setting of date by examiner.</E> The examiner shall set the hearing at a reasonable time, date, and place.</P>
+        <P>(b) <E T="03">Considerations.</E> Whenever practicable, the examiner shall choose a time and date from the list submitted by the former employee in the request for a hearing. In setting a hearing date, the examiner shall give due regard to the former employee's need for:</P>
+        <P>(1) Adequate time to prepare a defense properly, and</P>
+        <P>(2) An expeditious resolution of allegations that may be damaging to his or her reputation.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.29</SECTNO>
+        <SUBJECT>Hearing rights of former employee.</SUBJECT>
+        <P>A hearing conducted under these procedures shall afford the former employee the following rights:</P>
+        <P>(a) To represent oneself or to be represented by counsel,</P>
+        <P>(b) To introduce and examine witnesses and to submit physical evidence,</P>
+        <P>(c) To confront and cross-examine adverse witnesses,</P>
+        <P>(d) To present oral argument, and</P>
+        <P>(e) To request a transcript of the recording of proceedings. The requester will be charged according to the fee schedule set out at 11 CFR 5.6.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.30</SECTNO>
+        <SUBJECT>Hearing procedures.</SUBJECT>
+        <P>(a) <E T="03">Witness lists.</E> (1) No later than 10 days prior to the hearing date, the Ethics Officer will provide the former employee with a list of the witnesses the Commission intends to introduce. The list shall include the name and position of each witness and the aspect of the allegation upon which the witness is expected to testify. If no witnesses are to be called, the former employee shall be so notified.</P>
+
+        <P>(2) No later than 5 days prior to the hearing date, the former employee <PRTPAGE P="41"/>shall provide the Ethics Officer with a list of witnesses he or she intends to introduce. The list shall include the name and position of each witness and the aspect of the allegation upon which the witness is expected to testify. If no witnesses are to be called, the Ethics Officer shall be so notified.</P>
+        <P>(3) Copies of the witness lists shall be given to the examiner by the Ethics Officer.</P>
+        <P>(b) <E T="03">Representation.</E> (1) The Commission shall be represented at the hearing by the Ethics Officer or his or her designee,</P>
+        <P>(2) The former employee may represent himself or herself or may be represented by counsel.</P>
+        <P>(c) <E T="03">Burden of proof.</E> The burden of proof shall be on the Commission which must establish substantial evidence of a violation.</P>
+        <P>(d) <E T="03">Conduct of hearing.</E> (1) The following items will be introduced by the Commission and will be made part of the hearing record:</P>
+        <P>(i) The complaint;</P>
+        <P>(ii) The notification sent to the former employee under 11 CFR 7.27;</P>
+        <P>(iii) The former employee's response to the notification; and</P>
+        <P>(iv) If the Commission so chooses, a brief or memorandum of law.</P>
+        <P>(2) The former employee will then be given an opportunity to submit a brief or memorandum of law to be included in the hearing record.</P>
+        <P>(3) The Commission shall introduce its witnesses and evidence first. At the close of the Commission's examination of each witness, the former employee will be given an opportunity to cross-examine the witness.</P>
+        <P>(4) The former employee will present his or her witnesses and evidence at the close of the Commission's presentation. At the close of the former employee's examination of each witness, the Commission shall be given an opportunity to cross-examine each witness.</P>
+        <P>(5) After the former employee has completed his or her presentation, both parties will be given an opportunity for oral argument with the Commission making its arguments first. Time shall be offered during the oral argument for Commission rebuttal.</P>
+        <P>(6) Decisions as to the admissibility of evidence or testimony shall be made under the Federal Rules of Evidence.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.31</SECTNO>
+        <SUBJECT>Examiner's decision.</SUBJECT>
+        <P>(a) <E T="03">Initial determination.</E> No later than 15 days after the close of the hearing, the examiner shall make a determination exclusively on matters of record in the proceeding.</P>
+        <P>(b) <E T="03">Form of determination.</E> The examiner's determination shall set forth all findings of fact and conclusions of law relevant to the matters at issue.</P>
+        <P>(c) <E T="03">Copies.</E> The examiner shall provide copies of his or her determination to the former employee, the complainant, the Ethics Officer, and the Commission.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.32</SECTNO>
+        <SUBJECT>Appeal.</SUBJECT>
+        <P>(a) <E T="03">Right of appeal.</E> Within ten days after receipt by certified mail of the examiner's decision, either party may appeal such decision to the members of the Commission by filing a notice of appeal with the Chairman.</P>
+        <P>(b) <E T="03">Notice of appeal.</E> The notice of appeal shall be accompanied by a memorandum setting forth the legal and factual reasons why the examiner's decision should be reversed or modified.</P>
+        <P>(c) <E T="03">Commission review of appeal.</E> The Commission, by an affirmative vote of four members, may affirm, modify, or reverse the examiner's decision. The Commission's decision shall be based solely on the hearing record or those portions thereof cited by the parties to limit the issues.</P>
+        <P>(d) <E T="03">Commission statement on appeal.</E> If the Commission modifies or reverses the initial decision, it shall specify such findings of fact or conclusions of law as are different from those of the examiner.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 7.33</SECTNO>
+        <SUBJECT>Administrative sanctions.</SUBJECT>
+        <P>The Commission may take appropriate disciplinary action in the case of any individual who is found in violation of 18 U.S.C. 207 (a), (b), or (c) after a final administrative hearing, or in the absence of a hearing, after adequate notice such as by:</P>
+
+        <P>(a) Prohibiting the individual from making, on behalf of any person (except the United States), any formal or informal appearance before, or, with <PRTPAGE P="42"/>the intent to influence, any oral or written communication to the Commission on any matter of business for a period not to exceed five years, which may be accomplished by directing agency employees to refuse to participate in any such appearance or to accept any such communication;</P>
+        <P>(b) Issuing a letter of reprimand;</P>
+        <P>(c) Issuing a letter of admonishment;</P>
+        <P>(d) Prohibiting a former employee from making formal or informal appearances or communications in connection with a particular matter or on behalf of a particular party.</P>
+        <P>(e) Taking other appropriate disciplinary action.</P>
+      </SECTION>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>

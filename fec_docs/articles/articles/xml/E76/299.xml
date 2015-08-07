@@ -1,0 +1,71 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="16695"/>
+        <AGENCY TYPE="F">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 104</CFR>
+        <DEPDOC>[NOTICE 2007-9]</DEPDOC>
+        <SUBJECT>Statement of Policy; Safe Harbor for Misreporting Due to Embezzlement</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Statement of policy.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Commission is issuing a Statement of Policy to announce that it is creating a safe harbor for the benefit of political committees that have certain internal controls in place to prevent misappropriations and associated misreporting. Specifically, the Commission does not intend to seek civil penalties against a political committee for filing incorrect reports due to the misappropriation of committee funds if the committee has the specified safeguards in place.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">EFFECTIVE DATE:</HD>
+          <P>April 5, 2007.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Mr. Joseph Stoltz, Assistant Staff Director, Audit Division, 999 E Street, NW., Washington, DC 20463, (202) 694-1200.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P>The Commission has encountered a dramatic increase in the number of cases where political committee staff misappropriates committee funds. Misappropriations are often accompanied by the filing of inaccurate disclosure reports with the FEC, leaving committees vulnerable to a FEC enforcement action and potential liability for those reporting errors. In response to the rise in this activity, the Commission has concluded that the following internal controls are minimal safeguards a committee should implement to prevent misappropriations and associated misreporting.</P>
+        <P>This policy does not impose new legal requirements on political committees; rather it creates a safe harbor. If the following internal controls are in place at the time of a misappropriation, and the post-discovery steps described below are followed by the committee, the FEC will not seek a monetary penalty on the political committee for filing incorrect reports due to the misappropriation of committee funds.<SU>1</SU>
+          <FTREF/>The Commission will also consider the presence of some, but not all, of these practices, or of comparable safeguards, as a mitigating factor in considering any monetary liability resulting from a misappropriation.<SU>2</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>1</SU>The internal controls set forth here represent the minimum efforts a committee must take to qualify for this safe harbor. The FEC provides additional guidance on internal controls best practices at<E T="03">http://www.fec.gov/law/policy.shtml#guidance.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>This policy does not absolve or mitigate FEC liability for individuals responsible or complicit in the misappropriations.</P>
+        </FTNT>
+        <HD SOURCE="HD1">A. Internal Controls</HD>
+        <FP SOURCE="FP-2">&#x25A1; All bank accounts are opened in the name of the committee, never an individual, using the committee's Employer Identification Number, not an individual's Social Security Number.</FP>
+        <FP SOURCE="FP-2">&#x25A1; Bank statements are reviewed for unauthorized transactions and reconciled to the accounting records each month. Further, bank records are reconciled to disclosure reports prior to filing. The reconciliations are done by someone other than a check signer or an individual responsible for handling the committee's accounting.</FP>
+        <FP SOURCE="FP-2">&#x25A1; Checks in excess of $1000 are authorized in writing and/or signed by two individuals. Further, all wire transfers are authorized in writing by two individuals. The individuals who may authorize disbursements or sign checks should be identified in writing in the committee's internal policies.</FP>
+        <FP SOURCE="FP-2">&#x25A1; An individual who does not handle the committee's accounting or have banking authority receives incoming checks and monitors all other incoming receipts. This individual makes a list of all committee receipts and places a restrictive endorsement, such as: For Deposit Only to the Account of the Payee&#x201D; on all checks.</FP>
+        <FP SOURCE="FP-2">&#x25A1; If the committee has a petty cash fund, an imprest system<SU>3</SU>
+          <FTREF/>is used, and the value of the petty cash fund should be no more than $500.</FP>
+        <FTNT>
+          <P>
+            <SU>3</SU>An imprest fund is one in which the sum of the disbursements recorded in the petty cash log since the last replenishment and the remaining cash always equals the stated amount of the fund. When the fund is replenished the amount of the replenishment equals the amounts recorded since the prior replenishment and should bring the cash balance back to the stated amount. Only one person should be in charge of the fund.</P>
+        </FTNT>
+        <HD SOURCE="HD1">B. Post-Discovery of Misappropriation Activity</HD>
+        <P>As soon as a misappropriation is discovered, the political committee:</P>
+        <FP SOURCE="FP-2">&#x25A1; Notifies relevant law enforcement of the misappropriation.</FP>
+        <FP SOURCE="FP-2">&#x25A1; Notifies the FEC of the misappropriation.</FP>
+        <FP SOURCE="FP-2">&#x25A1; Voluntarily files amended reports to correct any reporting errors due to the misappropriation, as required by the FEC.</FP>
+        <P>This notice represents a general statement of policy announcing the general course of action that the Commission intends to follow. This policy statement does not constitute an agency regulation requiring notice of proposed rulemaking, opportunities for public participation, prior publication, and delay in effective date under 5 U.S.C. 553 of the Administrative Procedures Act (&#x201C;APA&#x201D;). As such, it does not bind the Commission or any member of the general public. The provisions of the Regulatory Flexibility Act, 5 U.S.C. 605(b), which apply when notice and comment are required by the APA or another statute, are not applicable.</P>
+        <SIG>
+          <DATED>Dated: March 22, 2007.</DATED>
+          <NAME>Robert D. Lenhard,</NAME>
+          <TITLE>Chairman, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. E7-6299 Filed 4-4-07; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

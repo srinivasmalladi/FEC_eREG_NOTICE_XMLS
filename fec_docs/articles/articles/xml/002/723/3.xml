@@ -1,0 +1,46 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="63535"/>
+        <AGENCY TYPE="F">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 100, 101, 102, 104, 109, 114, 9003, 9033</CFR>
+        <DEPDOC>[Notice 2000-18]</DEPDOC>
+        <SUBJECT>Electronic Filing of Reports by Political Committees</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; announcement of effective date.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>On June 21, 2000, the Commission published the text of regulations making electronic filing mandatory for certain political committees and other persons. The Commission announces that these rules are effective as of January 1, 2001.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>Effective January 1, 2001.</P>
+          <P>
+            <E T="03">Applicability date:</E>Reporting periods beginning on or after January 1, 2001.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Rosemary C. Smith, Assistant General Counsel, or Ms. Cheryl A. Fowle, Attorney, 999 E Street, NW., Washington, DC 20463, (202) 694-1650 or toll free (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>The Commission is announcing the effective date of revisions to the regulations at 11 CFR 100.19, 101.1, 102.2, 104.5, 104.18, 109.2, 114.10, 9003.1 and 9033.1 making electronic filing mandatory for certain political committees and other persons.<E T="03">See</E>Explanation and Justification for Electronic Filing of Reports by Political Committees, 65<E T="03">FR</E>38415 (June 21, 2000). These rules implement a 1999 amendment to the Federal Election Campaign Act at 2 U.S.C. 434(a)(11) that requires the Commission to make electronic filing mandatory for political comittees and other persons required to file with the Commision who, in a calendar year, have, or have reason to expect to have, total contributions or total expenditures exceeding a threshold amount to be set by the Commission. Pub. L. No. 106-58, 106th Cong., section 639, 113 Stat. 430, 476-477 (1999). The new regulations set that threshold amount at $50,000.</P>
+
+        <P>The statutory amendment specifically covers reports and statements filed with the Commission,<E T="03">i.e.,</E>all except those filed by Senate candidates, their authorized committees, and committees that support or oppose them, which are filed with the Secretary of the Senate.</P>
+        <P>Section 438(d) of Title 2, United States Code and sections 9009(c) and 9039(c) of Title 26, United States Code, require that any rules or regulations prescribed by the Commission to carry out the provisions of Titles 2 and 26 of the United States Code be transmitted to the Speaker of the House of Representatives and the President of the Senate thirty legislative days prior to final promulgation. These rules were transmitted to Congress on June 16, 2000. For the Title 2 rules, thirty legislative days expired in the Senate on September 12, 2000, and the House of Representatives on September 20, 2000. For the Title 26 regulations, thirty legislative days expired in both Houses on September 20, 2000.</P>
+        <SIG>
+          <DATED>Dated: October 19, 2000.</DATED>
+          <NAME>Darryl R. Wold,</NAME>
+          <TITLE>Chairman, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 00-27233 Filed 10-23-00; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

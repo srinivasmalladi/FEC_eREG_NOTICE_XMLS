@@ -1,0 +1,89 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 104</CFR>
+        <DEPDOC>[Notice 2013-09]</DEPDOC>
+        <SUBJECT>Reporting Ultimate Payees of Political Committee Disbursements</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Notice of interpretive rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>The Federal Election Commission is clarifying its interpretation of the regulatory requirement that political committees<PRTPAGE P="40626"/>report the full name and address of each person to whom they make expenditures or other disbursements aggregating more than $200 per calendar year, or per election cycle for authorized committees, and the date, amount, and purpose of such payments, in three situations: A political committee reimburses an individual who advanced personal funds to pay committee expenses aggregating more than $200 to a single vendor; a political committee pays a credit card bill that includes a charge of more than $200 for a single vendor; and a candidate uses personal funds to pay his or her authorized committee's expenses that aggregate more than $200 to a single vendor without receiving reimbursement.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>July 8, 2013.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Amy L. Rothstein, Assistant General Counsel, or Joanna S. Waldstreicher, Attorney, 999 E Street NW., Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>Political committees must report the name and address of each person to whom they make expenditures or other disbursements aggregating more than $200 per calendar year, or per election cycle for authorized committees, as well as the date, amount, and purpose of such payments. 2 U.S.C. 434(b)(5), (6); 11 CFR 104.3(b)(3)(i), (vii) (unauthorized committees); 11 CFR 104.3(b)(4)(i), (vi) (authorized committees);<E T="03">see also</E>11 CFR 104.9(a), (b).</P>
+        <P>The Commission published a draft Notice on January 31, 2013, to seek comment on a proposed interpretative rule to clarify these requirements as they apply to the reporting of certain itemized disbursements by political committees to vendors. The Commission received four comments: Two opposed the draft; one supported the draft with a request that the Commission impose an additional reporting requirement; and one resubmitted the comment supporting the draft without itself opining on the draft. Taking those comments into consideration the Commission now issues this Notice to clarify its interpretation of 11 CFR 104.3(b)(3)(i), (vii); 11 CFR 104.3(b)(4)(i), (vi); and 11 CFR 104.9(a), (b). These clarifications are made to the reporting requirements contained in these Commission regulations and implicate no other regulations than those referenced above.</P>
+        <P>Specifically, this Notice clarifies how a political committee should report disbursements in the following scenarios:</P>
+        <P>(1) The committee reimburses an individual (such as a campaign staffer) who used personal funds to pay committee expenses aggregating more than $200 to a single vendor;</P>
+        <P>(2) the committee's payment of its credit card bill includes charges of more than $200 to a single vendor; and</P>
+        <P>(3) the committee is the authorized committee of a candidate who used personal funds to pay committee expenses aggregating more than $200 to a single vendor without receiving reimbursement.</P>
+        <P>As explained further below, in each scenario the political committee will satisfy the reporting requirements by itemizing as a memo entry on Schedule B the name and address of the original vendor, as well as the date, amount, and purpose of the original purchase made for or by the political committee. The Commission makes clear that this interpretation is based on long-standing Commission practice and is not making any fundamental changes to its rules or processes. Further, the Commission is only addressing the three issues at hand and is not extending the clarification to situations in which a vendor, acting as the committee's agent, purchases goods and services on the committee's behalf from subvendors. The relationship between committees and its vendors raises different issues than the relationships that exist in these three circumstances.</P>
+        <HD SOURCE="HD1">1. Reimbursements to Individuals for Certain Out-of-Pocket Expenses</HD>
+        <P>When an individual who is not acting as a vendor advances his or her personal funds, including a personal credit card, to pay costs incurred in providing goods or services to, or obtaining goods or services that are used by or on behalf of, a political committee, the political committee must treat the individual's payment as a contribution.<SU>1</SU>
+
+          <FTREF/>11 CFR 116.5(a), (b). The political committee must also treat the obligation arising from the individual's payment as an outstanding debt until reimbursed. 11 CFR 116.5(c);<E T="03">see also</E>11 CFR 104.11.</P>
+        <FTNT>
+          <P>
+
+            <SU>1</SU>Certain travel and subsistence expenses that are not reimbursed, or that are reimbursed within a limited period of time, are exempt. 11 CFR 116.5(b);<E T="03">see also</E>11 CFR 100.79.</P>
+        </FTNT>
+        <P>If the political committee itemizes its reimbursement to the individual on Schedule B of its report filed with the Commission, then the political committee may also need to provide information about the vendor to which the individual made payment in a memo entry associated with the reimbursement. A memo entry is required for any reimbursement of expenses other than travel and subsistence expenses if the individual's payments to the vendor on behalf of the committee aggregate more than $200 in a calendar year (or election cycle for authorized committees). When the reimbursement is for travel and subsistence advances that exceed $500, a memo entry is required for each payment to a specific vendor by that individual on behalf of the political committee if total payments to that vendor by the political committee or by that individual on behalf of the committee aggregate more than $200 in a calendar year (or election cycle for authorized committees). Each memo entry must include the name and address of the vendor, as well as the date, amount, and purpose of the payment. 11 CFR 104.3(b)(4)(i); 11 CFR 104.9.<SU>2</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>2</SU>This clarification is consistent with the Commission's Report Analysis Division Review and Referral Procedures for the 2011-2012 Election Cycle, p. 98 (<E T="03">http://www.fec.gov/pdf/RAD_Procedures.pdf</E>), which is approved by the Commission for every two-year election cycle. Further, the Commission's Reports Analysis Division has been sending Requests for Additional Information to authorized committees that did not itemize the ultimate payee for reimbursements to staff above the applicable thresholds since the 1983-1984 election cycle. Similarly, the Reports Analysis Division has been sending Requests for Additional Information to party and non-party committees that did not itemize the ultimate payee for reimbursements to staff above the applicable thresholds since the 2005-2006 election cycle after internal review procedures for authorized and unauthorized committees were merged. However, a grace period for calendar year 2005 was provided to party and non-party committees to allow for the development of administrative tracking systems.</P>
+        </FTNT>
+        <P>For reimbursements of credit card payments, the memo entry must include the name and address of the vendor that provided the goods or services to the political committee, rather than the credit card company that processed the payment, and the date, amount, and purpose of the payment to the vendor. Further information about the reporting of credit card payments appears in Section 2, below.</P>
+        <HD SOURCE="HD1">2. Payments to Credit Card Companies</HD>
+
+        <P>Any political committee that itemizes disbursements to credit card companies on Schedule B of its report filed with the Commission must itemize as a memo entry any transaction with a single vendor charged on the credit card that exceeds the $200 itemization threshold. The memo entry must include the name and address of the vendor, and the date, amount, and purpose of the charge. Itemizing the ultimate payee, as the provider of goods or services to the political committee, accurately reflects the credit card company's limited role as a payment<PRTPAGE P="40627"/>processor rather than as the provider of goods and services to the committee.<E T="03">See</E>11 CFR 102.9. The itemization requirement prevents a committee from avoiding the Act's disclosure requirements by placing operating expenditures on a credit card.<SU>3</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>3</SU>This clarification is consistent with the Commission's Report Analysis Division Review and Referral Procedures for the 2011-2012 Election Cycle, p. 96 (<E T="03">http://www.fec.gov/pdf/RAD_Procedures.pdf</E>). Similarly with reimbursements to committee staff, the Commission's Reports Analysis Division has been sending Requests for Additional Information to authorized committees that did not provide memo entries for credit card payments above the applicable thresholds since the 1983-1984 election cycle.</P>
+        </FTNT>
+        <HD SOURCE="HD1">3. Unreimbursed Disbursements by Candidates</HD>
+
+        <P>A candidate may make unlimited expenditures from personal funds on behalf of his or her authorized committee.<E T="03">See</E>11 CFR 110.10. Any candidate who &#x201C;makes a disbursement in connection with [his or her own] campaign, shall be considered . . . as having made the disbursement . . . as an agent of the authorized committee or committees of such candidate.&#x201D; 2 U.S.C. 432(e)(2);<E T="03">see also</E>11 CFR 101.2(a). Authorized committees must disclose these disbursements on their reports filed with the Commission just as they would disclose any other disbursements that they may make. 2 U.S.C. 434(b)(4), (5), (6)(A); 11 CFR 104.3(b)(4).</P>
+        <P>Thus, out-of-pocket spending by candidates, as agents of their authorized committees, requires memo entry itemization of the ultimate payee if the aggregate amount of payments to that vendor exceeds $200 for the election cycle. The memo entry must include the date, amount, and purpose of the out-of-pocket payments, as well as the name and address of the vendor to which payment was made.<SU>4</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>4</SU>Unlike the former two circumstances, this scenario is not addressed in the Commission's Reports Analysis Division Review and Referral Procedures for the 2011-2012 Election Cycle that has been made public with redactions. Although the Reports Analysis Division will initiate a regular practice of sending Requests for Additional Information for failure to itemize the vendor for candidate out-of-pocket expenditures on behalf of his or her authorized committee, this portion of the interpretive rule will be applied prospectively. The adequacy of the responses to Requests for Additional Information on this issue will only be judged for those sent after the adoption of this interpretive rule.</P>
+        </FTNT>
+
+        <P>This interpretive rule clarifies the Commission's interpretation of existing statutory and regulatory provisions, and therefore does not constitute an agency action subject to the notice and comment requirements or a delayed effective date under the Administrative Procedure Act.<E T="03">See</E>5 U.S.C. 553. The provisions of the Regulatory Flexibility Act, which apply when notice and comment are required by the Administrative Procedure Act or another statute, do not apply.<E T="03">See</E>5 U.S.C. 603(a).</P>
+        <SIG>
+          <DATED>Dated: June 27, 2013.</DATED>
+          
+          <P>On behalf of the Commission.</P>
+          <NAME>Ellen L. Weintraub,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2013-16125 Filed 7-5-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

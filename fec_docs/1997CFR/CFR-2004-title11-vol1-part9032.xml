@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2004-01-01</DATE>
+    <ORIGINALDATE>2004-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>DEFINITIONS</TITLE>
+    <GRANULENUM>9032</GRANULENUM>
+    <HEADING>PART 9032</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 11" SEQ="2">Federal Elections</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">FEDERAL ELECTION COMMISSION</PARENT>
+      <PARENT HEADING="SUBCHAPTER F" SEQ="0">PRESIDENTIAL ELECTION CAMPAIGN FUND: PRESIDENTIAL PRIMARY MATCHING FUND</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 9032</EAR>
+    <HD SOURCE="HED">PART 9032—DEFINITIONS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>9032.1</SECTNO>
+      <SUBJECT>Authorized committee.</SUBJECT>
+      <SECTNO>9032.2</SECTNO>
+      <SUBJECT>Candidate.</SUBJECT>
+      <SECTNO>9032.3</SECTNO>
+      <SUBJECT>Commission.</SUBJECT>
+      <SECTNO>9032.4</SECTNO>
+      <SUBJECT>Contribution.</SUBJECT>
+      <SECTNO>9032.5</SECTNO>
+      <SUBJECT>Matching payment account.</SUBJECT>
+      <SECTNO>9032.6</SECTNO>
+      <SUBJECT>Matching payment period.</SUBJECT>
+      <SECTNO>9032.7</SECTNO>
+      <SUBJECT>Primary election.</SUBJECT>
+      <SECTNO>9032.8</SECTNO>
+      <SUBJECT>Political committee.</SUBJECT>
+      <SECTNO>9032.9</SECTNO>
+      <SUBJECT>Qualified campaign expense.</SUBJECT>
+      <SECTNO>9032.10</SECTNO>
+      <SUBJECT>Secretary.</SUBJECT>
+      <SECTNO>9032.11</SECTNO>
+      <SUBJECT>State.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>26 U.S.C. 9032 and 9039(b).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>56 FR 35929, July 29, 1991, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 9032.1</SECTNO>
+      <SUBJECT>Authorized committee.</SUBJECT>
+      <P>(a) Notwithstanding the definition at 11 CFR 100.5, <E T="03">authorized committee</E> means with respect to candidates (as defined at 11 CFR 9032.2) seeking the nomination of a political party for the office of President, any political committee that is authorized by a candidate to solicit or receive contributions or to incur expenditures on behalf of the candidate. The term <E T="03">authorized committee</E> includes the candidate's principal campaign committee designated in accordance with 11 CFR 102.12, any political committee authorized in writing by the candidate in accordance with 11 CFR 102.13, and any political committee not disavowed by the candidate in writing pursuant to 11 CFR 100.3(a)(3).</P>
+      <P>(b) Any withdrawal of an authorization shall be in writing and shall be addressed and filed in the same manner provided for at 11 CFR 102.12 or 102.13.</P>
+      <P>(c) For the purposes of this subchapter, references to the “candidate” and his or her responsibilities under this subchapter shall also be deemed to refer to the candidate's authorized committee(s).</P>
+      <P>(d) An expenditure by an authorized committee on behalf of the candidate who authorized the committee cannot qualify as an independent expenditure.</P>
+      <P>(e) A delegate committee, as defined in 11 CFR 100.5(e)(5), is not an authorized committee of a candidate unless it also meets the requirements of 11 CFR 9032.1(a). Expenditures by delegate committees on behalf of a candidate may count against that candidate's expenditure limitation under the circumstances set forth in 11 CFR 110.14.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.2</SECTNO>
+      <SUBJECT>Candidate.</SUBJECT>
+      <P>
+        <E T="03">Candidate</E> means an individual who seeks nomination for election to the office of President of the United States. An individual is considered to seek nomination for election if he or she—</P>
+      <P>(a) Takes the action necessary under the law of a State to qualify for a caucus, convention, primary election or run-off election;</P>
+      <P>(b) Receives contributions or incurs qualified campaign expenses;</P>
+      <P>(c) Gives consent to any other person to receive contributions or to incur qualified campaign expenses on his or her behalf; or</P>
+
+      <P>(d) Receives written notification from the Commission that any other person is receiving contributions or <PRTPAGE P="328"/>making expenditures on the individual's behalf and fails to disavow that activity by letter to the Commission within 30 calendar days after receipt of notification.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.3</SECTNO>
+      <SUBJECT>Commission.</SUBJECT>
+      <P>
+        <E T="03">Commission</E> means the Federal Election Commission, 999 E Street NW., Washington, DC 20463.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.4</SECTNO>
+      <SUBJECT>Contribution.</SUBJECT>
+      <P>For purposes of this subchapter, <E T="03">contribution</E> has the same meaning given the term under 2 U.S.C. 431(8)(A) and 11 CFR part 100, subparts B and C, except as provided at 11 CFR 9034.4(b)(4).</P>
+      <CITA>[56 FR 35929, July 29, 1991, as amended at 67 FR 78683, Dec. 26, 2002]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.5</SECTNO>
+      <SUBJECT>Matching payment account.</SUBJECT>
+      <P>
+        <E T="03">Matching payment account</E> means the Presidential Primary Matching Payment Account established by the Secretary of the Treasury under 26 U.S.C. 9037(a).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.6</SECTNO>
+      <SUBJECT>Matching payment period.</SUBJECT>
+      <P>
+        <E T="03">Matching payment period</E> means the period beginning January 1 of the calendar year in which a Presidential general election is held and may not exceed one of the following dates:</P>
+      <P>(a) For a candidate seeking the nomination of a party which nominates its Presidential candidate at a national convention, the date on which the party nominates its candidate.</P>
+      <P>(b) For a candidate seeking the nomination of a party which does not make its nomination at a national convention, the earlier of—</P>
+      <P>(1) The date the party nominates its Presidential candidate, or</P>
+      <P>(2) The last day of the last national convention held by a major party in the calendar year.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.7</SECTNO>
+      <SUBJECT>Primary election.</SUBJECT>
+      <P>(a) <E T="03">Primary election</E> means an election held by a State or a political party, including a run-off election, or a nominating convention or a caucus—</P>
+      <P>(1) For the selection of delegates to a national nominating convention of a political party;</P>
+      <P>(2) For the expression of a preference for the nomination of Presidential candidates;</P>
+      <P>(3) For the purposes stated in both paragraphs (a) (1) and (2) of this section; or</P>
+      <P>(4) To nominate a Presidential candidate.</P>
+      <P>(b) If separate primary elections are held in a State by the State and a political party, the primary election for the purposes of this subchapter will be the election held by the political party.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.8</SECTNO>
+      <SUBJECT>Political committee.</SUBJECT>
+      <P>
+        <E T="03">Political committee</E> means any committee, club, association, organization or other group of persons (whether or not incorporated) which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any individual for election to the office of President of the United States.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.9</SECTNO>
+      <SUBJECT>Qualified campaign expense.</SUBJECT>
+      <P>(a) <E T="03">Qualified campaign expense</E> means a purchase, payment, distribution, loan, advance, deposit, or gift of money or anything of value—</P>
+      <P>(1) Incurred by or on behalf of a candidate or his or her authorized committees from the date the individual becomes a candidate through the last day of the candidate's eligibility as determined under 11 CFR 9033.5;</P>
+      <P>(2) Made in connection with his or her campaign for nomination; and</P>
+      <P>(3) Neither the incurrence nor payment of which constitutes a violation of any law of the United States or of any law of any State in which the expense is incurred or paid, or of any regulation prescribed under such law of the United States or of any State, except that any State law which has been preempted by the Federal Election Campaign Act of 1971, as amended, will not be considered a State law for purposes of this subchapter.</P>
+      <P>(b) An expenditure is made on behalf of a candidate, including a Vice Presidential candidate, if it is made by—</P>
+
+      <P>(1) An authorized committee or any other agent of the candidate for purposes of making an expenditure;<PRTPAGE P="329"/>
+      </P>
+      <P>(2) Any person authorized or requested by the candidate, an authorized committee of the candidate, or an agent of the candidate to make the expenditure; or</P>
+      <P>(3) A committee which has been requested by the candidate, by an authorized committee of the candidate, or by an agent of the candidate to make the expenditure, even though such committee is not authorized in writing.</P>
+      <P>(c) Except as provided in 11 CFR 9034.4(e), expenditures incurred either prior to the date the individual becomes a candidate or after the last day of a candidate's eligibility will be considered qualified campaign expenses if they meet the provisions of 11 CFR 9034.4(a). Expenditures described under 11 CFR 9034.4(b) will not be considered qualified campaign expenses.</P>
+      <CITA>[56 FR 35929, July 29, 1991, as amended at 60 FR 31880, June 16, 1995; 68 FR 47418, Aug. 8, 2003]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.10</SECTNO>
+      <SUBJECT>Secretary.</SUBJECT>
+      <P>For purposes of this subchapter, <E T="03">Secretary</E> means the Secretary of the Treasury.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 9032.11</SECTNO>
+      <SUBJECT>State.</SUBJECT>
+      <P>
+        <E T="03">State</E> means each State of the United States, Puerto Rico, American Samoa, the Virgin Islands, the District of Columbia, and Guam.</P>
+      <CITA>[64 FR 49363, Sept. 13, 1999]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

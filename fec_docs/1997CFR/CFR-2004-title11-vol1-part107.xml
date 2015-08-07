@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2004-01-01</DATE>
+    <ORIGINALDATE>2004-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>PRESIDENTIAL NOMINATING CONVENTION, REGISTRATION AND REPORTS</TITLE>
+    <GRANULENUM>107</GRANULENUM>
+    <HEADING>PART 107</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 11" SEQ="2">Federal Elections</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">FEDERAL ELECTION COMMISSION</PARENT>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <PRTPAGE P="143"/>
+    <EAR>Pt. 107</EAR>
+    <HD SOURCE="HED">PART 107—PRESIDENTIAL NOMINATING CONVENTION, REGISTRATION AND REPORTS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>107.1</SECTNO>
+      <SUBJECT>Registration and reports by political parties.</SUBJECT>
+      <SECTNO>107.2</SECTNO>
+      <SUBJECT>Registration and reports by host committees and municipal funds.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>2 U.S.C. 437, 438(a)(8).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>59 FR 33615, June 29, 1994, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 107.1</SECTNO>
+      <SUBJECT>Registration and reports by political parties.</SUBJECT>
+      <P>Each convention committee established under 11 CFR 9008.3(a)(2) by a national committee of a political party and each committee or other organization, including a national committee, which represents a political party in making arrangements for that party's convention held to nominate a presidential or vice presidential candidate shall register and report in accordance with 11 CFR 9008.3(b).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 107.2</SECTNO>
+      <SUBJECT>Registration and reports by host committees and municipal funds.</SUBJECT>
+      <P>Each host committee and municipal fund shall register and report in accordance with 11 CFR 9008.51. The reports shall contain the information specified in 11 CFR part 104.</P>
+      <CITA>[68 FR 47414, Aug. 8, 2003]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

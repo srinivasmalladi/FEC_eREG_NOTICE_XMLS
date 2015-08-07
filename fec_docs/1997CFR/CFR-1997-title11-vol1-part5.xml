@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>ACCESS TO PUBLIC DISCLOSURE DIVISION DOCUMENTS</TITLE>
+    <GRANULENUM>5</GRANULENUM>
+    <HEADING>PART 5</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="1"/>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 5—ACCESS TO PUBLIC DISCLOSURE DIVISION DOCUMENTS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>5.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <SECTNO>5.2</SECTNO>
+      <SUBJECT>Policy on disclosure of records.</SUBJECT>
+      <SECTNO>5.3</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <SECTNO>5.4</SECTNO>
+      <SUBJECT>Availability of records.</SUBJECT>
+      <SECTNO>5.5</SECTNO>
+      <SUBJECT>Request for records.</SUBJECT>
+      <SECTNO>5.6</SECTNO>
+      <SUBJECT>Fees.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 437f(d), 437g(a)(4)(B)(ii), 438(a), and 31 U.S.C. 9701.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>45 FR 31293, May 13, 1980, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 5.1</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <P>(a) <E T="03">Commission</E> means the Federal Election Commission established by the Federal Election Campaign Act of 1971, as amended.</P>
+      <P>(b) <E T="03">Commissioner</E> means the Secretary of the Senate, the Clerk of the House, or their designees, ex officio, or an individual appointed to the Federal Election Commission pursuant to 2 U.S.C. 437c(a).</P>
+      <P>(c) <E T="03">Request</E> means to seek access to Commission materials subject to the provisions of the Federal Election Campaign Act of 1971, as amended.</P>
+      <P>(d) <E T="03">Requestor</E> is any person who submits a request to the Commission.</P>
+      <P>(e) <E T="03">Act</E> means the Federal Election Campaign Act, as amended by the Federal Election Campaign Act Amendments of 1974, 1976, and 1979, and unless specifically excluded, includes chapters 95 and 96 of the Internal Revenue Code of 1954 relating to public financing of Federal elections.</P>
+      <P>(f) <E T="03">Public Disclosure Division</E> of the Commission is that division which is responsible for, among other things, the processing of requests for public access to records which are submitted to the Commission pursuant to 2 U.S.C. 437g(a)(4)(B)(ii), and 438(a).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 5.2</SECTNO>
+      <SUBJECT>Policy on disclosure of records.</SUBJECT>
+      <P>(a) The Commission will make the fullest possible disclosure of records to the public, consistent with the rights of individuals to privacy, the rights of persons contracting with the Commission with respect to trade secrets and commercial or financial information entitled to confidential treatment, and the need for the Commission to promote free internal policy deliberations and to pursue its official activities without undue disruption.</P>
+      <P>(b) Nothing herein shall be deemed to restrict the public availability of Commission records falling outside provisions of the Act, or to restrict such public access to Commission records as is available pursuant to the Freedom of Information Act and the rules set forth as part 4 of this chapter.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 5.3</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <P>(a) The regulations in this part implement the provisions of 2 U.S.C. 437f(d), 437g(a)(4)(B)(ii), and 438(a).</P>
+      <P>(b) Public access to such Commission records as are subject to the collateral provisions of the Freedom of Information Act and are not included in the material subject to disclosure under this part (described in 11 CFR 5.4(a)) shall be governed by the rules set forth as part 4 of this chapter.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 5.4</SECTNO>
+      <SUBJECT>Availability of records.</SUBJECT>
+      <P>(a) In accordance with 2 U.S.C. 438(a), the Commission shall make the following material available for public inspection and copying through the Commission's Public Disclosure Division:</P>
+      <P>(1) Reports of receipts and expenditures, designations of campaign depositories, statements of organization, candidate designations of campaign committees and the indices compiled from the filings therein.</P>
+      <P>(2) Requests for advisory opinions, written comments submitted in connection therewith, and responses issued by the Commission.</P>
+      <P>(3) With respect to enforcement matters, any conciliation agreement entered into between the Commission and any respondent.</P>
+
+      <P>(4) Opinions of Commissioners rendered in enforcement cases and General Counsel's reports and non-exempt 2 U.S.C. 437g investigatory materials in enforcement files will be made available no later than 30 days from the date on which a respondent is notified that the Commission has voted to take no further action and to close such an enforcement file.<PRTPAGE P="23"/>
+      </P>
+      <P>(b) The provisions of this part apply only to existing records; nothing herein shall be construed as requiring the creation of new records.</P>
+      <P>(c) In order to ensure the integrity of the Commission records subject to the Act and the maximum availability of such records to the public, nothing herein shall be construed as permitting the physical removal of any Commission records from the public facilities maintained by the Public Disclosure Division other than copies of such records obtained in accordance with the provisions of this part.</P>
+      <P>(d) Release of records under this section is subject to the provisions of 5 U.S.C. 552a.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 5.5</SECTNO>
+      <SUBJECT>Request for records.</SUBJECT>
+      <P>(a) A request to inspect or copy those public records described in 11 CFR 5.4(a) may be made in person or by mail. The Public Disclosure Division is open Monday through Friday between the hours of 9 a.m. and 5 p.m. and is located on the first floor, 999 E Street, NW., Washington, DC 20463.</P>
+      <P>(b) Each request shall describe the records sought with sufficient specificity with respect to names, dates and subject matter to permit the records to be located with a reasonable amount of effort. A requester will be promptly advised if the requested records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.</P>
+      <P>(c) Requests for copies of records not available through the Public Disclosure Division shall be addressed to the FOIA Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. Requests for Commission records not described in 11 CFR 5.4(a) shall be treated as requests made pursuant to the Freedom of Information Act (5 U.S.C. 552) and shall be governed by 11 CFR part 4. In the event that the Public Disclosure Division receives a written request for access to materials not described in 11 CFR 5.4(a), it shall promptly forward such request to the Commission FOIA Officer for processing in accordance with the provisions of part 4 of this chapter.</P>
+      <CITA>[45 FR 31293, May 13, 1980, as amended at 50 FR 50778, Dec. 12, 1985]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 5.6</SECTNO>
+      <SUBJECT>Fees.</SUBJECT>
+
+      <P>(a)(1) Fees will be charged for copies of records which are furnished to a requester under this part and for the staff time spent in locating and reproducing such records. The fees to be levied for services rendered under this part shall not exceed the Commission's direct cost of processing requests for those records computed on the basis of the actual number of copies produced and the staff time expended in fulfilling the particular request, in accordance with the following schedule of standard fees:
+      </P>
+      <EXTRACT>
+        <FP SOURCE="FP-1">Photocopying from microfilm reader-printer—$.15 per page</FP>
+        <FP SOURCE="FP-1">Photocopying from photocopying machines—$.05 per page</FP>
+        <FP SOURCE="FP-1">Paper copies from microfilm—Paper Print Machine—$.05 per frame/page</FP>
+        <HD SOURCE="HD1">Reels of Microfilm</HD>
+        <FP SOURCE="FP-1">Daily film (partial or complete roll)—$2.85 per roll</FP>
+        <FP SOURCE="FP-1">Other film (partial or complete roll)—$5.00 per roll</FP>
+        <HD SOURCE="HD1">Publications: (new or not from stocks available)</HD>
+        <FP SOURCE="FP-1">Cost of photocopying (reproducing) document—$.05 per page</FP>
+        <FP SOURCE="FP-1">Cost of binding document—$.30 per inch</FP>
+        <FP SOURCE="FP-1">Plus cost of staff research time after first <FR>1/2</FR> hour (see Research Time)</FP>
+        <HD SOURCE="HD1">Publications: (available stock)</HD>
+        <P>If available from stock on hand, cost is based on previously calculated cost as stated in the publication (based on actual cost per copy, including reproduction and binding).</P>
+        <HD SOURCE="HD1">Computer Tapes:</HD>
+        <P>Cost ($.0006 per Computer Resource Unit Utilized—CRU) to process the request plus the cost of the computer tape ($25) and professional staff time (see Research Time). The cost varies based upon request.</P>
+        <HD SOURCE="HD1">Computer Indexes:</HD>
+        <P>No charge for 20 or fewer requests for computer indexes, except for a name search as described below.</P>
+        <P>C Index—Committee Index of Disclosure Documents—No charge for requests of 20 or fewer committee ID numbers. Requests for more than 20 ID numbers will cost $.05 for each ID number requested.</P>
+
+        <P>E Index (Parts 1-4)—Candidate Index of Supporting Documents—No charge for requests of 20 or fewer candidate ID numbers. Requests for more than 20 ID numbers will cost $.10 for each ID number requested.<PRTPAGE P="24"/>
+        </P>
+        <P>D Index—Committee Index or Candidates Supported/Opposed—No charge for requests of 20 or fewer committee ID numbers. Requests for more than 20 ID numbers will cost $.30 for each committee ID number requested.</P>
+        <P>E Index (Complete)—Candidate Index of Supporting Documents—No charge for requests of 20 or fewer committee ID numbers. Requests for more than 20 ID numbers will cost $2.00 for each candidate ID number requested.</P>
+        <P>G Index—Selected List of Receipts and Expenditures—No charge for requests of 20 or fewer committee ID numbers. Requests for more than 20 ID numbers will cost $2.00 for each ID number requested.</P>
+        <P>Other computer index requests for more than 20 ID numbers will cost $.0006 per CRU (Computer Resource Unit) utilized.</P>
+        <P>Name Search—A computer search of an entire individual contributor file for contributions made by a particular individual or individuals will cost $.0006 per CRU (Computer Resource Unit) utilized.</P>
+        <HD SOURCE="HD1">Research Time/Photocopying Time</HD>
+        <P>Clerical: First <FR>1/2</FR> hour is free; remaining time costs $4.50 per each half hour (agency average of staff below a GS-11) for each request.</P>
+        <P>Professional: First <FR>1/2</FR> hour is free; remaining time costs $12.40 per each half hour (agency average of staff at GS-11 and above) for each request.</P>
+        <HD SOURCE="HD1">Other Charges</HD>
+        <P>Certification of a Document: $7.35 per quarter hour.</P>
+        <P>Transcripts of Commission meetings not previously transcribed: $7.50 per half hour (equivalent of a GS-11 executive secretary).</P>
+      </EXTRACT>
+      
+
+      <P>(2) Upon receipt of any request for the production of computer tape or microfilm, the Commission will advise the requester of the identity of the private contractor who will perform the duplication services. The fee for the production of computer tape or microfilm shall be made payable to that private contractor and shall be fowarded to the Commission.
+      </P>
+
+      <P>(b) Commission publications for which fees will be charged under 11 CFR 5.6(a) include, but are not limited to, the following:
+      </P>
+      <FP SOURCE="FP-1">Advisory Opinion Index</FP>
+      <FP SOURCE="FP-1">Report on Financial Activity</FP>
+      <FP SOURCE="FP-1">Financial Control and Compliance Manual</FP>
+      <FP SOURCE="FP-1">MUR Index</FP>
+      <FP SOURCE="FP-1">Guideline for Presentation in Good Order</FP>
+      <FP SOURCE="FP-1">Office Account Index</FP>
+      
+      <P>(c) In the event the anticipated fees for all pending requests from the same requester exceed $25.00, records will not be searched, nor copies furnished, until the requester pays, or makes acceptable arrangements to pay, the total amount due.</P>
+      <P>Similarly, if the records requested require the production of microfilm or of computer tapes, the Commission will not instruct its contractor to duplicate the records until the requester has submitted payment as directed or has made acceptable arrangements to pay the total amount due. If any fee is not precisely ascertainable, an estimate will be made by the Commission and the requester will be required to forward the fee so estimated. In the event any advance payment differs from the actual fee, an appropriate adjustment will be made at the time the copies are made available by the Commission.</P>
+      <P>(d) The Commission may reduce or waive payments of fees hereunder if it determines that such waiver or reduction is in the public interest because the furnishing of the requested information to the particular requester involved can be considered as primarily benefiting the general public as opposed to primarily benefiting the person or organization requesting the information.</P>
+      <CITA>[49 FR 30460, July 31, 1984, as amended at 52 FR 39214, Oct. 21, 1987]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

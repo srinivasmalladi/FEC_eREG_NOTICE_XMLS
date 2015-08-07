@@ -1,0 +1,20 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="S">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 100</CFR>
+        <SUBJECT>Scope and Definitions (2 U.S.C. 431)</SUBJECT>
+        <HD SOURCE="HD2">CFR Correction</HD>
+        <REGTEXT PART="100" TITLE="11">
+          <P>In Title 11 of the Code of Federal Regulations, revised as of January 1, 2012, on page 42, in &#xA7; 100.19, a heading is added to paragraph (a) to read as follows:</P>
+          <SECTION>
+            <SECTNO>&#xA7; 100.19</SECTNO>
+            <SUBJECT>File, filed or filing (2 U.S.C. 434(a)).</SUBJECT>
+            <STARS/>
+            <P>(a)<E T="03">Where to deliver reports.</E>* * *</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+      </PREAMB>
+      <FRDOC>[FR Doc. 2013-18542 Filed 7-30-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 1505-01-D</BILCOD>
+    </RULE>

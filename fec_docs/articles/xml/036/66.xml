@@ -1,0 +1,46 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="1793"/>
+        <AGENCY TYPE="F">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 110</CFR>
+        <DEPDOC>[Notice 2003-1]</DEPDOC>
+        <SUBJECT>Contribution Limitations and Prohibitions; Correction</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; correction.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>The Federal Election Commission published a correction to the final rules governing contribution limitations and prohibitions in the<E T="04">Federal Register</E>on December 27, 2002 (67 FR 78959). The correction, in part, delayed the January 1, 2003 effective date for revised 11 CFR 110.9. Due to a typographical error, the date of the delayed effective date for this section was published as January 13, 2002; the correct delayed effective date for this section should have read January 13, 2003.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">EFFECTIVE DATES:</HD>
+          <P>The revision of 11 CFR 110.9 published on November 19, 2002 (67 FR 69928) is effective January 13, 2003.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Mai T. Dinh, Acting Assistant General Counsel, 999 E Street, NW., Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P>The Federal Election Commission published in the<E T="04">Federal Register</E>on December 27, 2002, Notice 2002-30 to delay the effective date of the revisions to 11 CFR 110.9 contained in the Contribution Limitations and Prohibitions; Final Rule. 67 FR 78959;<E T="03">see also</E>67 FR 69928 (November 19, 2002) (Contribution Limitations and Prohibitions; Final Rule). Due to a typographical error, Notice 2002-30 incorrectly stated that the delayed effective date for revised 11 CFR 110.9 would be January 13, 2002 rather than January 13, 2003. Consequently, this Notice corrects the delayed effective date for revised 11 CFR 110.9 to January 13, 2003.</P>
+        <REGTEXT PART="110" TITLE="11">
+          <HD SOURCE="HD1">Correction of Publication</HD>
+          <P>Accordingly, the publication on December 27, 2002 (67 FR 78959) of the correction to the final regulations, which was the subject of Notice 2002-30, is revised as follows:</P>
+          <AMDPAR>On page 78959 in the<E T="02">DATES</E>section in the second and third line of the second column, change &#x201C;January 13, 2002&#x201D; to read &#x201C;January 13, 2003.&#x201D;</AMDPAR>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: January 8, 2003.</DATED>
+          <NAME>Ellen L. Weintraub,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 03-666 Filed 1-13-03; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

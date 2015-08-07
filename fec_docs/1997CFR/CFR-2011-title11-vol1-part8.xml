@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2011-01-01</DATE>
+    <ORIGINALDATE>2011-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>COLLECTION OF ADMINISTRATIVE DEBTS</TITLE>
+    <GRANULENUM>8</GRANULENUM>
+    <HEADING>PART 8</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 11" SEQ="1">Federal Elections</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="0">FEDERAL ELECTION COMMISSION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 8</EAR>
+    <HD SOURCE="HED">PART 8—COLLECTION OF ADMINISTRATIVE DEBTS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>8.1</SECTNO>
+      <SUBJECT>Purpose and scope.</SUBJECT>
+      <SECTNO>8.2</SECTNO>
+      <SUBJECT>Debts that are covered.</SUBJECT>
+      <SECTNO>8.3</SECTNO>
+      <SUBJECT>Administrative collection of claims.</SUBJECT>
+      <SECTNO>8.4</SECTNO>
+      <SUBJECT>Bankruptcy claims.</SUBJECT>
+      <SECTNO>8.5</SECTNO>
+      <SUBJECT>Interest, penalties, and administrative costs.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+
+      <P>31 U.S.C. 3701, 3711, and 3716-3720A, as amended; 2 U.S.C 431 <E T="03">et seq.,</E> as amended; 31 CFR parts 285, and 900-904.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>75 FR 19875, Apr. 16, 2010, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 8.1</SECTNO>
+      <SUBJECT>Purpose and scope.</SUBJECT>
+      <P>This part prescribes standards and procedures under which the Commission will collect and dispose of certain debts owed to the United States, as described in 11 CFR 8.2. The regulations in this part implement the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701, 3711, and 3716-3720A, as amended; and the Federal Claims Collection Standards, 31 CFR parts 900-904. The activities covered include: the collection of claims of any amount; compromising claims; suspending or terminating the collection of claims; referring debts to the U.S. Department of the Treasury for collection action; and referring debts under this part 8 of more than $100,000 (exclusive of any interest and charges) to the Department of Justice for litigation.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 8.2</SECTNO>
+      <SUBJECT>Debts that are covered.</SUBJECT>
+      <P>(a) The procedures covered by this part apply to debts that are either owed by current and former Commission employees, or arise from the provision of goods or services by contractors or vendors doing business with the Commission.</P>
+      <P>(b) The procedures covered by this part do not apply to any of the following debts:</P>
+      <P>(1) Debts that are covered by 11 CFR 111.51, regarding debts arising from compliance matters, administrative fines, alternative dispute resolution, repayments, and court judgments arising under the statutes specified in 11 CFR 111.51(a).</P>
+      <P>(2) Debts involving criminal actions of fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any other person having an interest in the claim.</P>
+      <P>(3) Debts based in whole or in part on conduct in violation of the antitrust laws.</P>
+      <P>(4) Debts under the Internal Revenue Code of 1986.</P>
+      <P>(5) Debts between the Commission and another Federal agency. The Commission will attempt to resolve interagency claims by negotiation in accordance with Executive Order 12146, 3 CFR pp. 409-12 (1980 Comp.).</P>
+      <P>(6) Debts that have become subject to salary offset under 5 U.S.C. 5514.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 8.3</SECTNO>
+      <SUBJECT>Administrative collection of claims.</SUBJECT>
+      <P>(a) The Commission shall act to collect all claims or debts. These collection activities will be undertaken promptly and follow up action will be taken as appropriate in accordance with 31 CFR 901.1.</P>
+
+      <P>(b) The Commission may take any and all appropriate collection actions authorized and required by the Debt Collection Act of 1982, as amended by the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701 <E T="03">et seq.</E> The U.S. Department of the Treasury regulations at 31 CFR 285.2, 285.4, 285.7 and 285.11, and the Federal Claims Collection Standards issued jointly by the Department of Justice and the U.S. Department of the Treasury at 31 CFR parts 900-904 also apply. The Commission has adopted these regulations by cross-reference.</P>
+
+      <P>(c) The Commission will refer to the Dept. of Treasury all debt that has been delinquent for more than 180 days, and may refer to the Dept. of Treasury any debt that has been delinquent for 180 days or less. On behalf of the Commission, the U.S. Department of the <PRTPAGE P="44"/>Treasury will attempt to collect the debt, in accordance with the statutory and regulatory requirements and authorities applicable to the debt and action. This may include referral to another debt collection center, a private collection contractor, or the Department of Justice for litigation. <E T="03">See</E> 31 CFR 285.12 (Transfer of debts to Treasury for collection). This requirement does not apply to any debt that:</P>
+      <P>(1) Is in litigation or foreclosure;</P>
+      <P>(2) Will be disposed of under an approved asset sale program;</P>
+      <P>(3) Has been referred to a private collection contractor for a period of time acceptable to the U.S. Department of the Treasury; or</P>
+      <P>(4) Will be collected under internal offset procedures within three years after the debt first became delinquent.</P>
+      <P>(d) The U.S. Department of the Treasury is authorized to charge a fee for services rendered regarding referred or transferred debts. The Commission will add the fee to the debt as an administrative cost, in accordance with 11 CFR 8.5.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 8.4</SECTNO>
+      <SUBJECT>Bankruptcy claims.</SUBJECT>
+      <P>When the Commission learns that a bankruptcy petition has been filed by a debtor, before proceeding with further collection action, the Commission will take any necessary action in accordance with the provision of 31 CFR 901.2(h).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 8.5</SECTNO>
+      <SUBJECT>Interest, penalties, and administrative costs.</SUBJECT>
+      <P>(a) The Commission shall assess interest, penalties, and administrative costs on debts owed to the United States Government in accordance with 31 U.S.C. 3717 and 31 CFR 901.9.</P>
+      <P>(b) The Commission shall waive collection of interest and administrative costs on a debt or any portion of the debt that is paid in full within thirty days after the date on which the interest begins to accrue.</P>
+      <P>(c) The Commission may waive collection of interest, penalties, and administrative costs if it:</P>
+      <P>(1) Determines that collection is against equity and good conscience or not in the best interest of the United States, including when an administrative offset or installment agreement is in effect; or</P>
+      <P>(2) Determines that waiver is appropriate under the criteria for compromise of debts set forth at 31 CFR 902.2(a).</P>
+      <P>(d) The Commission is authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with common law.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

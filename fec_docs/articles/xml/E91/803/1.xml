@@ -1,0 +1,238 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 8</CFR>
+        <DEPDOC>[Notice 2009-17]</DEPDOC>
+        <AGENCY TYPE="O">ELECTION ASSISTANCE COMMISSION</AGENCY>
+        <CFR>11 CFR Part 9428</CFR>
+        <SUBJECT>Reorganization of National Voter Registration Act Regulations</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission; Election Assistance Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>The Federal Election Commission (FEC) and the Election Assistance Commission (EAC) are jointly taking action to transfer regulations implementing the National Voter Registration Act of 1993 (NVRA) from the FEC to the EAC. The Help America Vote Act of 2002 transferred the FEC's former statutory authority regarding the NVRA regulations to the EAC. Further information is provided in the<E T="02">supplementary information</E>that follows.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This rule is effective August 28, 2009.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Tamar Nedzar, Attorney, Election Assistance Commission, 1225 New York Avenue, NW., Suite 1100, Washington, DC 20005, (202) 566-3100 or (866) 747-1471; or Mr. Robert M. Knop, Assistant General Counsel, or Mr. Joshua S. Blume, Attorney, Federal Election Commission, 999 E Street, NW., Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">Background</HD>
+        <P>The National Voter Registration Act of 1993 (&#x201C;NVRA&#x201D;)<SU>1</SU>
+          <FTREF/>required the Federal Election Commission, in consultation with the chief election officers of the States, to develop a mail voter registration application form for elections to Federal office, and to submit to Congress no later than June 30 of each odd-numbered year (beginning June 30, 1995) a report that assesses the impact of the NVRA and recommends improvements in Federal and State procedures, forms, and other matters affected by the NVRA. 42 U.S.C. 1973gg-7(a)(2), (a)(3) (1993). The NVRA also assigned to the FEC the responsibility of prescribing, in consultation with the chief election officers of the States, such regulations as are necessary to carry out the aforementioned functions. 42 U.S.C. 1973gg-7(a)(1) (1993). The FEC issued regulations implementing these NVRA requirements on June 23, 1994.<SU>2</SU>
+          <FTREF/>These regulations are all currently codified in Part 8 of title 11, Chapter 1 of the Code of Federal Regulations (&#x201C;11 CFR Part 8&#x201D;).</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>Pub. L. 103-31, 107 Stat. 77, 42 U.S.C. 1973gg-1<E T="03">et seq.</E>(1993).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>59 FR 32323 (June 23, 1994).</P>
+        </FTNT>
+        <P>Section 802 of the Help America Vote Act of 2002 (&#x201C;HAVA&#x201D;)<SU>3</SU>
+          <FTREF/>transferred the FEC's responsibilities under the NVRA to the EAC&#x2014;an independent Federal agency created by HAVA<SU>4</SU>
+          <FTREF/>with responsibilities related to various aspects of Federal election administration. 42 U.S.C. 15532.<SU>5</SU>
+          <FTREF/>Accordingly, in order to facilitate the EAC's exercise of its statutory authority, the FEC is transferring the regulations implementing Section 9(a) (42 U.S.C. 1973gg-7(a)) of the NVRA to the EAC.</P>
+        <FTNT>
+          <P>
+            <SU>3</SU>Pub. L. 107-252, 116 Stat. 1726, 42 U.S.C. 15532 (2002).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>4</SU>42 U.S.C. 15321.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>5</SU>&#x201C;There are transferred to the Election Assistance Commission established under section 201 all functions which the Federal Election Commission exercised under section 9(a) of the National Voter Registration Act of 1993 before the date of the enactment of this Act.&#x201D; HAVA was enacted on October 29, 2002.</P>
+        </FTNT>
+        <HD SOURCE="HD1">Transfer and Redesignation of Part 8</HD>
+
+        <P>The FEC and the EAC, through this joint final rule, are removing the regulations in 11 CFR part 8 and simultaneously recodifying them in Chapter II of Title 11, which houses regulations created and administered by the EAC. Part 8 is simultaneously redesignated as Part 9428. Accordingly, 11 CFR 8.1 through 8.7 are redesignated as new 11 CFR 9428.1 through 9428.7. This is illustrated in a table below.<PRTPAGE P="37520"/>
+        </P>
+        <GPOTABLE CDEF="s25,r100,9" COLS="3" OPTS="L2,tp0,i1">
+          <TTITLE/>
+          <BOXHD>
+            <CHED H="1">Part 8</CHED>
+            <CHED H="1">Heading</CHED>
+            <CHED H="1">New Part<LI>9428</LI>
+            </CHED>
+          </BOXHD>
+          <ROW EXPSTB="02" RUL="s">
+            <ENT I="21">
+              <E T="02">Subpart A&#x2014;General Provisions</E>
+            </ENT>
+          </ROW>
+          <ROW EXPSTB="00" RUL="s">
+            <ENT I="01">&#xA7; 8.1</ENT>
+            <ENT>Purpose  scope</ENT>
+            <ENT>&#xA7; 9428.1</ENT>
+          </ROW>
+          <ROW RUL="s">
+            <ENT I="01">&#xA7; 8.2</ENT>
+            <ENT>Definitions</ENT>
+            <ENT>&#xA7; 9428.2</ENT>
+          </ROW>
+          <ROW EXPSTB="02" RUL="s">
+            <ENT I="21">
+              <E T="02">Subpart B&#x2014;National Mail Voter Registration Form</E>
+            </ENT>
+          </ROW>
+          <ROW EXPSTB="00" RUL="s">
+            <ENT I="01">&#xA7; 8.3</ENT>
+            <ENT>General information</ENT>
+            <ENT>&#xA7; 9428.3</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">&#xA7; 8.4</ENT>
+            <ENT>Contents</ENT>
+            <ENT>&#xA7; 9428.4</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">&#xA7; 8.5</ENT>
+            <ENT>Format</ENT>
+            <ENT>&#xA7; 9428.5</ENT>
+          </ROW>
+          <ROW RUL="s">
+            <ENT I="01">&#xA7; 8.6</ENT>
+            <ENT>Chief state election official</ENT>
+            <ENT>&#xA7; 9428.6</ENT>
+          </ROW>
+          <ROW EXPSTB="02" RUL="s">
+            <ENT I="21">
+              <E T="02">Subpart C&#x2014;Recordkeeping and Reporting</E>
+            </ENT>
+          </ROW>
+          <ROW EXPSTB="00">
+            <ENT I="01">&#xA7; 8.7</ENT>
+            <ENT>Contents of reports from the states</ENT>
+            <ENT>&#xA7; 9428.7</ENT>
+          </ROW>
+        </GPOTABLE>
+        <P>The FEC and EAC are also making conforming changes to the rules to replace references to rules in Part 8 with references to corresponding rules in Part 9428, and to replace references to the &#x201C;Federal Election Commission&#x201D; with references to the &#x201C;Election Assistance Commission.&#x201D; The rule does not make any substantive changes to the new Part 9428 regulations. The EAC may exercise its rulemaking authority to make substantive and technical changes to these rules in the future.</P>
+        <HD SOURCE="HD1">Administrative Procedure Act</HD>
+        <P>The FEC and the EAC find that good cause exists for adopting this rule as a final rule and without public notice and comment under 5 U.S.C. 553(b) because this rule simply relocates and redesignates the regulations in 11 CFR part 8, while making only minor conforming technical changes and no substantive changes to those regulations. The rule reflects the transfer of functions contemplated by the Help America Vote Act of 2002. Accordingly, public notice and comment is unnecessary. 5 U.S.C. 553(b)(B).<SU>6</SU>
+
+          <FTREF/>Further, because the transfer of the regulations is vital to the EAC's ability to function in an area of core responsibility assigned by Congress, the additional delay that would be incurred by resorting to notice and comment procedures would be contrary to the public interest. 5 U.S.C. 553(b)(B).<E T="03">See,</E>
+          <E T="03">e.g. National Nutritional Foods Assoc.</E>v.<E T="03">Kennedy,</E>572 F.2d 377, 384-85 (2nd Cir. 1978),<E T="03">quoting</E>Senate Report, No. 752, 79th Cong. 1st Sess. (1945).</P>
+        <FTNT>
+          <P>
+            <SU>6</SU>Should the EAC propose substantive changes to these regulations on future occasions, it will provide notice and an opportunity to comment pursuant to the Administrative Procedure Act.</P>
+        </FTNT>
+        <HD SOURCE="HD1">Transmittal of Final Rule to Congress</HD>
+        <P>Under the Congressional Review of Agency Rulemaking Act, 5 U.S.C. 801(a)(1), agencies must submit final rules to the Speaker of the House of Representatives and the President of the Senate before they take effect. The final rule that follows was transmitted to Congress on July 24, 2009.</P>
+        <HD SOURCE="HD1">Certification of No Effect Pursuant to 5 U.S.C. 605(b) (Regulatory Flexibility Act)</HD>
+
+        <P>Because no notice of proposed rulemaking is required for this rule under the Administrative Procedure Act (5 U.S.C. 553), the provisions of the Regulatory Flexibility Act (5 U.S.C. 601<E T="03">et seq.</E>) do not apply.<E T="03">See</E>5 U.S.C. 604(a).</P>
+        <HD SOURCE="HD1">Paperwork Reduction Act</HD>
+        <P>The provisions of the Paperwork Reduction Act of 1995 (PRA), Public Law 104-13, 44 U.S.C. chapter 35, and its implementing regulations at 5 CFR part 1320, require that an agency subject to PRA submit to OMB for approval information collection and recordkeeping requirements associated with agency actions. The FEC is statutorily exempted from the provisions of the PRA while the EAC is not. Consequently, the regulations currently at 11 CFR part 8 do not have an associated OMB control number; whereas the transferred regulations at 11 CFR part 9428 are required to have an associated OMB control number. Accordingly, concurrent with this joint rulemaking activity, the EAC will independently publish a separate PRA notice seeking emergency clearance.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>11 CFR Part 8 and 11 CFR Part 9428</CFR>
+          <P>Elections, reporting and recordkeeping requirements.</P>
+        </LSTSUB>
+        <REGTEXT PART="8" TITLE="11">
+          <AMDPAR>For the reasons discussed in the preamble, the Federal Election Commission and the Election Assistance Commission amend chapters I and II of title 11 of the Code of Federal Regulations as follows:</AMDPAR>
+          <TITLE/>
+          <HD SOURCE="HED">TITLE 11&#x2014;FEDERAL ELECTIONS</HD>
+          <CHAPTER>
+            <HD SOURCE="HED">CHAPTER I&#x2014;FEDERAL ELECTION COMMISSION</HD>
+            <PART>
+              <HD SOURCE="HED">PART 8&#x2014;[REDESIGNATED AS PART 9428]</HD>
+            </PART>
+          </CHAPTER>
+          <AMDPAR>1. Transfer 11 CFR Part 8 from Chapter I to Chapter II and redesignate as 11 CFR part 9428.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="9428" TITLE="11">
+          <CHAPTER>
+            <HD SOURCE="HED">CHAPTER II&#x2014;ELECTION ASSISTANCE COMMISSION</HD>
+            <PART>
+              <HD SOURCE="HED">PART 9428&#x2014;NATIONAL VOTER REGISTRATION ACT (42 U.S.C. 1973gg-1 et seq.)</HD>
+            </PART>
+          </CHAPTER>
+          <AMDPAR>2. The authority citation for the newly redesignated 11 CFR part 9428 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>42 U.S.C. 1973gg-1<E T="03">et seq.,</E>15532</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="8" TITLE="11">
+          <SECTION>
+            <SECTNO>&#xA7;&#xA7; 9428.3, 9428.4, 9428.5 and 9428.7</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+
+          <AMDPAR>3. Amend the newly redesignated Part 9428 as follows:<PRTPAGE P="37521"/>
+          </AMDPAR>
+          <GPOTABLE CDEF="s50,r100,xs132" COLS="3" OPTS="L2,tp0,i1">
+            <TTITLE/>
+            <BOXHD>
+              <CHED H="1">Amend</CHED>
+              <CHED H="1">By removing the reference to</CHED>
+              <CHED H="1">And adding in its place</CHED>
+            </BOXHD>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.3(a)</ENT>
+              <ENT>11 CFR 8.4</ENT>
+              <ENT>11 CFR 9428.4.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.4(a)(6)(ii)</ENT>
+              <ENT>11 CFR 8.6(c)</ENT>
+              <ENT>11 CFR 9428.6(c).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.5(a)</ENT>
+              <ENT>&#x201C;Federal Election Commission's&#x201D;</ENT>
+              <ENT>&#x201C;Commission's&#x201D;.</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.5(b)</ENT>
+              <ENT>11 CFR 8.4(c)</ENT>
+              <ENT>11 CFR 9428.4(c).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.5(f)(2)</ENT>
+              <ENT>11 CFR 8.4(b)(1), (6), and (7)</ENT>
+              <ENT>11 CFR 9428.4(b)(1), (6), and (7).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.5(f)(2)</ENT>
+              <ENT>11 CFR 8.4(b)(2)</ENT>
+              <ENT>11 CFR 9428.4(b)(2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.6(b)</ENT>
+              <ENT>11 CFR 8.4(a)(2)</ENT>
+              <ENT>11 CFR 9428.4(a)(2).</ENT>
+            </ROW>
+            <ROW>
+              <ENT I="01">&#xA7; 9428.7(a)</ENT>
+              <ENT>&#x201C;Federal Election Commission, 999 E Street, NW., Washington, DC 20463.&#x201D;</ENT>
+              <ENT>&#x201C;Election Assistance Commission, 1225 New York Avenue, NW., Washington, DC 20005.&#x201D;.</ENT>
+            </ROW>
+          </GPOTABLE>
+        </REGTEXT>
+        <SIG>
+          <P>On behalf of the Commission.</P>
+          <NAME>Steven T. Walther,</NAME>
+          <TITLE>Chairman, Federal Election Commission.</TITLE>
+          <NAME>Gineen B. Beach,</NAME>
+          <TITLE>Chair, Election Assistance Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. E9-18031 Filed 7-28-09; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6820-KF-P</BILCOD>
+    </RULE>

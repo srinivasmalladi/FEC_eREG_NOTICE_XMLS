@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>DOCUMENT FILING (2 U.S.C. 432(g))</TITLE>
+    <GRANULENUM>105</GRANULENUM>
+    <HEADING>PART 105</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <HD SOURCE="HED">PART 105—DOCUMENT FILING (2 U.S.C. 432(g))</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>105.1</SECTNO>
+      <SUBJECT>Place of filing; House candidates and their authorized committees (2 U.S.C. 432(g)(1)).</SUBJECT>
+      <SECTNO>105.2</SECTNO>
+      <SUBJECT>Place of filing; Senate candidates, their principal campaign committees, and committees supporting only Senate candidates (2 U.S.C. 432(g)(2)).</SUBJECT>
+      <SECTNO>105.3</SECTNO>
+      <SUBJECT>Place of filing; Presidential candidates and their principal campaign committees (2 U.S.C. 432(g)(4)).</SUBJECT>
+      <SECTNO>105.4</SECTNO>
+      <SUBJECT>Place of filing; political committees and other persons (2 U.S.C. 432(g)(4)).</SUBJECT>
+      <SECTNO>105.5</SECTNO>
+
+      <SUBJECT>Transmittal of microfilm copies and photocopies of original reports filed with the Secretary of the Senate to the Commission (2 U.S.C. 432(g)(3)).<PRTPAGE P="101"/>
+      </SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 432(g), 438(a)(8).</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source: </HD>
+      <P>45 FR 15116, Mar. 7, 1980, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 105.1</SECTNO>
+      <SUBJECT>Place of filing; House candidates and their authorized committees (2 U.S.C. 432(g)(1)).</SUBJECT>
+      <P>All designations, statements, reports, and notices, as well as any modification(s) or amendment(s) thereto, required to be filed under 11 CFR parts 101, 102, and 104 by a candidate for nomination or election to the office of Representative in, or Delegate or Resident Commissioner to, the Congress, by his or her authorized committee(s), shall be filed in original form with, and received by, the Federal Election Commission.</P>
+      <CITA>[61 FR 3550, Feb. 1, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 105.2</SECTNO>
+      <SUBJECT>Place of filing; Senate candidates, their principal campaign committees, and committees supporting only Senate candidates (2 U.S.C. 432(g)(2)).</SUBJECT>
+      <P>All designations, statements, reports, and notices as well as any modification(s) or amendment(s) thereto, required to be filed under 11 CFR parts 101, 102, and 104 by a candidate for nomination or election to the office of United States Senator, by his or her principal campaign committee or by any other political committee(s) which supports only candidates for nomination for election or election to the Senate of the United States shall be filed in original form with, and received by, the Secretary of the Senate, as custodian for the Federal Election Commission.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 105.3</SECTNO>
+      <SUBJECT>Place of filing; Presidential candidates and their principal campaign committees (2 U.S.C. 432(g)(4)).</SUBJECT>
+      <P>All designations, statements, reports, and notices, as well as any modification(s) or amendment(s) thereto, required to be filed under 11 CFR parts 101, 102 and 104 by a candidate for nomination for election or election to the office of President or Vice President of the United States or by his or her principal campaign committee shall be filed in original form with the Federal Election Commission.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 105.4</SECTNO>
+      <SUBJECT>Place of filing; political committees and other persons (2 U.S.C. 432(g)(4)).</SUBJECT>
+      <P>All designations, statements, reports, and notices, as well as any modifications or amendments thereto, required to be filed under 11 CFR parts 101, 102, and 104 by a political committee other than any principal campaign committee or any committee referred to in 11 CFR 105.2 or 105.3, by persons other than political committees making independent expenditures under 11 CFR part 109, and by persons required to report the cost of communications under 11 CFR 104.6, shall be filed in original form with the Federal Election Commission.</P>
+      <CITA>[45 FR 15116, Mar. 7, 1980, as amended at 61 FR 3550, Feb. 1, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 105.5</SECTNO>
+      <SUBJECT>Transmittal of microfilm copies and photocopies of original reports filed with the Secretary of the Senate to the Commission (2 U.S.C. 432(g)(3)).</SUBJECT>
+      <P>(a) Either a microfilmed copy or photocopy of all original designations, statements, reports, modifications or amendments required to be filed pursuant to 11 CFR 105.2 shall be transmitted by the Secretary of the Senate to the Commission as soon as possible, but in any case no later than two (2) working days after receiving such designations, statements, reports, modifications, or amendments.</P>
+      <P>(b) The Secretary of the Senate shall then forward to the Commission a microfilm copy and a photocopy of each designation, statement, and report, or any modification or amendment thereto, filed with the Secretary pursuant to 11 CFR 105.2.</P>
+      <P>(c) The Secretary of the Senate shall place a time and date stamp on each original designation, statement, report, modification or amendment received.</P>
+      <CITA>[61 FR 3550, Feb. 1, 1996]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

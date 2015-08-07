@@ -1,0 +1,63 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Parts 104 and 109</CFR>
+        <DEPDOC>[Notice 2011-13]</DEPDOC>
+        <SUBJECT>Interpretive Rule on When Certain Independent Expenditures Are &#x201C;Publicly Disseminated&#x201D; for Reporting Purposes</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Notice of interpretive rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Federal Election Commission is issuing guidance on when independent expenditure communications that take the form of yard signs, mini-billboards, handbills, t-shirts, hats, buttons, and similar items are &#x201C;publicly disseminated&#x201D; for purposes of certain reporting requirements in Commission regulations.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>Effective October 4, 2011.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Amy Rothstein, Assistant General Counsel, Ms. Cheryl A.F. Hemsley or Mr. Theodore M. Lutz, Attorneys, 999 E Street, NW., Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>An independent expenditure is &#x201C;an expenditure by a person for a communication expressly advocating the election or defeat of a clearly identified candidate that is not made in cooperation, consultation, or concert with, or at the request or suggestion of, a candidate, a candidate's authorized committee, or their agents, or a political party committee or its agents.&#x201D; 11 CFR<PRTPAGE P="61255"/>100.16;<E T="03">see also</E>2 U.S.C. 431(17). Political committees and other persons making independent expenditures (&#x201C;Filers&#x201D;) must file reports disclosing their independent expenditures at certain regular intervals.<E T="03">See</E>2 U.S.C. 434(a)(4) and (c); 11 CFR 104.4 and 109.10(b). In addition, Filers must report all independent expenditures that aggregate more than certain dollar amounts during certain reporting periods within either 24 hours or 48 hours of the date on which the person makes or contracts to make independent expenditures. 2 U.S.C. 434(g). The Commission's regulation requires that Filers &#x201C;ensure that the Commission receives these reports by [either 24 hours or 48 hours] following the date on which a communication that constitutes an independent expenditure is publicly distributed or otherwise publicly disseminated.&#x201D; 11 CFR 104.4(b)(2);<E T="03">see also</E>11 CFR 104.4(c), and (f), and 109.10(c) and (d).</P>
+        <P>The actual public dissemination date of independent expenditure communications that take the form of items such as yard signs, mini-billboards, handbills, t-shirts, hats, and buttons may be difficult to ascertain, however, particularly where the items are disseminated in stages or where the Filer is an organization that purchases the items from a vendor, and then retains the items for a period of time before distributing them to affiliate or member organizations or to individuals, such as the organization's employees, members or customers, to wear or display in public. For this reason, the Commission is issuing this notice to clarify that a range of acceptable dates may be used as the public dissemination date<SU>1</SU>
+          <FTREF/>for these forms of independent expenditure communications for both individual and organizational Filers.</P>
+        <FTNT>
+          <P>
+
+            <SU>1</SU>This notice focuses on the date on which independent expenditures are &#x201C;publicly disseminated,&#x201D; rather than the date on which they are &#x201C;publicly distributed.&#x201D; Generally, independent expenditures that are made public by broadcast, cable or satellite are &#x201C;publicly distributed.&#x201D;<E T="03">See</E>11 CFR 100.29(b)(2);<E T="03">see also</E>Explanation and Justification for Final Rules on Bipartisan Campaign Reform Act of 2002 Reporting, 68 FR 404, 407 (Jan. 3, 2003). In contrast, all other forms of independent expenditure communications, such as those made public in newspapers, magazines, or via handbills are considered to be &#x201C;publicly disseminated.&#x201D;<E T="03">See</E>Explanation and Justification for Final Rules on Bipartisan Campaign Reform Act of 2002 Reporting, 68 FR 404, 407 (Jan. 3, 2003). This particular rule interprets &#x201C;publicly disseminated&#x201D; for those items that do not have an inherent date certain for public dissemination, such as yard signs, mini-billboards, handbills, t-shirts, hats, and buttons.</P>
+        </FTNT>
+        <P>For purposes of the reporting requirements in 11 CFR 104.4(b)(2), (c), and (f), and 109.10(c) and (d), the Commission hereby clarifies that the Filer may report independent expenditure communications that take the form of items such as yard signs, mini-billboards, handbills, t-shirts, hats, buttons, as &#x201C;publicly disseminated&#x201D; on any reasonable date starting with the date the Filer receives or exercises control over the items in the usual and normal course of dissemination, up to and including the date that the communications are actually disseminated to the public.<SU>2</SU>
+          <FTREF/>Reasonable dates that may be treated as the date of public dissemination include, but are not limited to (1) The date that a Filer receives delivery of the communication, (2) the date that a Filer distributes the communication to its members or employees for later public dissemination, (3) the date that a Filer distributes the communications to its affiliate or member organizations for later public dissemination, (4) the date as of which the Filer authorizes its members or employees to display the communication, or (5) the date of actual public dissemination, if that date is known to the Filer.<SU>3</SU>
+          <FTREF/>In no event, however, may a Filer choose a date that is later than the actual date of dissemination. Similarly, in no event may a Filer choose a date that is subsequent to the date of the election to which the independent expenditure communication pertains.</P>
+        <FTNT>
+          <P>
+            <SU>2</SU>Once the public dissemination date is established, independent expenditure communications must be reported pursuant to 11 CFR 104.4(b)(2), (c), and (f), and 109.10(c) and (d).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>3</SU>The Commission notes that, for any given independent expenditure communication, Filers should list the same date of dissemination on their regularly scheduled FEC reports as the date they listed on their 24- and 48-Hour Independent Expenditure reports.</P>
+        </FTNT>
+        <P>The Commission believes that this interpretation of its regulations provides Filers with an administratively workable method for determining the date of dissemination for these types of independent expenditure communications, consistent with the &#x201C;[c]ongressional intent to emphasize and ensure timely disclosure&#x201D; of independent expenditures. Explanation and Justification for Final Rules on Independent Expenditure Reporting, 67 FR 12834, 12837 (Mar. 20, 2002).</P>
+
+        <P>This document is an interpretive rule announcing the general course of action that the Commission intends to follow. This interpretive rule does not constitute an agency action requiring notice of proposed rulemaking, opportunities for public participation, prior publication, or delay in effective date under 5 U.S.C. 553 of the Administrative Procedures Act. It does not bind the Commission or any members of the general public, nor does it create or remove any rights, duties, or obligations. The provisions of the Regulatory Flexibility Act, which apply when notice and comment are required by the Administrative Procedures Act or another statute, do not apply.<E T="03">See</E>5 U.S.C. 603(a).</P>
+        <SIG>
+          <DATED>Dated: September 29, 2011.</DATED>
+          
+          <P>On behalf of the Commission.</P>
+          <NAME>Cynthia L. Bauerly,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2011-25568 Filed 10-3-11; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

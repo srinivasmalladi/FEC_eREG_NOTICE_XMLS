@@ -1,0 +1,55 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="16715"/>
+        <AGENCY TYPE="F">FEDERAL ELECTION COMMISSION</AGENCY>
+        <CFR>11 CFR Part 110</CFR>
+        <DEPDOC>[Notice 2003-7]</DEPDOC>
+        <SUBJECT>Administrative Fines: Correction</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Federal Election Commission.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; correction.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>This document contains a correction to the final rules governing the Administrative Fines program that were published in the<E T="04">Federal Register</E>on March 17, 2003. The correction relates to a technical amendment updating a citation to the Federal Claims Collection Standards.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>The correction is effective March 17, 2003.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Ms. Mai T. Dinh, Acting Assistant General Counsel or Dawn M. Odrowski, Attorney, 999 E Street, NW., Washington, DC 20463, (202) 694-1650 or (800) 424-9530.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+        <P>On March 17, 2003, the Federal Election Commission published in the<E T="04">Federal Register</E>final rules governing the Administrative Fines program.<E T="03">See</E>Administrative Fines; final rules, 68 FR 12572 (March 17, 2003). These final rules included a technical amendment to 11 CFR 111.45 to correct a citation to the Federal Claims Collection Standards (&#x201C;the Standards&#x201D;) in response to the revision and recodification of the Standards after the original Administrative Fines regulations were published in May 2000. In the March 17, 2003,<E T="04">Federal Register</E>publication, instruction number 4 incorrectly identified &#x201C;General Accounting Office&#x201D; rather than &#x201C;Government Accounting Office&#x201D; as the language that is removed from 11 CFR 111.45.</P>
+        <REGTEXT PART="111" TITLE="11">
+          <HD SOURCE="HD1">Correction of Publication</HD>
+          <AMDPAR>Accordingly, the publication of final regulations that were the subject of FR Doc. 2003-6, published on March 17, 2003 (68 FR 12572), is corrected as follows:</AMDPAR>
+          <PART>
+            <HD SOURCE="HED">PART 111&#x2014;COMPLIANCE PROCEDURES (2 U.S.C. 437g, 437d(a))</HD>
+          </PART>
+          <AMDPAR>On page 12580, column 1, correct instruction number 4 to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 111.45</SECTNO>
+            <SUBJECT>[Corrected]</SUBJECT>
+            <P>&#x201C;4. Section 111.45 is amended by removing in the second sentence the phrase, &#x2018;4 CFR parts 101 through 105&#x2019; and by adding in its place, &#x2018;31 CFR parts 900 through 904,&#x2019; and by removing in the second sentence the phrase, &#x2018;Government Accounting Office&#x2019; and adding in its place, &#x2018;U.S. Department of the Treasury.&#x2019; &#x201D;</P>
+          </SECTION>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: April 1, 2003.</DATED>
+          <NAME>Ellen L. Weintraub,</NAME>
+          <TITLE>Chair, Federal Election Commission.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 03-8307 Filed 4-4-03; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6715-01-P</BILCOD>
+    </RULE>

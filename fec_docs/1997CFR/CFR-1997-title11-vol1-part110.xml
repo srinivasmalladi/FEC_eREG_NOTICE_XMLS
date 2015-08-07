@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>11</CFRTITLE>
+    <CFRTITLETEXT>Federal Elections</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>1997-01-01</DATE>
+    <ORIGINALDATE>1997-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>CONTRIBUTION AND EXPENDITURE LIMITATIONS AND PROHIBITIONS</TITLE>
+    <GRANULENUM>110</GRANULENUM>
+    <HEADING>PART 110</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="2"/>
+      <PARENT HEADING="" SEQ="1"/>
+      <PARENT HEADING="SUBCHAPTER A" SEQ="0">GENERAL</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR> Pt. 110 </EAR>
+    <HD SOURCE="HED">PART 110—CONTRIBUTION AND EXPENDITURE LIMITATIONS AND PROHIBITIONS</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>110.1</SECTNO>
+      <SUBJECT>Contributions by persons other than multicandidate political committees (2 U.S.C. 441a(a)(1)).</SUBJECT>
+      <SECTNO>110.2</SECTNO>
+      <SUBJECT>Contributions by multi-candi-date political committees (2 U.S.C. 441a(a)(2)).</SUBJECT>
+      <SECTNO>110.3</SECTNO>
+      <SUBJECT>Contribution limitations for affiliated committees and political party committees; Transfers (2 U.S.C. 441a(a)(5), 441a(a)(4)).</SUBJECT>
+      <SECTNO>110.4</SECTNO>
+      <SUBJECT>Prohibited contributions (2 U.S.C. 441e, 441f, 441g, 432(c)(2)).</SUBJECT>
+      <SECTNO>110.5</SECTNO>
+      <SUBJECT>Annual contribution limitation for individuals (2 U.S.C. 441a(a)(3)).</SUBJECT>
+      <SECTNO>110.6</SECTNO>
+      <SUBJECT>Earmarked contributions (2 U.S.C. 441a(a)(8)).</SUBJECT>
+      <SECTNO>110.7</SECTNO>
+      <SUBJECT>Party committee expenditure limitations (2 U.S.C. 441a(d)).</SUBJECT>
+      <SECTNO>110.8</SECTNO>
+      <SUBJECT>Presidential candidate expenditure limitations.</SUBJECT>
+      <SECTNO>110.9</SECTNO>
+      <SUBJECT>Miscellaneous provisions.</SUBJECT>
+      <SECTNO>110.10</SECTNO>
+      <SUBJECT>Expenditures by candidates.</SUBJECT>
+      <SECTNO>110.11</SECTNO>
+      <SUBJECT>Communications; advertising (2 U.S.C. 441d).</SUBJECT>
+      <SECTNO>110.12</SECTNO>
+      <SUBJECT>Candidate appearances on public educational institution premises.</SUBJECT>
+      <SECTNO>110.13</SECTNO>
+      <SUBJECT>Candidate debates.</SUBJECT>
+      <SECTNO>110.14</SECTNO>
+      <SUBJECT>Contributions to and expenditures by delegates and delegate committees.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority: </HD>
+      <P>2 U.S.C. 431(8), 431(9), 432(c)(2), 437d(a)(8), 438(a)(8), 441a, 441b, 441d, 441e, 441f, 441g and 441h.</P>
+    </AUTH>
+    <SECTION>
+      <SECTNO>§ 110.1</SECTNO>
+      <SUBJECT>Contributions by persons other than multicandidate political committees (2 U.S.C. 441a(a)(1)).</SUBJECT>
+      <P>(a) <E T="03">Scope.</E> This section applies to all contributions made by any person as defined in 11 CFR 100.10, except multicandidate political committees as defined in 11 CFR 100.5(e)(3) or entities <PRTPAGE P="118"/>and individuals prohibited from making contributions under 11 CFR 110.4 and 11 CFR parts 114 and 115.</P>
+      <P>(b) <E T="03">Contributions to candidates; designations; and redesignations.</E>
+      </P>
+      <P>(1) No person shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office which, in the aggregate, exceed $1,000.</P>
+      <P>(2) For purposes of this section, <E T="03">with respect to any election</E> means—</P>
+
+      <P>(i) In the case of a contribution designated in writing by the contributor for a particular election, the election so designated. Contributors to candidates are encouraged to designate their contributions in writing for particular elections. <E T="03">See</E> 11 CFR 110.1(b)(4).</P>
+      <P>(ii) In the case of a contribution not designated in writing by the contributor for a particular election, the next election for that Federal office after the contribution is made.</P>
+      <P>(3)(i) A contribution designated in writing for a particular election, but made after that election, shall be made only to the extent that the contribution does not exceed net debts outstanding from such election. To the extent that such contribution exceeds net debts outstanding, the candidate or the candidate's authorized political committee shall return or deposit the contribution within ten days from the date of the treasurer's receipt of the contribution as provided by 11 CFR 103.3(a), and if deposited, then within sixty days from the date of the treasurer's receipt the treasurer shall take the following action, as appropriate:</P>
+      <P>(A) Refund the contribution using a committee check or draft; or</P>
+      <P>(B) Obtain a written redesignation by the contributor for another election in accordance with 11 CFR 110.1(b)(5); or</P>
+      <P>(C) Obtain a written reattribution to another contributor in accordance with 11 CFR 110.1(k)(3).</P>
+      <P>If the candidate is not a candidate in the general election, all contributions made for the general election shall be either returned or refunded to the contributors or redesignated in accordance with 11 CFR 110.1(b)(5), or reattributed in accordance with 11 CFR 110.1(k)(3), as appropriate.</P>
+
+      <P>(ii) In order to determine whether there are net debts outstanding from a particular election, the treasurer of the candidate's authorized political committee shall calculate net debts outstanding as of the date of the election. For purposes of this section, <E T="03">net debts outstanding</E> means the total amount of unpaid debts and obligations incurred with respect to an election, including the estimated cost of raising funds to liquidate debts incurred with respect to the election and, if the candidate's authorized committee terminates or if the candidate will not be a candidate for the next election, estimated necessary costs associated with termination of political activity, such as the costs of complying with the post-election requirements of the Act and other necessary administrative costs associated with winding down the campaign, including office space rental, staff salaries and office supplies, less the sum of:</P>
+      <P>(A) The total cash on hand available to pay those debts and obligations, including: currency; balances on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks; certificates of deposit; treasury bills; and any other committee investments valued at fair market value; and</P>
+      <P>(B) The total amounts owed to the candidate or political committee in the form of credits, refunds of deposits, returns, or receivables, or a commercially reasonable amount based on the collectibility of those credits, refunds, returns, or receivables.</P>
+      <P>(iii) The amount of the net debts outstanding shall be adjusted as additional funds are received and expenditures are made. The candidate and his or her authorized political committee(s) may accept contributions made after the date of the election if such contributions are designated in writing by the contributor for that election and if such contributions do not exceed the adjusted amount of net debts outstanding on the date the contribution is received.</P>
+
+      <P>(iv) This paragraph shall not be construed to prevent a candidate who is a candidate in the general election or his or her authorized political committee(s) from paying primary election debts and obligations with funds which <PRTPAGE P="119"/>represent contributions made with respect to the general election.</P>
+      <P>(4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if—</P>
+      <P>(i) The contribution is made by check, money order, or other negotiable instrument which clearly indicates the particular election with respect to which the contribution is made;</P>
+      <P>(ii) The contribution is accompanied by a writing, signed by the contributor, which clearly indicates the particular election with respect to which the contribution is made; or</P>
+      <P>(iii) The contribution is redesignated in accordance with 11 CFR 110.1(b)(5).</P>
+      <P>(5)(i) The treasurer of an authorized political committee may request a written redesignation of a contribution by the contributor for a different election if—</P>
+      <P>(A) The contribution was designated in writing for a particular election, and the contribution, either on its face or when aggregated with other contributions from the same contributor for the same election, exceeds the limitation on contributions set forth in 11 CFR 110.1(b)(1);</P>
+      <P>(B) The contribution was designated in writing for a particular election and the contribution was made after that election and the contribution cannot be accepted under the net debts outstanding provisions of 11 CFR 110.1(b)(3);</P>
+      <P>(C) The contribution was not designated in writing for a particular election, and the contribution exceeds the limitation on contributions set forth in 11 CFR 110.1(b)(1); or</P>
+      <P>(D) The contribution was not designated in writing for a particular election, and the contribution was received after the date of an election for which there are net debts outstanding on the date the contribution is received.</P>
+      <P>(ii) A contribution shall be considered to be redesignated for another election if—</P>
+      <P>(A) The treasurer of the recipient authorized political committee requests that the contributor provide a written redesignation of the contribution and informs the contributor that the contributor may request the refund of the contribution as an alternative to providing a written redesignation; and</P>
+      <P>(B) Within sixty days from the date of the treasurer's receipt of the contribution, the contributor provides the treasurer with a written redesignation of the contribution for another election, which is signed by the contributor.</P>
+      <P>(iii) A contribution redesignated for another election shall not exceed the limitations on contributions made with respect to that election. A contribution redesignated for a previous election shall be subject to the requirements of 11 CFR 110.1(b)(3) regarding net debts outstanding.</P>
+
+      <P>(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. <E T="03">See</E> 11 CFR 110.1(1)(4). An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.</P>
+      <P>(c) <E T="03">Contributions to political party committees.</E> (1) No person shall make contributions to the political committees established and maintained by a national political party in any calendar year, which, in the aggregate, exceed $20,000.</P>
+      <P>(2) For purposes of this section, <E T="03">political committees established and maintained by a national political party</E> means—</P>
+      <P>(i) The national committee;</P>
+      <P>(ii) The House campaign committee; and</P>
+      <P>(iii) The Senate campaign committee.</P>
+      <P>(3) Each recipient committee referred to in 11 CFR 110.1(c)(2) may receive up to the $20,000 limitation from a contributor, but the limits of 11 CFR 110.5 shall also apply to contributions made by an individual.</P>
+
+      <P>(4) The recipient committee shall not be an authorized political committee of <PRTPAGE P="120"/>any candidate, except as provided in 11 CFR 9002.1(c).</P>
+      <P>(d) <E T="03">Contributions to other political committees.</E> (1) No person shall make contributions to any other political committee in any calendar year which, in the aggregate, exceed $5,000.</P>
+      <P>(2) The limitation on contributions of this paragraph also applies to contributions made to political committees making independent expenditures under 11 CFR part 109.</P>
+      <P>(e) <E T="03">Contributions by partnerships.</E> A contribution by a partnership shall be attributed to the partnership and to each partner—</P>
+      <P>(1) In direct proportion to his or her share of the partnership profits, according to instructions which shall be provided by the partnership to the political committee or candidate; or</P>
+      <P>(2) By agreement of the partners, as long as—</P>
+      <P>(i) Only the profits of the partners to whom the contribution is attributed are reduced (or losses increased), and</P>
+      <P>(ii) These partners’ profits are reduced (or losses increased) in proportion to the contribution attributed to each of them.</P>
+      <FP>A contribution by a partnership shall not exceed the limitations on contributions in 11 CFR 110.1 (b), (c), and (d). No portion of such contribution may be made from the profits of a corporation that is a partner.</FP>
+      <P>(f) <E T="03">Contributions to candidates for more than one Federal office.</E> If an individual is a candidate for more than one Federal office, a person may make contributions which do not exceed $1,000 to the candidate, or his or her authorized political committees for each election for each office, as long as—</P>
+      <P>(1) Each contribution is designated in writing by the contributor for a particular office;</P>
+      <P>(2) The candidate maintains separate campaign organizations, including separate principal campaign committees and separate accounts; and</P>
+      <P>(3) No principal campaign committee or other authorized political committee of that candidate for one election for one Federal office transfers funds to, loans funds to, makes contributions to, or makes expenditures on behalf of another principal campaign committee or other authorized political committee of that candidate for another election for another Federal office, except as provided in 11 CFR 110.3(c)(4).</P>
+      <P>(g) [Reserved]</P>
+      <P>(h) <E T="03">Contributions to committees supporting the same candidate.</E> A person may contribute to a candidate or his or her authorized committee with respect to a particular election and also contribute to a political committee which has supported, or anticipates supporting, the same candidate in the same election, as long as—</P>
+      <P>(1) The political committee is not the candidate's principal campaign committee or other authorized political committee or a single candidate committee;</P>
+      <P>(2) The contributor does not give with the knowledge that a substantial portion will be contributed to, or expended on behalf of, that candidate for the same election; and</P>
+      <P>(3) The contributor does not retain control over the funds.</P>
+      <P>(i) <E T="03">Contributions by spouses and minors.</E> (1) The limitations on contributions of this section shall apply separately to contributions made by each spouse even if only one spouse has income.</P>
+      <P>(2) Minor children (children under 18 years of age) may make contributions to any candidate or political committee which in the aggregate do not exceed the limitations on contributions of this section, if—</P>
+      <P>(i) The decision to contribute is made knowingly and voluntarily by the minor child;</P>
+      <P>(ii) The funds, goods, or services contributed are owned or controlled exclusively by the minor child, such as income earned by the child, the proceeds of a trust for which the child is the beneficiary, or a savings account opened and maintained exclusively in the child's name; and</P>
+      <P>(iii) The contribution is not made from the proceeds of a gift, the purpose of which was to provide funds to be contributed, or is not in any other way controlled by another individual.</P>
+      <P>(j) <E T="03">Application of limitations to elections.</E> (1) The limitations on contributions of this section shall apply separately with respect to each election as defined in 11 CFR 100.2, except that all elections held in a calendar year for the office of President of the United <PRTPAGE P="121"/>States (except a general election for that office) shall be considered to be one election.</P>
+      <P>(2) An election in which a candidate is unopposed is a separate election for the purposes of the limitations on contributions of this section.</P>
+      <P>(3) A primary or general election which is not held because a candidate is unopposed or received a majority of votes in a previous election is a separate election for the purposes of the limitations on contributions of this section. The date on which the election would have been held shall be considered to be the date of the election.</P>
+      <P>(4) A primary election which is not held because a candidate was nominated by a caucus or convention with authority to nominate is not a separate election for the purposes of the limitations on contributions of this section.</P>
+      <P>(k) <E T="03">Joint contributions and reattributions.</E> (1) Any contribution made by more than one person, except for a contribution made by a partnership, shall include the signature of each contributor on the check, money order, or other negotiable instrument or in a separate writing.</P>
+      <P>(2) If a contribution made by more than one person does not indicate the amount to be attributed to each contributor, the contribution shall be attributed equally to each contributor.</P>
+      <P>(3)(i) If a contribution to a candidate or political committee, either on its face or when aggregated with other contributions from the same contributor, exceeds the limitations on contributions set forth in 11 CFR 110.1 (b), (c) or (d), as appropriate, the treasurer of the recipient political committee may ask the contributor whether the contribution was intended to be a joint contribution by more than one person.</P>
+      <P>(ii) A contribution shall be considered to be reattributed to another contributor if—</P>
+      <P>(A) The treasurer of the recipient political committee asks the contributor whether the contribution is intended to be a joint contribution by more than one person, and informs the contributor that he or she may request the return of the excessive portion of the contribution if it is not intended to be a joint contribution; and</P>
+      <P>(B) Within sixty days from the date of the treasurer's receipt of the contribution, the contributors provide the treasurer with a written reattribution of the contribution, which is signed by each contributor, and which indicates the amount to be attributed to each contributor if equal attribution is not intended.</P>
+      <P>(l) <E T="03">Supporting evidence.</E> (1) If a political committee receives a contribution designated in writing for a particular election, the treasurer shall retain a copy of the written designation, as required by 11 CFR 110.1(b)(4) or 110.2(b)(4), as appropriate. If the written designation is made on a check or other written instrument, the treasurer shall retain a full-size photocopy of the check or written instrument.</P>
+      <P>(2) If a political committee receives a written redesignation of a contribution for a different election, the treasurer shall retain the written redesignation provided by the contributor, as required by 11 CFR 110.1(b)(5) or 110.2(b)(5), as appropriate.</P>
+      <P>(3) If a political committee receives a written reattribution of a contribution to a different contributor, the treasurer shall retain the written reattribution signed by each contributor, as required by 11 CFR 110.1(k).</P>
+      <P>(4) If a political committee chooses to rely on a postmark as evidence of the date on which a contribution was made, the treasurer shall retain the envelope or a copy of the envelope containing the postmark and other identifying information.</P>
+      <P>(5) If a political committee does not retain the written records concerning designation required under 11 CFR 110.1(1)(2), the contribution shall not be considered to be designated in writing for a particular election, and the provisions of 11 CFR 110.1(b)(2)(ii) or 110.2(b)(2)(ii) shall apply. If a political committee does not retain the written records concerning redesignation or reattribution required under 11 CFR 110.1(1) (2), (3) or (6), the redesignation or reattribution shall not be effective, and the original designation or attribution shall control.</P>
+
+      <P>(6) For each written redesignation or written reattribution of a contribution <PRTPAGE P="122"/>described in paragraph (b)(5) or paragraph (k)(3) of this section, the political committee shall retain documentation demonstrating when the written redesignation or written reattribution was received. Such documentation shall consist of:</P>
+      <P>(i) A copy of the envelope bearing the postmark and the contributor's name, or return address or other identifying code; or</P>
+      <P>(ii) A copy of the written redesignation or written reattribution with a date stamp indicating the date of the committee's receipt; or</P>
+      <P>(iii) A copy of the written redesignation or written reattribution dated by the contributor.</P>
+      <P>(m) <E T="03">Contributions to delegates and delegate committees.</E> (1) Contributions to delegates for the purpose of furthering their selection under 11 CFR 110.14 are not subject to the limitations of this section.</P>
+      <P>(2) Contributions to delegate committees under 11 CFR 110.14 are subject to the limitations of this section.</P>
+      <CITA>[52 FR 769, Jan. 9, 1987, as amended at 52 FR 35534, Sept. 22, 1987; 54 FR 34110, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 55 FR 2281, Jan. 23, 1990; 56 FR 35911, July 29, 1991; 60 FR 31381, June 15, 1995]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.2</SECTNO>
+      <SUBJECT>Contributions by multicandidate political committees (2 U.S.C. 441a(a)(2)).</SUBJECT>
+      <P>(a)(1) <E T="03">Scope.</E> This section applies to all contributions made by any multicandidate political committee as defined in 11 CFR 100.5(e)(3).</P>
+      <P>(2) <E T="03">Notice to recipients.</E> Each multicandidate committee that makes a contribution under this section shall notify the recipient in writing of its status as a multicandidate committee.</P>
+      <P>(b) <E T="03">Contributions to candidates; designations; and redesignations.</E> (1) No multicandidate political committee shall make contributions to any candidate, his or her authorized political committees or agents with respect to any election for Federal office which, in the aggregate, exceed $5,000.</P>
+      <P>(2) For purposes of this section, <E T="03">with respect to any election</E> means—</P>
+
+      <P>(i) In the case of a contribution designated in writing by the contributor for a particular election, the election so designated. Multicandidate political committees making contributions to candidates are encouraged to designate their contributions in writing for particular elections. <E T="03">See</E> 11 CFR 110.2(b)(4).</P>
+      <P>(ii) In the case of a contribution not designated in writing by the contributor for a particular election, the next election for that Federal office after the contribution is made.</P>
+      <P>(3)(i) A contribution designated in writing for a particular election, but made after that election, shall be made only to the extent that the contribution does not exceed net debts outstanding from such election. To the extent that such contribution exceeds net debts outstanding, the candidate or the candidate's authorized political committee shall return or deposit the contribution within ten days from the date of the treasurer's receipt of the contribution as provided by 11 CFR 103.3(a), and if deposited, then within sixty days from the date of the treasurer's receipt the treasurer shall take the following action, as appropriate:</P>
+      <P>(A) Refund the contribution using a committee check or draft; or</P>
+      <P>(B) Obtain a written redesignation by the contributor for another election in accordance with 11 CFR 110.2(b)(5).</P>
+      <P>If the candidate is not a candidate in the general election, all contributions made for the general election shall be either returned or refunded to the contributors or redesignated in accordance with 11 CFR 110.2(b)(5).</P>
+      <P>(ii) The treasurer of the candidate's authorized political committee shall calculate net debts outstanding in accordance with 11 CFR 110.1(b)(3)(ii). The amount of the net debts outstanding shall be adjusted as additional funds are received and expenditures are made. The candidate and his or her authorized political committee(s) may accept contributions made after the date of the election if such contributions are designated in writing by the contributor for that election and if such contributions do not exceed the adjusted amount of net debts outstanding on the date the contribution is received.</P>
+
+      <P>(4) For purposes of this section, a contribution shall be considered to be designated in writing for a particular election if—<PRTPAGE P="123"/>
+      </P>
+      <P>(i) The contribution is made by check, money order, or other negotiable instrument which clearly indicates the particular election with respect to which the contribution is made;</P>
+      <P>(ii) The contribution is accompanied by a writing, signed by the contributor, which clearly indicates the particular election with respect to which the contribution is made; or</P>
+      <P>(iii) The contribution is redesignated in accordance with 11 CFR 110.2(b)(5).</P>
+      <P>(5)(i) The treasurer of an authorized political committee may request a written redesignation of a contribution by the contributor for a different election if—</P>
+      <P>(A) The contribution was designated in writing for a particular election, and the contribution, either on its face or when aggregated with other contributions from the same contributor for the same election, exceeds the limitation on contributions set forth in 11 CFR 110.2(b)(1);</P>
+      <P>(B) The contribution was designated in writing for a particular election and the contribution was made after that election and the contribution cannot be accepted under the net debts outstanding provisions of 11 CFR 110.2(b)(3);</P>
+      <P>(C) The contribution was not designated in writing for a particular election, and the contribution exceeds the limitation on contributions set forth in 11 CFR 110.2(b)(1); or</P>
+      <P>(D) The contribution was not designated in writing for a particular election and the contribution was received after the date of an election for which there are net debts outstanding on the date the contribution is received.</P>
+      <P>(ii) A contribution shall be considered to be redesignated for another election if—</P>
+      <P>(A) The treasurer of the recipient authorized political committee requests that the contributor provide a written redesignation of the contribution and informs the contributor that the contributor may request the refund of the contribution as an alternative to providing a written redesignation; and</P>
+      <P>(B) Within sixty days from the date of the treasurer's receipt of the contribution, the contributor provides the treasurer with a written redesignation of the contribution for another election, which is signed by the contributor.</P>
+      <P>(iii) A contribution redesignated for another election shall not exceed the limitations on contributions made with respect to that election. A contribution redesignated for a previous election shall be subject to the requirements of 11 CFR 110.2(b)(3) regarding net debts outstanding.</P>
+
+      <P>(6) For the purposes of this section, a contribution shall be considered to be made when the contributor relinquishes control over the contribution. A contributor shall be considered to relinquish control over the contribution when it is delivered by the contributor to the candidate, to the political committee, or to an agent of the political committee. A contribution that is mailed to the candidate, or to the political committee or to an agent of the political committee, shall be considered to be made on the date of the postmark. <E T="03">See</E> 11 CFR 110.1(1)(4). An in-kind contribution shall be considered to be made on the date that the goods or services are provided by the contributor.</P>
+      <P>(c) <E T="03">Contributions to political party committees.</E> (1) No multicandidate political committee shall make contributions to the political committees established and maintained by a national political party in any calendar year which, in the aggregate, exceed $15,000.</P>
+      <P>(2) For purposes of this section, <E T="03">political committees established and maintained by a national political party</E> means—</P>
+      <P>(i) The national committee;</P>
+      <P>(ii) The House campaign committee; and</P>
+      <P>(iii) The Senate campaign committee.</P>
+      <P>(3) Each recipient committee referred to in 11 CFR 110.2(c)(2) may receive up to the $15,000 limitation from a multicandidate political committee.</P>
+      <P>(4) The recipient committee shall not be an authorized political committee of any candidate, except as provided in 11 CFR 9002.1(c).</P>
+      <P>(d) <E T="03">Contributions to other political committees.</E> (1) No multicandidate political committee shall make contributions to any other political committee in any calendar year which, in the aggregate, exceed $5,000.<PRTPAGE P="124"/>
+      </P>
+      <P>(2) The limitation on contributions of this paragraph also applies to contributions made to political committees making independent expenditures under 11 CFR part 109.</P>
+      <P>(e) <E T="03">Contributions by political party committees to Senatorial candidates.</E> Notwithstanding any other provision of the Act, or of these regulations, the Republican and Democratic Senatorial campaign committees, or the national committee of a political party, may make contributions of not more than a combined total of $17,500 to a candidate for nomination or election to the Senate during the calendar year of the election for which he or she is a candidate. Any contribution made by such committee to a Senatorial candidate under this paragraph in a year other than the calendar year in which the election is held shall be considered to be made during the calendar year in which the election is held.</P>
+      <P>(f) <E T="03">Contributions to candidates for more than one Federal office.</E> If an individual is a candidate for more than one Federal office, a multicandidate political committee may make contributions which do not exceed $5,000 to the candidate, or his or her authorized political committees for each election for each office, provided that the requirements set forth in 11 CFR 110.1(f)(1), (2), and (3) are satisfied.</P>
+      <P>(g) <E T="03">Contributions to retire pre-1975 debts.</E> Contributions made to retire debts resulting from elections held prior to January 1, 1975 are not subject to the limitations of 11 CFR part 110, as long as contributions and solicitations to retire these debts are designated in writing and used for that purpose. Contributions made to retire debts resulting from elections held after December 31, 1974 are subject to the limitations of 11 CFR part 110.</P>
+      <P>(h) <E T="03">Contributions to committees supporting the same candidate.</E> A multicandidate political committee may contribute to a candidate or his or her authorized committee with respect to a particular election and also contribute to a political committee which has supported, or anticipates supporting, the same candidate in the same election, as long as—</P>
+      <P>(1) The recipient political committee is not the candidate's principal campaign committee or other authorized political committee or a single candidate committee;</P>
+      <P>(2) The multicandidate political committee does not give with the knowledge that a substantial portion will be contributed to, or expended on behalf of, that candidate for the same election; and</P>
+      <P>(3) The multicandidate political committee does not retain control over the funds.</P>
+      <P>(i) <E T="03">Application of limitations to elections.</E> (1) The limitations on contributions of this section (other than paragraph (e) of this section) shall apply separately with respect to each election as defined in 11 CFR 100.2, except that all elections held in a calendar year for the office of President of the United States (except a general election for that office) shall be considered to be one election.</P>
+      <P>(2) An election in which a candidate is unopposed is a separate election for the purposes of the limitations on contributions of this section.</P>
+      <P>(3) A primary or general election which is not held because a candidate is unopposed or received a majority of votes in a previous election is a separate election for the purposes of the limitations on contributions of this section. The date on which the election would have been held shall be considered to be the date of the election.</P>
+      <P>(4) A primary election which is not held because a candidate was nominated by a caucus or convention with authority to nominate is not a separate election for the purposes of the limitations on contributions of this section.</P>
+      <P>(j) <E T="03">Contributions to delegates and delegate committees.</E> (1) Contributions to delegates for the purpose of furthering their selection under 11 CFR 110.14 are not subject to the limitations of this section.</P>
+      <P>(2) Contributions to delegate committees under 11 CFR 110.14 are subject to the limitations of this section.</P>
+
+      <CITA>[52 FR 772, Jan. 9, 1987, as amended at 52 FR 35534, Sept. 22, 1987; 58 FR 42173, Aug. 6, 1993]<PRTPAGE P="125"/>
+      </CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.3</SECTNO>
+      <SUBJECT>Contribution limitations for affiliated committees and political party committees; Transfers (2 U.S.C. 441a(a)(5), 441a(a)(4)).</SUBJECT>
+      <P>(a) <E T="03">Contribution limitations for affiliated committees.</E> (1) For the purposes of the contribution limitations of 11 CFR 110.1 and 110.2, all contributions made or received by more than one affiliated committee, regardless of whether they are political committees under 11 CFR 100.5, shall be considered to be made or received by a single political committee. <E T="03">See</E> 11 CFR 100.5(g). Application of this paragraph means that all contributions made or received by the following committees shall be considered to be made or received by a single political committee—</P>
+      <P>(i) Authorized committees of the same candidate for the same election to Federal office; or</P>
+      <P>(ii) Committees (including a separate segregated fund, <E T="03">see</E> 11 CFR part 114) established, financed, maintained or controlled by the same corporation, labor organization, person or group of persons, including any parent, subsidiary, branch, division, department or local unit thereof. For the purposes of this section, <E T="03">local unit</E> may include, in appropriate cases, a franchisee, licensee, or State or regional association.</P>
+      <P>(2) Affiliated committees sharing a single contribution limitation under paragraph (a)(1)(ii) of this section include all of the committees established, financed, maintained or controlled by—</P>
+      <P>(i) A single corporation and/or its subsidiaries;</P>
+      <P>(ii) A single national or international union and/or its local unions or other subordinate organizations;</P>
+      <P>(iii) An organization of national or international unions and/or all its State and local central bodies;</P>
+
+      <P>(iv) A membership organization, (other than political party committees, <E T="03">see</E> paragraph (b) of this section) including trade or professional associations, <E T="03">see</E> 11 CFR 114.8(a), and/or related State and local entities of that organization or group; or</P>
+      <P>(v) The same person or group of persons.</P>
+      <P>(3)(i) The Commission may examine the relationship between organizations that sponsor committees, between the committees themselves, or between one sponsoring organization and a committee established by another organization to determine whether committees are affiliated.</P>
+      <P>(ii) In determining whether committees not described in paragraphs (a)(2) (i)-(iv) of this section are affiliated, the Commission will consider the circumstantial factors described in paragraphs (a)(3)(ii) (A) through (J) of this section. The Commission will examine these factors in the context of the overall relationship between committees or sponsoring organizations to determine whether the presence of any factor or factors is evidence of one committee or organization having been established, financed, maintained or controlled by another committee or sponsoring organization. Such factors include, but are not limited to:</P>
+      <P>(A) Whether a sponsoring organization owns a controlling interest in the voting stock or securities of the sponsoring organization of another committee;</P>
+      <P>(B) Whether a sponsoring organization or committee has the authority or ability to direct or participate in the governance of another sponsoring organization or committee through provisions of constitutions, bylaws, contracts, or other rules, or through formal or informal practices or procedures;</P>
+      <P>(C) Whether a sponsoring organization or committee has the authority or ability to hire, appoint, demote or otherwise control the officers, or other decisionmaking employees or members of another sponsoring organization or committee;</P>
+      <P>(D) Whether a sponsoring organization or committee has a common or overlapping membership with another sponsoring organization or committee which indicates a formal or ongoing relationship between the sponsoring organizations or committees;</P>
+
+      <P>(E) Whether a sponsoring organization or committee has common or overlapping officers or employees with another sponsoring organization or committee which indicates a formal or ongoing relationship between the sponsoring organizations or committees;<PRTPAGE P="126"/>
+      </P>
+      <P>(F) Whether a sponsoring organization or committee has any members, officers or employees who were members, officers or employees of another sponsoring organization or committee which indicates a formal or ongoing relationship between the sponsoring organizations or committees, or which indicates the creation of a successor entity;</P>
+      <P>(G) Whether a sponsoring organization or committee provides funds or goods in a significant amount or on an ongoing basis to another sponsoring organization or committee, such as through direct or indirect payments for administrative, fundraising, or other costs, but not including the transfer to a committee of its allocated share of proceeds jointly raised pursuant to 11 CFR 102.17;</P>
+      <P>(H) Whether a sponsoring organization or committee causes or arranges for funds in a significant amount or on an ongoing basis to be provided to another sponsoring organization or committee, but not including the transfer to a committee of its allocated share of proceeds jointly raised pursuant to 11 CFR 102.17;</P>
+      <P>(I) Whether a sponsoring organization or a committee or its agent had an active or significant role in the formation of another sponsoring organization or committee; and</P>
+      <P>(J) Whether the sponsoring organizations or committees have similar patterns of contributions or contributors which indicates a formal or ongoing relationshp between the sponsoring organizations or committees.</P>
+      <P>(b) <E T="03">Contribution limitations for political party committees.</E> (1) For the purposes of the contribution limitations of 11 CFR 110.1 and 110.2, all contributions made or received by the following political committees shall be considered to be made or received by separate political committees—</P>
+      <P>(i) The national committee of a political party and any political committees established, financed, maintained, or controlled by the same national committee; and</P>
+      <P>(ii) The State committee of the same political party.</P>
+      <P>(2) Application of paragraph (b)(1)(i) of this section means that—</P>
+      <P>(i) The House campaign committee and the national committee of a political party shall have separate limitations on contributions under 11 CFR 110.1 and 110.2.</P>
+      <P>(ii) The Senate campaign committee and the national committee of a political party shall have separate limitations on contributions, except that contributions to a senatorial candidate made by the Senate campaign committee and the national committee of a political party are subject to a single contribution limitation under 11 CFR 110.2(e).</P>
+      <P>(3) All contributions made by the political committees established, financed, maintained, or controlled by a State party committee and by subordinate State party committees shall be presumed to be made by one political committee. This presumption shall not apply if—</P>
+      <P>(i) The political committee of the party unit in question has not received funds from any other political committee established, financed, maintained, or controlled by any party unit; and</P>
+      <P>(ii) The political committee of the party unit in question does not make its contributions in cooperation, consultation or concert with, or at the request or suggestion of any other party unit or political committee established, financed, maintained, or controlled by another party unit.</P>
+      <P>(c) <E T="03">Permissible Transfers.</E> The contribution limitations of 11 CFR 110.1 and 110.2 shall not limit the transfers set forth below in 11 CFR 110.3(c) (1) through (6)—</P>
+      <P>(1) Transfers of funds between affiliated committees or between party committees of the same political party whether or not they are affiliated or by collecting agents to a separate segregated fund made pursuant to 11 CFR 102.6;</P>
+      <P>(2) Transfers of joint fundraising proceeds between organizations or committees participating in the joint fundraising activity provided that no participating committee or organization governed by 11 CFR 102.17 received more than its allocated share of the funds raised;</P>
+
+      <P>(3) Transfers of funds between the primary campaign and general election <PRTPAGE P="127"/>campaign of a candidate of funds unused for the primary;</P>
+      <P>(4) Transfers of funds between a candidate's previous Federal campaign committee and his or her current Federal campaign committee, or between previous Federal campaign committees, provided that the candidate is not a candidate for more than one Federal office at the same time, and provided that the funds transferred are not composed of contributions that would be in violation of the Act. The cash on hand from which the transfer is made shall be considered to consist of the funds most recently received by the transferor committee. The transferor committee must be able to demonstrate that such cash on hand contains sufficient funds at the time of the transfer that comply with the limitations and prohibitions of the Act to cover the amount transferred.</P>
+      <P>(i) <E T="03">Previous Federal campaign committee</E> means a principal campaign committee, or other authorized committee, that was organized to further the candidate's campaign in a Federal election that has already been held.</P>
+      <P>(ii) <E T="03">Current Federal campaign committee</E> means a principal campaign committee, or other authorized committee, organized to further the candidate's campaign in a future Federal election.</P>
+      <P>(iii) For purposes of the contribution limits, a contribution made after an election has been held, or after an individual ceases to be a candidate in an election, shall be aggregated with other contributions from the same contributor for the next election unless the contribution is designated for the previous election, or is designated for another election, and the candidate has net debts outstanding for the election so designated pursuant to 11 CFR 110.1(b)(3).</P>
+      <P>(iv) For purposes of this section, an individual ceases to be a candidate in an election as of the earlier of the following dates—</P>
+      <P>(A) The date on which the candidate publicly announces that he or she will no longer be a candidate in that election for that office and ceases to conduct campaign activities with respect to that election; or</P>
+      <P>(B) The date on which the candidate is or becomes ineligible for nomination or election to that office by operation of law;</P>
+      <P>(5) Transfers of funds between the principal campaign committees of an individual seeking nomination or election to more than one Federal office, as long as the conditions in 11 CFR 110.3(c)(5) (i), (ii) and (iii) are met. An individual will be considered to be seeking nomination or election to more than one Federal office if the individual is concurrently a candidate for more than one Federal office during the same or overlapping election cycles.</P>
+      <P>(i) The transfer shall not be made when the individual is actively seeking nomination or election to more than one Federal office. An individual will not be considered to be actively seeking nomination or election to a Federal office if:</P>
+      <P>(A) The individual publicly announces that he or she will no longer seek nomination or election to that office and ceases to conduct campaign activities with respect to that election, except in connection with the retirement of debts outstanding at the time of the announcement;</P>
+      <P>(B) The individual is or becomes ineligible for nomination or election to that office by operation of law;</P>
+      <P>(C) The individual has filed a proper termination report with the Commission under 11 CFR 102.3; or</P>
+      <P>(D) The individual has notified the Commission in writing that the individual and his or her authorized committees will conduct no further campaign activities with respect to that election, except in connection with the retirement of debts outstanding at the time of the notification;</P>
+
+      <P>(ii) The limitations on contributions by persons shall not be exceeded by the transfer. The cash on hand from which the transfer is made shall be considered to consist of the funds most recently received by the transferor committee. The transferor committee must be able to demonstrate that such cash on hand contains sufficient funds at the time of the transfer that comply with the limitations and prohibitions of the Act to cover the amount transferred. A contribution shall be excluded from the amount transferred to the extent that such contribution, when aggregated <PRTPAGE P="128"/>with other contributions from the same contributor to the transferee principal campaign committee, exceeds the contribution limits set forth at 11 CFR 110.1 or 110.2, as appropriate; and</P>
+      <P>(iii) The candidate has not elected to receive funds under 26 U.S.C. 9006 or 9037 for either election; or</P>
+      <P>(6) [Reserved]</P>
+      <P>(7) The authorized committees of a candidate for more than one Federal office, or for a Federal office and a nonfederal office, shall follow the requirements for separate campaign organizations set forth at 11 CFR 110.8(d).</P>
+      <P>(d) <E T="03">Transfers from nonfederal to federal campaigns.</E> Transfers of funds or assets from a candidate's campaign committee or account for a nonfederal election to his or her principal campaign committee or other authorized committee for a federal election are prohibited. However, at the option of the nonfederal committee, the nonfederal committee may refund contributions, and may coordinate arrangements with the candidate's principal campaign committee or other authorized committee for a solicitation by such committee(s) to the same contributors. The full cost of this solicitation shall be paid by the Federal committee.</P>
+      <CITA>[54 FR 34110, Aug. 17, 1989, and 54 FR 48580, Nov. 24, 1989; 58 FR 3476, Jan. 8, 1993]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.4</SECTNO>
+      <SUBJECT>Prohibited contributions (2 U.S.C. 441e, 441f, 441g, 432(c)(2)).</SUBJECT>
+      <P>(a) <E T="03">Contributions or expenditures by foreign nationals.</E> (1) A foreign national shall not directly or through any other person make a contribution, or an expenditure, or expressly or impliedly promise to make a contribution, or an expenditure, in connection with a convention, a caucus, or a primary, general, special, or runoff election in connection with any local, State, or Federal public office.</P>
+      <P>(2) No person shall solicit, accept, or receive a contribution as set out above from a foreign national.</P>
+      <P>(3) A foreign national shall not direct, dictate, control, or directly or indirectly participate in the decision-making process of any person, such as a corporation, labor organization, or political committee, with regard to such person's Federal or nonfederal election-related activities, such as decisions concerning the making of contributions or expenditures in connection with elections for any local, State, or Federal office or decisions concerning the administration of a political committee.</P>
+      <P>(4) For purposes of this section, <E T="03">foreign national</E> means—</P>
+      <P>(i) A foreign principal, as defined in 22 U.S.C. 611(b); or</P>
+      <P>(ii) An individual who is not a citizen of the United States and who is not lawfully admitted for permanent residence, as defined in 8 U.S.C. 1101(a)(20);</P>
+      <P>(iii) Except that <E T="03">foreign national</E> shall not include any individual who is a citizen of the United States.</P>
+      <P>(b) <E T="03">Contributions in the name of another.</E> (1) No person shall—</P>
+      <P>(i) Make a contribution in the name of another;</P>
+      <P>(ii) Knowingly permit his or her name to be used to effect that contribution;</P>
+      <P>(iii) Knowingly help or assist any person in making a contribution in the name of another; or</P>
+      <P>(iv) Knowingly accept a contribution made by one person in the name of another.</P>
+      <P>(2) Examples of <E T="03">contributions in the name of another</E> include—</P>
+
+      <P>(i) Giving money or anything of value, all or part of which was provided to the contributor by another person (the true contributor) without disclosing the source of money or the thing of value to the recipient candidate or committee at the time the contribution is made, <E T="03">see</E> 11 CFR 110.6; or</P>
+      <P>(ii) Making a contribution of money or anything of value and attributing as the source of the money or thing of value another person when in fact the contributor is the source.</P>
+      <P>(c) <E T="03">Cash contributions.</E> (1) With respect to any campaign for nomination for election or election to Federal office, no person shall make contributions to a candidate or political committee of currency of the United States, or of any foreign country, which in the aggregate exceed $100.</P>
+      <P>(2) A candidate or committee receiving a cash contribution in excess of $100 shall promptly return the amount over $100 to the contributor.</P>
+
+      <P>(3) A candidate or committee receiving an anonymous cash contribution in <PRTPAGE P="129"/>excess of $50 shall promptly dispose of the amount over $50. The amount over $50 may be used for any lawful purpose unrelated to any Federal election, campaign, or candidate.</P>
+      <CITA>[54 FR 34112, Aug. 17, 1989, and 54 FR 48580, Nov. 24, 1989, as amended at 54 FR 48582, Nov. 24, 1989; 55 FR 1139, Jan. 11, 1990]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.5</SECTNO>
+      <SUBJECT>Annual contribution limitation for individuals (2 U.S.C. 441a(a)(3)).</SUBJECT>
+      <P>(a) <E T="03">Scope.</E> This section applies to all contributions made by any individual, except individuals prohibited from making contributions under 11 CFR 110.4 and 11 CFR part 115.</P>
+      <P>(b) <E T="03">Annual limitation.</E> No individual shall make contributions in any calendar year which aggregate more than $25,000.</P>
+      <P>(c) <E T="03">Contributions made in a nonelection year.</E> (1) For the purposes of this section, <E T="03">nonelection year</E> means a year other than the calendar year in which a particular election is held.</P>
+      <P>(2) For purposes of this section, any contribution to a candidate or his or her authorized committee with respect to a particular election made in a nonelection year shall be considered to be made during the calendar year in which such election is held.</P>
+      <P>(3) For purposes of this section, any contribution to an unauthorized committee which is made in a nonelection year shall not be considered to be made during the calendar year in which an election is held unless:</P>
+      <P>(i) The political committee is a single candidate committee which has supported or anticipates supporting the candidate; or</P>
+      <P>(ii) The contribution is earmarked by the contributor for a particular candidate with respect to a particular election.</P>
+      <P>(d) <E T="03">Independent expenditures.</E> The annual limitation on contributions in this section applies to contributions made to persons, including political committees, making independent expenditures under 11 CFR part 109.</P>
+      <P>(e) <E T="03">Contributions to delegates and delegate committees.</E> The annual limitation on contributions in this section applies to contributions to delegates and delegate committees under 11 CFR 110.14.</P>
+      <CITA>[54 FR 34112, Aug. 17, 1989 and 54 FR 48580, Nov. 24, 1989]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.6</SECTNO>
+      <SUBJECT>Earmarked contributions (2 U.S.C. 441a(a)(8)).</SUBJECT>
+      <P>(a) <E T="03">General.</E> All contributions by a person made on behalf of or to a candidate, including contributions which are in any way earmarked or otherwise directed to the candidate through an intermediary or conduit, are contributions from the person to the candidate.</P>
+      <P>(b) <E T="03">Definitions.</E> (1) For purposes of this section, <E T="03">earmarked</E> means a designation, instruction, or encumbrance, whether direct or indirect, express or implied, oral or written, which results in all or any part of a contribution or expenditure being made to, or expended on behalf of, a clearly identified candidate or a candidate's authorized committee.</P>
+      <P>(2) For purposes of this section, <E T="03">conduit or intermediary</E> means any person who receives and forwards an earmarked contribution to a candidate or a candidate's authorized committee, except as provided in paragraph (b)(2)(i) of this section.</P>
+      <P>(i) For purposes of this section, the following persons shall not be considered to be conduits or intermediaries:</P>
+      <P>(A) An individual who is an employee or a full-time volunteer working for the candidate's authorized committee, provided that the individual is not acting in his or her capacity as a representative of an entity prohibited from making contributions;</P>
+      <P>(B) A fundraising representative conducting joint fundraising with the candidate's authorized committee pursuant to 11 CFR 102.17 or 9034.8;</P>
+      <P>(C) An affiliated committee, as defined in 11 CFR 100.5(g);</P>
+      <P>(D) A commercial fundraising firm retained by the candidate or the candidate's authorized committee to assist in fundraising; and</P>
+      <P>(E) An individual who is expressly authorized by the candidate or the candidate's authorized committee to engage in fundraising, and who occupies a significant position within the candidate's campaign organization, provided that the individual is not acting in his or her capacity as a representative of an entity prohibited from making contributions.</P>
+
+      <P>(ii) Any person who is prohibited from making contributions or expenditures in connection with an election <PRTPAGE P="130"/>for Federal office shall be prohibited from acting as a conduit for contributions earmarked to candidates or their authorized committees. The provisions of this section shall not restrict the ability of an organization or committee to serve as a collecting agent for a separate segregated fund pursuant to 11 CFR 102.6.</P>
+      <P>(iii) Any person who receives an earmarked contribution shall forward such earmarked contribution to the candidate or authorized committee in accordance with 11 CFR 102.8, except that—</P>
+      <P>(A) A fundraising representative shall follow the joint fundraising procedures set forth at 11 CFR 102.17.</P>
+      <P>(B) A person who is prohibited from acting as a conduit pursuant to paragraph (b)(2)(ii) of this section shall return the earmarked contribution to the contributor.</P>
+      <P>(c) <E T="03">Reporting of earmarked contributions—</E>(1) <E T="03">Reports by conduits and intermediaries.</E> (i) The intermediary or conduit of the earmarked contribution shall report the original source and the recipient candidate or authorized committee to the Commission or the Secretary of the Senate, as appropriate (see 11 CFR part 105), and to the recipient candidate or authorized committee.</P>
+      <P>(ii) The report to the Commission or Secretary shall be included in the conduit's or intermediary's report for the reporting period in which the earmarked contribution was received, or, if the conduit or intermediary is not required to report under 11 CFR part 104, by letter to the Commission within thirty days after forwarding the earmarked contribution.</P>
+      <P>(iii) The report to the recipient candidate or authorized committee shall be made when the earmarked contribution is forwarded to the recipient candidate or authorized committee pursuant to 11 CFR 102.8.</P>
+      <P>(iv) The report by the conduit or intermediary shall contain the following information:</P>
+      <P>(A) The name and mailing address of each contributor and, for each earmarked contribution in excess of $200, the contributor's occupation and the name of his or her employer;</P>
+      <P>(B) The amount of each earmarked contribution, the date received by the conduit, and the intended recipient as designated by the contributor; and</P>
+      <P>(C) The date each earmarked contribution was forwarded to the recipient candidate or authorized committee and whether the earmarked contribution was forwarded in cash or by the contributor's check or by the conduit's check.</P>
+      <P>(v) For each earmarked contribution passed through the conduit's or intermediary's account, the information specified in paragraph (c)(1)(iv) (A) through (C) of this section shall be itemized on the appropriate schedules of receipts and disbursements attached to the conduit's or intermediary's report, or shall be disclosed by letter, as appropriate. For each earmarked contribution forwarded in the form of the contributor's check or other written instrument, the information specified in paragraph (c)(1)(iv) (A) through (C) of this section shall be disclosed as a memo entry on the appropriate schedules of receipts and disbursements attached to the conduit's or intermediary's report, or shall be disclosed by letter, as appropriate.</P>
+      <P>(2) <E T="03">Reports by recipient candidates and authorized committees.</E> (i) The recipient candidate or authorized committee shall report each conduit or intermediary who forwards one or more earmarked contributions which in the aggregate exceed $200 in any calendar year.</P>
+      <P>(ii) The report by the recipient candidate or authorized committee shall contain the following information:</P>
+      <P>(A) The identification of the conduit or intermediary, as defined in 11 CFR 100.12;</P>
+      <P>(B) The total amount of earmarked contributions received from the conduit or intermediary and the date of receipt; and</P>
+      <P>(C) The information required under 11 CFR 104.3(a) (3) and (4) for each earmarked contribution which in the aggregate exceeds $200 in any calendar year.</P>
+
+      <P>(iii) The information specified in paragraph (c)(2)(ii) (A) through (C) of <PRTPAGE P="131"/>this section shall be itemized on Schedule A attached to the report for the reporting period in which the earmarked contribution is received.</P>
+      <P>(d) <E T="03">Direction or control.</E> (1) A conduit's or intermediary's contribution limits are not affected by the forwarding of an earmarked contribution except where the conduit or intermediary exercises any direction or control over the choice of the recipient candidate.</P>
+      <P>(2) If a conduit or intermediary exercises any direction or control over the choice of the recipient candidate, the earmarked contribution shall be considered a contribution by both the original contributor and the conduit or intermediary. If the conduit or intermediary exercises any direction or control over the choice of the recipient candidate, the report filed by the conduit or intermediary and the report filed by the recipient candidate or authorized committee shall indicate that the earmarked contribution is made by both the original contributor and the conduit or intermediary, and that the entire amount of the contribution is attributed to each.</P>
+      <CITA>[54 FR 34113, Aug. 17, 1989 and 54 FR 48580, Nov. 24, 1989; 61 FR 3550, Feb. 1, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.7</SECTNO>
+      <SUBJECT>Party committee expenditure limitations (2 U.S.C. 441a(d)).</SUBJECT>
+      <P>(a)(1) The national committee of a political party may make expenditures in connection with the general election campaign of any candidate for President of the United States affiliated with the party.</P>
+      <P>(2) The expenditures shall not exceed an amount equal to 2 cents multiplied by the voting age population of the United States.</P>
+      <P>(3) Any expenditure under this paragraph (a) shall be in addition to—</P>
+      <P>(i) Any expenditure by a national committee of a political party serving as the principal campaign committee of a candidate for President of the United States; and</P>
+      <P>(ii) Any contribution by the national committee to the candidate permissible under § 110.1 or § 110.2.</P>
+      <P>(4) The national committee of a political party may make expenditures authorized by this section through any designated agent, including State and subordinate party committees.</P>
+      <P>(5) The national committee of a political party may not make independent expenditures (see part 109) in connection with the general election campaign of a candidate for President of the United States.</P>
+      <P>(6) Any expenditures made by the national, state and subordinate committees of a political party pursuant to 11 CFR 110.7(a) on behalf of that party's Presidential candidate shall not count against the candidate's expenditure limitations under 11 CFR 110.8.</P>
+      <P>(b)(1) The national committee of a political party, and a State committee of a political party, including any subordinate committee of a State committee, may each make expenditures in connection with the general election campaign of a candidate for Federal office in that State who is affiliated with the party.</P>
+      <P>(2) The expenditures shall not exceed—</P>
+      <P>(i) In the case of a candidate for election to the office of Senator, or of Representative from a State which is entitled to only one Representative, the greater of—</P>
+      <P>(A) Two cents multiplied by the voting age population of the State; or</P>
+      <P>(B) Twenty thousand dollars; and</P>
+      <P>(ii) In the case of a candidate for election to the office of Representative, Delegate, or Resident Commissioner in any other State, $10,000.</P>
+      <P>(3) Any expenditure under paragraph (b) shall be in addition to any contribution by a committee to the candidate permissible under § 110.1 or § 110.2.</P>
+      <P>(c) For limitation purposes, State committee includes subordinate State committees. State committees and subordinate State committees combined shall not exceed the limits in paragraph (b)(2) of this section. To ensure compliance with the limitations, the State committee shall administer the limitation in one of the following ways:</P>
+
+      <P>(1) The State central committee shall be responsible for insuring that the expenditures of the entire party organization are within the limitations, including receiving reports from any subordinate committee making expenditures under paragraph (b) of this section, and filing consolidated reports showing all <PRTPAGE P="132"/>expenditures in the State with the Commission; or</P>
+
+      <P>(2) Any other method, submitted in advance and approved by the Commission which permits control over expenditures.
+      </P>
+      <EXTRACT>
+        <FP>(2 U.S.C. 438(a)(8), 441a, 441d, 441e, 441f, 441g, 441h, 441i)</FP>
+      </EXTRACT>
+      <CITA>[41 FR 35948, Aug. 25, 1976, as amended at 45 FR 15119, Mar. 7, 1980; 45 FR 27435, Apr. 23, 1980; 45 FR 43387, June 27, 1980; 61 FR 40961, Aug. 7, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.8</SECTNO>
+      <SUBJECT>Presidential candidate expenditure limitations.</SUBJECT>
+      <P>(a) No candidate for the office of President of the United States who is eligible under 26 U.S.C. 9003 (relating to conditions for eligibility for payments) or under 26 U.S.C. 9033 (relating to eligibility for payments) to receive payments from the Secretary of the Treasury and has received payments, may make expenditures in excess of—</P>
+      <P>(1) $10,000,000 in the case of a campaign for nomination for election to the office, except the aggregate of expenditures under this paragraph in any one State shall not exceed the greater of 16 cents multiplied by the voting age population of the State or $200,000; or</P>
+      <P>(2) $20,000,000 in the case of a campaign for election to the office.</P>
+      <P>(b) The expenditure limitations shall not be considered violated if, after the date of the primary or general election, convention or caucus, receipt of refunds and rebates causes a candidate's expenditures to be within the limitations.</P>
+      <P>(c) For the State limitations in paragraph (a)(1) of this section—</P>
+      <P>(1) Expenditures made in a State after the date of the primary election, convention or caucus relating to the primary election, convention or caucus count toward that State's expenditure limitation;</P>
+      <P>(2) The candidate may treat an amount that does not exceed 50% of the candidate's total expenditures allocable to a particular State under 11 CFR 106.2 as exempt fundraising expenses, and may exclude this amount from the candidate's total expenditures attributable to the expenditure limitations for that State. The candidate may treat 100% of the cost of mass mailings as exempt fundraising expenses, unless the mass mailings were mailed within 28 days before the state's primary election, convention or caucus. The total of all amounts excluded for exempt fundraising expenses shall not exceed 20% of the overall expenditure limitation under 11 CFR 9035.1.</P>
+      <P>(d)(1) If an individual is a candidate for more than one Federal office, or for a Federal office and a State office, he or she must designate separate principal campaign committees and establish completely separate campaign organizations.</P>
+      <P>(2) No funds, goods, or services, including loans and loan guarantees, may be transferred between or used by the separate campaigns, except as provided in 11 CFR 110.3(c)(5).</P>
+      <P>(3) Except for Presidential candidates receiving Presidential Primary Matching Funds, see 26 U.S.C. 9032, or General Election Public Financing, see 26 U.S.C. 9002, campaigns may share personnel and facilities, as long as expenditures are allocated between the campaigns, and the payment made from each campaign account reflects the allocation.</P>
+      <P>(e)(1) A political party may make reimbursement for the expenses of a candidate who is engaging in party-building activities, without the payment being considered a contribution to the candidate, and without the unreimbursed expense being considered an expenditure counting against the limitations in paragraph (a)(1) or (2) of this section, as long as—</P>
+      <P>(i) The event is a bona fide party event or appearance; and</P>
+      <P>(ii) No aspect of the solicitation for the event, the setting of the event, and the remarks or activities of the candidate in connection with the event were for the purpose of influencing the candidate's nomination or election.</P>
+      <P>(2)(i) An event or appearance meeting the requirements of paragraph (e)(1) of this section and occurring prior to January 1 of the year of the election for which the individual is a candidate is presumptively party-related;</P>
+
+      <P>(ii) Notwithstanding the requirements of paragraph (e)(1) of this section, an event or appearance occurring on or after January 1 of the year of the election for which the individual is a <PRTPAGE P="133"/>candidate is presumptively for the purpose of influencing the candidate's election, and any contributions or expenditures are governed by the contribution and expenditure limitations of this part 110.</P>
+      <P>(iii) The presumptions in paragraphs (e)(2)(i) and (ii) of this section may be rebutted by a showing to the Commission that the appearance or event was, or was not, party-related, as the case may be.</P>
+      <P>(f)(1) Expenditures made by or on behalf of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be expenditures made by or on behalf of the candidate of such party for election to the office of President of the United States.</P>
+      <P>(2) Expenditures from personal funds made by a candidate for Vice President shall be considered to be expenditures by the candidate for President, if the candidate is receiving General Election Public Financing, see § 9003.2(c).</P>
+      <P>(g) An expenditure is made on behalf of a candidate, including a Vice-Presidential candidate, if it is made by—</P>
+      <P>(1) An authorized committee or any other agent of the candidate for purposes of making any expenditure;</P>
+      <P>(2) Any person authorized or requested by the candidate, an authorized committee of the candidate, or an agent of the candidate to make the expenditure; or</P>
+      <P>(3) A committee not authorized in writing, so long as it is requested by the candidate, an authorized committee of the candidate, or an agent of the candidate to make the expenditure.</P>
+      <CITA>[41 FR 35948, Aug. 25, 1976, as amended at 45 FR 21210, Apr. 1, 1980; 54 FR 34114, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 56 FR 35911, July 29, 1991]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.9</SECTNO>
+      <SUBJECT>Miscellaneous provisions.</SUBJECT>
+      <P>(a) <E T="03">Violation of limitations.</E> No candidate or political committee shall accept any contribution or make any expenditure in violation of the provisions of part 110. No officer or employee of a political committee shall accept a contribution made for the benefit or use of a candidate, or make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this part 110.</P>
+      <P>(b) <E T="03">Fraudulent misrepresentation.</E> No person who is a candidate for Federal office or an employee or agent of such a candidate shall—</P>
+      <P>(1) Fraudulently misrepresent himself or any committee or organization under his control as speaking or writing or otherwise acting for or on behalf of any other candidate or political party or employee or agent thereof on a matter which is damaging to such other candidate or political party or employee or agent thereof; or</P>
+      <P>(2) Willfully and knowingly participate in or conspire to participate in any plan or design to violate paragraph (b)(1) of this section.</P>
+      <P>(c) <E T="03">Price index increase.</E> (1) Each limitation established by §§ 110.7 and 110.8 shall be increased by the annual percent difference of the price index, as certified to the Commission by the Secretary of Labor. Each amount so increased shall be the amount in effect for that calendar year.</P>
+
+      <P>(2) For purposes of paragraph (c)(1) of this section, the term <E T="03">price index</E> means the average over a calendar year of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics.</P>
+      <P>(d) <E T="03">Voting age population.</E> The Commission shall assure that there is annually published in the <E T="04">Federal Register</E> an estimate of the voting age population based on an estimate of the voting age population of the United States, of each State, and of each congressional district. The term <E T="03">voting age population</E> means resident population, 18 years of age or older.</P>
+      <CITA>[41 FR 35948, Aug. 25, 1976]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.10</SECTNO>
+      <SUBJECT>Expenditures by candidates.</SUBJECT>
+      <P>(a) Except as provided in 11 CFR parts 9001, <E T="03">et seq.</E> and 9031, <E T="03">et seq.</E>, candidates for Federal office may make unlimited expenditures from personal funds.</P>
+      <P>(b) For purposes of this section, <E T="03">personal funds</E> means—</P>
+
+      <P>(1) Any assets which, under applicable state law, at the time he or she became a candidate, the candidate had legal right of access to or control over, <PRTPAGE P="134"/>and with respect to which the candidate had either:</P>
+      <P>(i) Legal and rightful title, or</P>
+      <P>(ii) An equitable interest.</P>
+      <P>(2) Salary and other earned income from bona fide employment; dividends and proceeds from the sale of the candidate's stocks or other investments; bequests to the candidate; income from trusts established before candidacy; income from trusts established by bequest after candidacy of which the candidate is the beneficiary; gifts of a personal nature which had been customarily received prior to candidacy; proceeds from lotteries and similar legal games of chance.</P>
+      <P>(3) A candidate may use a portion of assets jointly owned with his or her spouse as personal funds. The portion of the jointly owned assets that shall be considered as personal funds of the candidate shall be that portion which is the candidate's share under the instrument(s) of conveyance or ownership. If no specific share is indicated by an instrument of conveyance or ownership, the value of one-half of the property used shall be considered as personal funds of the candidate.</P>
+      <CITA>[41 FR 35948, Aug. 25, 1976, as amended at 48 FR 19021, Apr. 27, 1983]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.11</SECTNO>
+      <SUBJECT>Communications; advertising (2 U.S.C. 441d).</SUBJECT>
+      <P>(a)(1) <E T="03">General rules.</E> Except as provided at paragraph (a)(6) of this section, whenever any person makes an expenditure for the purpose of financing a communication that expressly advocates the election or defeat of a clearly identified candidate, or that solicits any contribution, through any broadcasting station, newspaper, magazine, outdoor advertising facility, poster, yard sign, direct mailing or any other form of general public political advertising, a disclaimer meeting the requirements of paragraphs (a)(1) (i), (ii), (iii), (iv) or (a)(2) of this section shall appear and be presented in a clear and conspicuous manner to give the reader, observer or listener adequate notice of the identity of persons who paid for and, where required, who authorized the communication.</P>
+      <P>(i) Such communication, including any solicitation, if paid for and authorized by a candidate, an authorized committee of a candidate, or its agent, shall clearly state that the communication has been paid for by the authorized political committee; or</P>
+      <P>(ii) Such communication, including any solicitation, if authorized by a candidate, an authorized committee of a candidate or an agent thereof, but paid for by any other person, shall clearly state that the communication is paid for by such other person and is authorized by such candidate, authorized committee or agent; or</P>
+      <P>(iii) Such communication, including any solicitation, if made on behalf of or in opposition to a candidate, but paid for by any other person and not authorized by a candidate, authorized committee of a candidate or its agent, shall clearly state that the communication has been paid for by such person and is not authorized by any candidate or candidate's committee.</P>
+      <P>(iv) For solicitations directed to the general public on behalf of a political committee which is not an authorized committee of a candidate, such solicitation shall clearly state the full name of the person who paid for the communication.</P>
+      <P>(2) <E T="03">Coordinated Party Expenditures.</E> (i) For a communication paid for by a party committee pursuant to 2 U.S.C. 441a(d), the disclaimer required by paragraph (a)(1) of this section shall identify the committee that makes the expenditure as the person who paid for the communication, regardless of whether the committee was acting in its own capacity or as the designated agent of another committee.</P>
+      <P>(ii) A communication made by a party committee pursuant to 2 U.S.C. 441a(d) prior to the date the party's candidate is nominated shall satisfy the requirements of this section if it clearly states who paid for the communication.</P>
+      <P>(3) <E T="03">Definition of “direct mailing.”</E> For purposes of paragraph (a)(1) of this section only, “direct mailing” includes any number of substantially similar pieces of mail but does not include a mailing of one hundred pieces or less by any person.</P>
+      <P>(4) <E T="03">Exempt Activities.</E> For purposes of paragraph (a)(1) of this section only, the term “expenditure” includes a communication by a candidate or party <PRTPAGE P="135"/>committee that qualifies as an exempt activity under 11 CFR 100.8(b)(10), (16), (17), or (18). Such communications, unless excepted under paragraph (a)(6) of this section, shall clearly state who paid for the communication but do not have to include an authorization statement.</P>
+      <P>(5) <E T="03">Placement of Disclaimer.</E> The disclaimers specified in paragraph (a)(1) of this section shall be presented in a clear and conspicuous manner, to give the reader, observer or listener adequate notice of the identity of the person or committee that paid for, and, where required, that authorized the communication. A disclaimer is not clear and conspicuous if the printing is difficult to read or if the placement is easily overlooked.</P>
+      <P>(i) The disclaimer need not appear on the front or cover page of the communication as long as it appears within the communication, except on communications, such as billboards, that contain only a front face.</P>
+      <P>(ii) Each communication that would require a disclaimer if distributed separately, that is included in a package of materials, must contain the required disclaimer.</P>
+      <P>(iii) Disclaimers in a televised communication shall be considered clear and conspicuous if they appear in letters equal to or greater than four (4) percent of the vertical picture height that air for not less than four (4) seconds.</P>
+      <P>(6) <E T="03">Exceptions.</E> The requirements of paragraph (a)(1) of this section do not apply to:</P>
+      <P>(i) Bumper stickers, pins, buttons, pens and similar small items upon which the disclaimer cannot be conveniently printed;</P>
+      <P>(ii) Skywriting, watertowers, wearing apparel or other means of displaying an advertisement of such a nature that the inclusion of a disclaimer would be impracticable; or</P>
+      <P>(iii) Checks, receipts and similar items of minimal value which do not contain a political message and which are used for purely administrative purposes.</P>
+      <P>(7) <E T="03">Activities by separate segregated fund or its connected organization.</E> For purposes of paragraph (a)(1) of this section, whenever a separate segregated fund or its connected organization solicits contributions to the fund from those persons it may solicit under the applicable provisions of 11 CFR part 114, or makes a communication to those persons, such communication shall not be considered a form of general public political advertising and need not contain the disclaimer set forth in paragraph (a)(1) of this section.</P>
+      <P>(b)(1) No person who sells space in a newspaper or magazine to a candidate, an authorized committee of a candidate, or an agent of the candidate, for use in connection with the candidate's campaign for nomination or for election, shall charge an amount for the space which exceeds the comparable rate for the space for non-campaign purposes.</P>
+      <P>(2) For purposes of this section, <E T="03">comparable rate</E> means the rate charged to a national or general rate advertiser, and shall include discount privileges usually and normally available to a national or general rate advertiser.
+      </P>
+      <EXTRACT>
+        <FP>(2 U.S.C. 438(a)(8), 441a, 441d, 441e, 441f, 441g, 441h, 441i)</FP>
+      </EXTRACT>
+      <CITA>[41 FR 35948, Aug. 25, 1976, as amended at 45 FR 15122, Mar. 7, 1980; 48 FR 8809, Mar. 2, 1983; 60 FR 52072, Oct. 5, 1995]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.12</SECTNO>
+      <SUBJECT>Candidate appearances on public educational institution premises.</SUBJECT>
+      <P>(a) <E T="03">Rental of facilities at usual and normal charge.</E> Any unincorporated public educational institution exempt from federal taxation under 26 U.S.C. 115, such as a school, college or university, may make its facilities available to any candidate or political committee in the ordinary course of business and at the usual and normal charge. In this event, the requirements of paragraph (b) of this section are not applicable.</P>
+      <P>(b) <E T="03">Use of facilities at no charge or at less than the usual and normal charge.</E> An unincorporated public educational institution exempt from federal taxation under 26 U.S.C. 115, such as a school, college or university, may sponsor appearances by candidates, candidates’ representatives or representatives of political parties at which such individuals address or meet the institution's academic community or the general public (whichever is invited) on the educational institution's <PRTPAGE P="136"/>premises at no charge or at less than the usual and normal charge, if:</P>
+      <P>(1) The educational institution makes reasonable efforts to ensure that the appearances constitute speeches, question and answer sessions, or similar communications in an academic setting, and makes reasonable efforts to ensure that the appearances are not conducted as campaign rallies or events; and</P>
+      <P>(2) The educational institution does not, in conjunction with the appearance, expressly advocate the election or defeat of any clearly identified candidate(s) or candidates of a clearly identified political party, and does not favor any one candidate or political party over any other in allowing such appearances.</P>
+      <CITA>[60 FR 64273, Dec. 14, 1995]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.13</SECTNO>
+      <SUBJECT>Candidate debates.</SUBJECT>
+      <P>(a) <E T="03">Staging organizations.</E> (1) Nonprofit organizations described in 26 U.S.C. 501 (c)(3) or (c)(4) and which do not endorse, support, or oppose political candidates or political parties may stage candidate debates in accordance with this section and 11 CFR 114.4(f).</P>
+
+      <P>(2) Broadcasters (including a cable television operator, programmer or producer), <E T="03">bona fide</E> newspapers, magazines and other periodical publications may stage candidate debates in accordance with this section and 11 CFR 114.4(f), provided that they are not owned or controlled by a political party, political committee or candidate. In addition, broadcasters (including a cable television operator, programmer or producer), <E T="03">bona fide</E> newspapers, magazines and other periodical publications, acting as press entities, may also cover or carry candidate debates in accordance with 11 CFR 100.7 and 100.8.</P>
+      <P>(b) <E T="03">Debate structure.</E> The structure of debates staged in accordance with this section and 11 CFR 114.4(f) is left to the discretion of the staging organizations(s), provided that:</P>
+      <P>(1) Such debates include at least two candidates; and</P>
+      <P>(2) The staging organization(s) does not structure the debates to promote or advance one candidate over another.</P>
+      <P>(c) <E T="03">Criteria for candidate selection.</E> For all debates, staging organization(s) must use pre-established objective criteria to determine which candidates may participate in a debate. For general election debates, staging organizations(s) shall not use nomination by a particular political party as the sole objective criterion to determine whether to include a candidate in a debate. For debates held prior to a primary election, caucus or convention, staging organizations may restrict candidate participation to candidates seeking the nomination of one party, and need not stage a debate for candidates seeking the nomination of any other political party or independent candidates.</P>
+      <CITA>[61 FR 18051, Apr. 24, 1996; 61 FR 24533, May 15, 1996]</CITA>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 110.14</SECTNO>
+      <SUBJECT>Contributions to and expenditures by delegates and delegate committees.</SUBJECT>
+      <P>(a) <E T="03">Scope.</E> This section sets forth the prohibitions, limitations and reporting requirements under the Act applicable to all levels of a delegate selection process.</P>
+      <P>(b) Definitions—(1) <E T="03">Delegate.</E> Delegate means an individual who becomes or seeks to become a delegate, as defined by State law or party rule, to a national nominating convention or to a State, district, or local convention, caucus or primary that is held to select delegates to a national nominating convention.</P>
+      <P>(2) <E T="03">Delegate committee.</E> A delegate committee is a group of persons that receives contributions or makes expenditures for the sole purpose of influencing the selection of one or more delegates to a national nominating convention. The term <E T="03">delegate committee</E> includes a group of delegates, a group of individuals seeking selection as delegates and a group of individuals supporting delegates. A delegate committee that qualifies as a political committee under 11 CFR 100.5 must register with the Commission pursuant to 11 CFR part 102 and report its receipts and disbursements in accordance with 11 CFR part 104.</P>
+      <P>(c) <E T="03">Funds received and expended; Prohibited funds.</E> (1) Funds received or disbursements made for the purpose of furthering the selection of a delegate to a national nominating convention are contributions or expenditures for <PRTPAGE P="137"/>the purpose of influencing a federal election, see 11 CFR 100.2 (c)(3) and (e), except that—</P>
+      <P>(i) Payments made by an individual to a State committee or subordinate State committee as a condition for ballot access as a delegate are not contributions or expenditures. Such payments are neither required to be reported under 11 CFR part 104 nor subject to limitation under 11 CFR 110.1; and</P>
+      <P>(ii) Payments made by a State committee or subordinate State party committee for administrative expenses incurred in connection with sponsoring conventions or caucuses during which delegates to a national nominating convention are selected are not contributions or expenditures. Such payments are neither required to be reported under 11 CFR part 104 nor subject to limitation under 11 CFR 110.1 and 110.2.</P>
+
+      <P>(2) All funds received or disbursements made for the purpose of furthering the selection of a delegate to a national nominating convention, including payments made under paragraphs (c)(1)(i) and (c)(1)(ii) of this section, shall be made from funds permissible under the Act. <E T="03">See</E> 11 CFR parts 110, 114 and 115.</P>
+      <P>(d) <E T="03">Contributions to a delegate.</E> (1) The limitations on contributions to candidates and political committees under 11 CFR 110.1 and 110.2 do not apply to contributions made to a delegate for the purpose of furthering his or her selection; however, such contributions do count against the limitation on contributions made by an individual in a calendar year under 11 CFR 110.5.</P>
+      <P>(2) Contributions to a delegate made by the authorized committee of a presidential candidate count against the presidential candidate's expenditure limitation under 11 CFR 110.8(a).</P>
+      <P>(3) A delegate is not required to report contributions received for the purpose of furthering his or her selection.</P>
+      <P>(e) <E T="03">Expenditures by delegate to advocate only his or her selection.</E> (1) Expenditures by a delegate that advocate only his or her selection are neither contributions to a candidate, subject to limitation under 11 CFR 110.1, nor chargeable to the expenditure limits of any Presidential candidate under 11 CFR 110.8(a). Such expenditures may include, but are not limited to: Payments for travel and subsistence during the delegate selection process, including the national nominating convention, and payments for any communications advocating only the delegate's selection.</P>
+      <P>(2) A delegate is not required to report expenditures made to advocate only his or her selection.</P>
+      <P>(f) <E T="03">Expenditures by a delegate referring to a candidate for public office—</E>(1) <E T="03">Volunteer activities that do not use public political advertising.</E> (i) Expenditures by a delegate to defray the costs of certain campaign materials (such as pins, bumper stickers, handbills, brochures, posters and yard signs) that advocate his or her selection and also include information on or reference to a candidate for the office of President or any other public office are neither contributions to the candidate referred to nor subject to limitation under 11 CFR 110.1 provided that:</P>
+      <P>(A) The materials are used in connection with volunteer activities; and</P>
+      <P>(B) The expenditures are not for costs incurred in the use of broadcasting, newspapers, magazines, billboards, direct mail or similar types of general public communication or political advertising.</P>
+      <P>(ii) Such expenditures are not chargeable to the expenditure limitation of a presidential candidate under 11 CFR 110.8(a).</P>
+      <P>(iii) A delegate is not required to report expenditures made pursuant to this paragraph.</P>
+      <P>(2) <E T="03">Use of public political advertising.</E> A delegate may make expenditures to defray costs incurred in the use of broadcasting, newspapers, magazines, billboards, direct mail or similar types of general public communication or political advertising to advocate his or her selection and also include information on or reference to a candidate for the office of President or any other public office.</P>
+
+      <P>(i) Such expenditures are in-kind contributions to a Federal candidate if they are made in cooperation, consultation or concert with, or at the request or suggestion of, the candidate, <PRTPAGE P="138"/>his or her authorized political committee(s), or their agents. <E T="03">See</E> 11 CFR 100.7(a)(iii)(A); 2 U.S.C. 441a(a)(7)(B).</P>
+      <P>(A) The portion of the expenditure allocable to a Federal candidate is subject to the contribution limitations of 11 CFR 110.1.</P>
+      <P>(B) A Federal candidate's authorized committee must report the portion of the expenditure allocable to the candidate as a contribution pursuant to 11 CFR part 104.</P>
+      <P>(C) The portion of the expenditure allocable to a presidential candidate is chargeable to the presidential candidate's expenditure limitation under 11 CFR 110.8(a).</P>
+      <P>(ii) Such expenditures are independent expenditures under 11 CFR part 109 if they are made for a communication expressly advocating the election or defeat of a clearly identified Federal candidate that is not made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, the candidate or any agent or authorized committee of such candidate.</P>
+      <P>(A) Such independent expenditures must be made in accordance with the requirements of 11 CFR part 109.</P>
+      <P>(B) The delegate shall report the portion of the expenditure allocable to the Federal candidate as an independent expenditure in accordance with 11 CFR 109.2.</P>
+      <P>(3) <E T="03">Republication of candidate materials.</E> Expenditures made to finance the dissemination, distribution or republication, in whole or in part, of any broadcast or materials prepared by a Federal candidate are in-kind contributions to the candidate.</P>
+      <P>(i) Such expenditures are subject to the contribution limits of 11 CFR 110.1.</P>
+      <P>(ii) The Federal candidate must report the expenditure as a contribution pursuant to 11 CFR part 104.</P>
+      <P>(iii) Such expenditures are not chargeable to the presidential candidate's expenditure limitation under 11 CFR 110.8 unless they were made with the cooperation, or with the prior consent of, or in consultation with, or at the request or suggestion of, the candidate or any agent or authorized committee of such candidate.</P>
+      <P>(4) For purposes of this paragraph, <E T="03">direct mail</E> means any mailing(s) by commercial vendors or any mailing(s) made from lists that were not developed by the delegate.</P>
+      <P>(g) <E T="03">Contributions made to and by a delegate committee.</E> (1) The limitations on contributions to political committees under 11 CFR 110.1 and 110.2 apply to contributions made to and by a delegate committee.</P>
+      <P>(2) Contributions to a delegate committee count against the limitation on contributions made by an individual in a calendar year under 11 CFR 110.5.</P>
+      <P>(3) A delegate committee shall report contributions it makes and receives pursuant to 11 CFR part 104.</P>
+      <P>(h) <E T="03">Expenditures by a delegate committee to advocate only the selection of one or more delegates.</E> (1) Expenditures by a delegate committee that advocate only the selection of one or more delegates are neither contributions to a candidate, subject to limitation under 11 CFR 110.1 nor chargeable to the expenditure limits of any Presidential candidate under 11 CFR 110.8(a). Such expenditures may include but are not limited to: Payments for travel and subsistence during the delegate selection process, including the national nominating convention, and payments for any communications advocating only the selection of one or more delegates.</P>
+      <P>(2) A delegate committee shall report expenditures made pursuant to this paragraph.</P>
+      <P>(i) <E T="03">Expenditures by a delegate committee referring to a candidate for public office—</E>(1) <E T="03">Volunteer activities that do not use public political advertising.</E> (i) Expenditures by a delegate committee to defray the costs of certain campaign materials (such as pins, bumper stickers, handbills, brochures, posters and yard signs) that advocate the selection of a delegate and also include information on or reference to a candidate for the office of President or any other public office are neither contributions to the candidate referred to, nor subject to limitation under 11 CFR 110.1 provided that:</P>
+      <P>(A) The materials are used in connection with volunteer activities; and</P>
+
+      <P>(B) The expenditures are not for costs incurred in the use of broadcasting, newspapers, magazines, billboards, direct mail or similar types of general <PRTPAGE P="139"/>public communication or political advertising.</P>
+      <P>(ii) Such expenditures are not chargeable to the expenditure limitation of a presidential candidate under 11 CFR 110.8(a).</P>
+      <P>(iii) A delegate committee shall report expenditures made pursuant to this paragraph.</P>
+      <P>(2) <E T="03">Use of public political advertising.</E> A delegate committee may make expenditures to defray costs incurred in the use of broadcasting, newspapers, magazines, billboards, direct mail or similar types of general public communication or political advertising to advocate the selection of one or more delegates and also include information on or reference to a candidate for the office of President or any other public office. If such expenditures are in-kind contributions or independent expenditures under paragraphs (i) or (ii) below, the delegate committee shall allocate the portion of the expenditures relating to the delegate(s) and candidate(s) referred to in the communications between them and report the portion allocable to each.</P>
+      <P>(i) Such expenditures are in-kind contributions to a Federal candidate if they are made in cooperation, consultation or concert with or at the request or suggestion of the candidate, his or her authorized political committee(s), or their agents.</P>
+      <P>(A) The portion of the expenditure allocable to a Federal candidate is subject to the contribution limitations of 11 CFR 110.1. The delegate committee shall report the portion allocable to the Federal candidate as a contribution in-kind.</P>
+      <P>(B) The Federal candidate's authorized committee shall report the portion of the expenditure allocable to the candidate as a contribution pursuant to 11 CFR part 104.</P>
+      <P>(C) The portion of the expenditure allocable to a presidential candidate is chargeable to the presidential candidate's expenditure limitation under 11 CFR 110.8(a).</P>
+      <P>(ii) Such expenditures are independent expenditures under 11 CFR part 109 if they are made for a communication expressly advocating the election or defeat of a clearly identified Federal candidate that is not made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, the candidate or any agent or authorized committee of such candidate.</P>
+      <P>(A) Such independent expenditures must be made in accordance with the requirements of 11 CFR part 109.</P>
+      <P>(B) The delegate committee shall report the portion of the expenditure allocable to the Federal candidate as an independent expenditure in accordance with 11 CFR 109.2.</P>
+      <P>(3) <E T="03">Republication of candidate materials.</E> Expenditures made to finance the dissemination, distribution or republication, in whole or in part, of any broadcast or materials prepared by a Federal candidate are in-kind contributions to the candidate.</P>
+      <P>(i) Such expenditures are subject to the contribution limitations of 11 CFR 110.1. The delegate committee shall report the expenditure as a contribution in-kind.</P>
+      <P>(ii) The Federal candidate's authorized committee shall report the expenditure as a contribution pursuant to 11 CFR part 104.</P>
+      <P>(iii) Such expenditures are not chargeable to the presidential candidate's expenditure limitation under 11 CFR 110.8 unless they were made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, the candidate or any agent or authorized committee of such candidate.</P>
+      <P>(4) For purposes of this paragraph, <E T="03">direct mail</E> means any mailing(s) by commercial vendors or any mailing(s) made from lists that were not developed by the delegate committee or any participating delegate.</P>
+      <P>(j) <E T="03">Affiliation of delegate committees with a Presidential candidate's authorized committee.</E> (1) For purposes of the contribution limits of 11 CFR 110.1 and 110.2, a delegate committee shall be considered to be affiliated with a Presidential candidate's authorized committee if both such committees are established, financed, maintained or controlled by the same person, such as the Presidential candidate, or the same group of persons.</P>
+
+      <P>(2) Factors the Commission may consider in determining whether a delegate committee is affiliated under <PRTPAGE P="140"/>paragraph (j)(1) of this section with a Presidential candidate's authorized committee may include, but are not limited to:</P>
+      <P>(i) Whether the Presidential candidate or any other person associated with the Presidential authorized committee played a significant role in the formation of the delegate committee;</P>
+      <P>(ii) Whether any delegate associated with a delegate committee is or has been a staff member of the Presidential authorized committee;</P>
+      <P>(iii) Whether the committees have common or overlapping officers or employees;</P>
+      <P>(iv) Whether the Presidential authorized committee provides funds or goods in a significant amount or on an ongoing basis to the delegate committee, such as through direct or indirect payments for administrative, fundraising, or other costs, but not including the transfer to a committee of its allocated share of proceeds jointly raised pursuant to 11 CFR 102.17 or 9034.8;</P>
+      <P>(v) Whether the Presidential candidate or any other person associated with the Presidential authorized committee suggested, recommended or arranged for contributions to be made to the delegate committee;</P>
+      <P>(vi) Similar patterns of contributions received by the committees;</P>
+      <P>(vii) Whether one committee provides a mailing list to the other committee;</P>
+      <P>(viii) Whether the Presidential authorized committee or any person associated with that committee provides ongoing administrative support to the other committee;</P>
+      <P>(ix) Whether the Presidential authorized committee or any person associated with that committee directs or organizes the specific campaign activities of the delegate committee; and</P>
+      <P>(x) Whether the Presidential authorized committee or any person associated with that committee files statements or reports on behalf of the delegate committee.</P>
+      <P>(k) <E T="03">Affiliation between delegate committees.</E> Delegate committees will be considered to be affiliated with each other if they meet the criteria for affiliation set forth at 11 CFR 100.5(g).</P>
+      <CITA>[52 FR 35534, Sept. 22, 1987]</CITA>
+    </SECTION>
+  </PART>
+</CFRGRANULE>
